@@ -553,20 +553,52 @@ body[data-theme="dark"] .song-film {
   }
 
   .app-shell {
-    padding: 12px;
-    gap: 12px;
+    padding: 8px;
+    gap: 8px;
+    grid-template-rows: auto auto minmax(0, 1fr);
   }
 
   .topbar {
-    gap: 12px;
+    gap: 8px;
+    min-height: 34px;
   }
 
   .brandmark {
-    max-width: 110px;
+    max-width: 72px;
   }
 
   .controls {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px;
+    padding: 8px;
+    align-items: center;
+  }
+
+  .search-field,
+  .sort-field {
+    gap: 4px;
+    font-size: 0.8rem;
+  }
+
+  .field-label {
+    font-size: 0.72rem;
+    line-height: 1;
+  }
+
+  .sort-field {
+    min-width: 112px;
+  }
+
+  input[type="search"],
+  select {
+    padding: 9px 10px;
+    font-size: 0.88rem;
+  }
+
+  .icon-button {
+    width: 34px;
+    height: 34px;
+    font-size: 0.9rem;
   }
 
   .content-grid {
@@ -591,7 +623,7 @@ body[data-theme="dark"] .song-film {
   }
 
   .reader {
-    padding: 14px;
+    padding: 10px;
   }
 
   .notes-layout-dual {
@@ -604,7 +636,20 @@ body[data-theme="dark"] .song-film {
   }
 
   .reader-meta h2 {
-    font-size: clamp(1.7rem, 6vw, 2.3rem);
+    font-size: clamp(1.45rem, 5.2vw, 2rem);
+  }
+
+  .film-name {
+    font-size: 0.9rem;
+  }
+
+  .reader-header {
+    gap: 8px;
+  }
+
+  .notes-block {
+    padding: 12px;
+    font-size: 0.95rem;
   }
 
   .field-grid {

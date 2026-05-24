@@ -599,17 +599,23 @@ function escapeHtml(value) {
 }
 
 function syncResponsiveLayout() {
-  if (state.selectedSongId) {
-    selectSong(state.selectedSongId, { revealMobile: false });
-  }
-
   if (isMobileLayout()) {
+    elements.notesLayout.classList.remove("notes-layout-dual");
+    elements.notesContentSecondary.classList.add("hidden");
+
+    if (state.selectedSongId) {
+      selectSong(state.selectedSongId, { revealMobile: false });
+    }
+
     if (state.mobileView !== "reader" || !state.selectedSongId) {
       setMobileView("list");
     } else {
       setMobileView("reader");
     }
   } else {
+    if (state.selectedSongId) {
+      selectSong(state.selectedSongId, { revealMobile: false });
+    }
     document.body.dataset.mobileView = "desktop";
   }
 }
