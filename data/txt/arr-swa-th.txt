@@ -1,0 +1,107 @@
+Title: swasamae
+Film: Thennali
+Source URL: https://www.newtfmpage.com/notes/arr/swa_th.txt
+
+s r2 g3 m1 p d2 n3 S
+
+Enna solli ennai soola
+p m2 m  r  n.r   s  s
+G F# F  D  B.D   C  C
+
+Kadhal ennai kaiyaal thalla (2)
+p m2   m r   n. r    s   s
+G F#   F D   B. D    C   C
+
+Ithayamthan sarinthathae unnidam  mella
+n.s r  g    r g  m  p    dnS R    Sd p
+B.C D  E    D E  F  G    ABC+ D+ C+A G
+
+Swaasamae        swaasamae
+m2pSd dSpdm2p    rgm dp mpg
+F#GC+A AC+GAF#G  DEF AG FGE
+
+Jannal kaatraagi vaa
+s  r   s  r   s  r
+C  D   C  D   C  D
+
+Jarigai poovaagi vaa
+r r g   r  g  r  g
+D D E   D  E  D  E
+
+Minnal malaiyaagi vaa
+g  m2  g g  m2 g  m2
+E  F#  E E  F# E  F#
+
+uyirin mootchaagi vaa (2)
+m2dm2  m   g   r  s
+F#AF#  F   E   D  C
+
+[please refer to notes for above lines; these are similar]
+
+Swaasamae swaasamae (2)
+Enna solli ennai soola
+Kadhal ennai kaiyal thilla (2)
+Ithayamthan sarinthathae unnidam mella
+
+Vaasamae vaasamae (2)
+Enna solli ennai soola
+Kangal rendi kangal sella
+Siragugal mulaikuthae manasukul mella
+
+Jannal katragi vaa
+Jarigai poovagi vaa
+Minnal malaiyaagai vaa
+uyirin mootchagi vaa (2)
+
+Stanza 1:
+
+Idathu kanaalae ahimseigal  seithaai
+gp n   d S  S   nd  n  S    nd p  g
+EG B   A C+ C+  BA  B  C+   BA G  E
+
+Valathu kanaalae   vanmurai seithaai (2)
+g p n   nd dS S    GR S d   pg g2
+E G B   BA AC+ C+ E+D+ C+ A GE D#
+
+Aarrarivoedu uyirathu kondaen
+g  g p gr s  gp m2d   pm2 grg
+E  E G ED C  EG F#A   GF# EDE
+
+Yezhaam arivaalae kaadhal vara kandaen
+g r     gp gr sd. g  p    m2d  pm2 grg
+E D     EG ED CA. E  G    F#A  GF# EDE
+
+Iyarkai koalaa...ril      iyangiya ennai
+gg  g   p  gr gr sd. sd.  gp  m2d  pm2 grg
+EE  E   G  ED ED CA. CA.  EG  F#A  GF# EDE
+
+Seyarkai koalaa...ga       Unnai sutra vaithaai
+g r  g   p  rgr   sd. sd.  g p   m2d   pm2 grg
+E D  E   G  DED   CA. CA.  E G   F#A   GF# EDE
+
+Anu sakthi paarvaiyil  uyir sakthi thanthaai (2)
+n.s r  g   r   g  m p  dn   S  R   Sd  p
+B.C D  E   D   E  F G  AB   C+ D+  C+A G
+
+Swaasamae swaasamae (2)
+
+Stanza 2: (notes similar to Stanza 1)
+
+Isaithatdhu poela iruntha en nenjai
+Parakum thatdhagaa parantida seithai
+Nathigal illatha arabuthai sonnal
+Nail nathiyaaga enakkulai vantai
+Nilavu illatha buthan kiragam naanae
+Mulu nilavaaga ennudan sernthai
+Enakkaga nee kidaithai
+Vidinthu vithanae
+
+Vaasamae vaasamae (2)
+
+Enna solli ennai soola (2)
+Kadhal ennai kaiyal thilla
+
+Jannal katragi vaa
+Jarigai poovagi vaa
+Minnal malaiyaagai vaa
+uyirin mootchagi vaa (3)

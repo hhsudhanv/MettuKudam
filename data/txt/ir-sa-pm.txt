@@ -1,0 +1,65 @@
+Title: saalaiyoaram soalai onru
+Film: Payanangal Mudivathillai
+Source URL: https://www.newtfmpage.com/notes/ir/sa_pm.txt
+
+s r2 g3 m2 p d2 n3 S
+r=r2, g=g3, m=m2, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+saalaiyoram solaiyonru koodum sangeedham paadum
+s  r  g r   s r  g  r  sd.d.  s  d. p.   p. p.
+C  D  E D   C D  E  D  CA.A.  C  A. G.   G. G.
+
+kannaalanaip paarththu kannoarangal vaerththu
+p. d. s r    g  r  r   p. d. s  r   g  r  r
+G. A. C D    E  D  D   G. A. C  D   E  D  D
+
+(saalai)
+
+Stanza 1:
+
+paavai  ival paarthu vittaal
+p  p    mp   g   g2  g  g  s
+G  G   F#G   E   D#  E  E  C
+
+paalaivanam ootredukkum
+p  p  mp    g g2 g  g
+G  G F#G    E D# E  E
+
+kannimaigal thaan asaindhaal
+p  p m p    g     g2g  g  s
+G  G F# G   E     D#E  E  C
+
+nandhavanakkaatradikkum
+p  p  mp   g  g2 p  g
+G  G  F#G  E  D# G  E
+
+neengal   ennai  paarththaal kuliredukkum
+gm  m     m m    gm d  m g r r r m m  p
+EF# F#   F# F#   EF#A F# E D D D F#F# G
+
+manadhukkul aenoa    mazhaiyadikkum
+gmm m   m   gmdmgr   r r   m m  p
+EF#F# F# F# EF#AF#ED D D  F# F# G
+
+paarijaadha vaasam naeram paarthu veesum (2)
+d  n d  p   m  p   d  n   d   p   m  p
+A  B A  G  F#  G   A  B   A   G  F#  G
+
+ mottuk kadhavai thottu vandugal thattugindradhae ippoadhu
+ m  m   m d  m   r   r  r  m r   n.  n.n. r  n.   p.d. n.
+F# F#  F# A F#   D   D  D F# D   B.  B.B. D  B.   G.A. B.
+
+(saalai)
+
+Stanza 2: (notes similar to Stanza 1)
+
+kadarkarai eeraththilae kaaladigal nee padhikka
+alai vandhu azhiththadhanaal kanni manam thaan thudikka
+kadalukkuk kooda eeram illaiyoa
+niyaayangalaik kaetka yaarumillaiyoa
+saerththu vaiththa dhaagam kannaa inru theerum (2)
+paesum killaiyae dhaeva mullaiyae naeram illaiyae ippoadhu
+
+(saalai)

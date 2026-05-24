@@ -1,0 +1,69 @@
+Title: Neeyaa azhaiththadhu
+Film: Alai Osai
+Source URL: https://www.newtfmpage.com/notes/ir/neeya.txt
+
+s r1 g2 p n2 S
+here, r=r1, g=g2, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ neeyaa azhaiththadhu en nenjil    minnal adiththadhu
+ n. s   sr     g  gs  s  sr sn.    n. s   sr   g  gs
+A#. C   CC#   D# D#C  C  CC# CA#. A#. C   CC#  D# D#C
+
+silirkkiraen  venneer aatril kulikkiraen
+s r   g gp    g  pg   pgpg   s r  g gp
+C C# D# D#G  D#  GD#  GD#GD# C C# D# D#G
+
+thavikkiraen ennai naanae   anaikkiraen
+s  r  g gp   g pg  pg pg    sr   g gp
+C C# D# D#G D# GD# GD# GD#  CC# D# D#G
+
+ sirikkiraen  thanimaiyil  enai
+ g p  n nS    S  n p  g    rs
+D# G A# A#C+ C+ A# G D#   C#C
+
+(neeyaa)
+
+Stanza 1:
+
+ thanneeril    vennilavu  neeraadumaa
+ n   nR S      R  S n p   p  n  R S
+A#  A#C#+ C+ C#+ C+ A# G  G A# C#+ C+
+
+ vennilavu    tharaivandhaal aaroadumaa
+ n  n R S     R  S  n  p     p n  R S
+A# A# C#+ C+ C#+ C+ A# G     G A# C#+ C+
+
+ penmai  kuliththadhil thannai marandhadhu neeroadai
+ np np   n p   g  p    np  np  n p  g  r   srgrgpgpn
+A#G A#G A# G  D#  G   A#G A#G A# G D# C#   CC#D#C#D#GD#GA#
+
+ tharaiyil irundhadhu kaatril  parandhadhu maelaadai
+ n  p  np  np  g  p   np np    n p  g  r   srgrgpgpn
+A#  G A#G A#G D#  G  A#G A#G  A# G D# C#   CC#D#C#D#GD#GA#
+
+ kaatrae  vaazhga kaadhal dhaevan nanri  solgiraan
+ S  n     R    S  S  n    R   S   n  R   S  n np
+C+ A#    C#+  C+ C+ A#   C#+ C+  A# C#+ C+ A# A#G
+
+ enna leelai kannan vaelai
+ n p  S  n   p  g   n  p
+A# G C+ A#   G D#  A#  G
+
+ilaigalil  udai kodu  illai  oru  vazhi  vidu
+sr  r g    gp   pn    n S    Sn   p g    r s
+CC# C# D# D#G   GA#  A# C+  C+A#  G D#  C# C
+
+(neeyaa)
+
+Stanza 2: (notes similar to Stanza 1)
+
+thalaivanae viraivinil pen paarkka vaa
+kaalangal kaniyattum kai saerkka vaa
+saelaip pookkalil thaenai thaeduthu ponvandu
+aasai nadhiyinil aazham paarkira naalenru?
+enni yengum kanni nenjam palli kollumaa?
+kaelvi enna gaeli enna
+enna idhil varaimurai thenral thodum idhuvarai
+
+(neeyaa)

@@ -1,0 +1,99 @@
+Title: Vaerenna (Ivan yaaro)
+Film: Minnale
+Source URL: https://www.newtfmpage.com/notes/new/vaer_m.txt
+
+s r2 g2 m1 p d1 n2 S
+
+Vearenna vearenna vaendum  Oru  murai sonnaal poathum
+n  n  S  S  S  S  R   S    nn   n S   S  S    R  S
+A# A# C+ C+ C+ C+ D+  C+   A#A# A# C+ C+ C+   D+ C+
+
+ Nilavaiyum unthan kaal mithiyaai veipenne   veipenne    veipenne...
+ n n n  S   S S    n    n S  S    P  PR R    P  PR R     P  PR R
+A# A# A# C+ C+ C+  A#  A# C+ C+  G+ G+D+ D+  G+ G+D+ D+  G+ G+D+ D+
+
+Sollavum kooda vaendaam, kannimaithaale poathum...
+n  n S   S  S  R   S     n  n S  S   S  R  S
+A# A# C+ C+ C+ D+  C+    A# A#C+ C+  C+ D+ C+
+
+Kaelvighal indri  uyiraiyum naan tharuvaenne...
+n   n S    S S    nn n  S   S    P  P PR  R
+A#  A# C+  C+ C+ A#A# A#C+  C+   G+ G+ G+D+  D+
+
+Oh   ho ho ho oh... Oh     ho
+G3M  M  G3 R  S     RG3R   S
+E+F+ F+ E+ D+ C+    D+E+D+ C+
+
+Oh
+   maunam maunam maunam maunam yean maunam yean
+G3M   M  M   M  G3  R  S   RG3R   S    RG3R   S
+E+F+ F+  F+  F+ E+ D+  C+  D+E+D+ C+   D+E+D+ C+
+
+Vearenna    vaendum vaendum seighiren
+ seighiren
+G3M M M     M   P   D2  P   RG3 R S    RG3 R S
+E+F+ F+ F+  F+  G+  A+  G+  D+E+ D+ C+ D+E+ D+ C+
+
+Evan yaaro evan yaaro vanthathu etharkaagha?
+rm   gr s  rm   gr s  rm m  p   pp   p  p
+DF   D#DC  DF   D#DC  DF F  G   GG   G  G
+
+Sirikindraan rasikindraan enakke enakaagha
+r m gr s     r m gr s     rm  mp pp p  p
+D F D#DC     D F D#D C    DF  FG GG G  G
+
+Ennaachu     enakke   theriyavillai
+p pS SR      nS  nd   p  p p p  p
+G GC+ C+D+  A#C+ A#G# G  G G G  G
+
+en moochin   kaaichal kuraiyavillai
+p  pS SR     nS  nd2  p p  p p  p
+G  GC+ C+D+ A#C+ A#A  G G  G G  G
+
+Ada yenna   ithu yenna ithu ippadi  maatti kondaen,
+pp  pn d    pm   md p  mg   gpm g   r   s  n3.s
+GG  GA# G#  GF   FG# G FD#  D#GF D# D   C  B.C
+
+Ithu pidikiratha pidikalaiyaa yaar idam kaettu  sollvaen ?
+pp   p n d p m   m d p m  g   gp   mg   r   s   n3. s
+GG   G A# G# G F F G#G F  D#  D#G  FD#  D   C   B.  C
+
+(Evan yaaro)
+
+Stanza 1:
+
+Thoattathil ulla   thoattathil ulla    pookkal ellaame, vanna    pookkal ellaame
+n    n S    S Sn   n    n S    S Sn    nS  nd2 p p  p   S  Sn    nS  nd2 p p  p
+A#   A#C+   C+C+A# A#   A#C+  C+ C+A# A#C+ A#A G G  G   C+ C+A# A#C+ A#A G G  G
+
+Thalaiyai thiruppi   paarkum  aanal    azhaithadhu unaithaane
+naanum  azhaithadhu unaithaane..
+n  n  n   S  S  Sn   n   nS   S Sn     nS   n  S   nd2 p   p  S  Sn   nS   G  R   nd2 p   p
+A# A# A#  C+ C+ C+A# A#  A#C+ C+ C+A#  A#C+ A# C+  A#A G   G  C+ C+A# A#C+ D#+ D+ A#A G   G
+
+Nenje    nenje   unnai       ulle    vaithathu yaaru
+SR R     R  RS   R G RS      SR R    R  R  S   RP M
+C+D+ D+  D+ D+C+ D+ D#+ D+C+ C+D+ D+ D+ D+ C+  D+G+ F+
+
+nee varum paathai   enggum
+d2  M M   MP MP     G  R
+A   F+F+  F+G+ F+G+ D#+ D+
+
+En iru     ullanghai  thaanggum
+R  DD      D D  PM    MD    P
+D+ G#+G#+ G#+G#+ G+F+ F+G#+ G+
+
+(Evan yaaro)
+
+Stanza 2: (notes similar to Stanza 1)
+
+Hmmm
+ kaalgalin koluse kaalgalin koluse koabam varuhirathe
+ un mel koabam varuhirathe...
+Naanatha idathil sinunghida thudithaen nee vanthu keduthaiye
+paavi nee vanthu keduthaiye
+Yeano yeano ennai marthu seithai unnai
+Naan unnai kaane thaana
+yugham thoram kaathu kedanthenno
+
+(Evan yaaro)

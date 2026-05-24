@@ -1,0 +1,96 @@
+Title: Kandukonden kandukonden (gamakams made approx for ease of playing)
+Film: Kandukonden kandukonden
+Source URL: https://www.newtfmpage.com/notes/arr/kan_kk.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+kaNdukoNdaen kaNdukoNdaen kaadhal mugam kaNdukoNdaen (2)
+s  g r  m    p  n d  S    s  g    r m   p  n d  S
+C  E D  F    G  B A  C+   C  E    D F   G  B A  C+
+
+viral thodum dhooraththilae veNNilavu kandukondaen
+s g   r  m   p   n   d  S   s  m r m  p  n d  S
+C E   D  F   G   B   A  C+  C  F D F  G  B A  C+
+
+veNNilaa veLichcham kiNNaththil vizhundhu niRaindhaal   vazhindhaal magizhchchi
+S  S S   S S   S    S  S   S    n R   S   S G   RGM     GRS   S     n n     S   dp
+C+ C+ C+ C+ C+ C+   C+ C+  C+   B D+  C+  C+ E+ D+E+F+ E+D+C+ C+    B B     C+  AG
+
+veNNilaa veLichcham kiNNaththai udaiththaal uyirai      udaippaaL oruththi
+S  S S   S S   S    g  p   S    n R   S     SG RGM      GRS  S    nn   S
+C+ C+ C+ C+ C+ C+   E  G   C+   B D+  C+   C+E+ D+E+F+ E+D+C+ C+  BB   C+
+
+en kaN paarththadhu en kai saerumoa
+S  S   g     m  gmp S  S   g  m gmp
+C+ C+  E     F  EFG C+ C+  E  F EFG
+
+kai saeraamalae kaNNeer saerumoa
+S   S  g  m gmp S  S    g  m gmp mrs
+C+ C+  E  F EFG C+ C+   E  F EFG FDC
+
+kaNdukoNdaen kaNdukoNdaen kaadhal mugam kaNdukoNdaen
+s  g r  m    p  n d  S    s  g    r m   p  n d  S
+C  E D  F    G  B A  C+   C  E    D F   G  B A  C+
+
+malarmanjam vizhi kenjum manam anjumallavaa
+S S  S  S   S S   S  S   S S   S S n  RSn
+C+ C+ C+ C+ C+ C+ C+ C+ C+ C+ C+ C+ B D+C+B
+
+uyir minjum ivaL nenjam un thanjamallavaa
+S S  S  S   gg   g  S   S  S   S nR S n
+C+ C+ C+ C+ EE   E  C+ C+  C+ C+ BD+ C+ B
+
+un thanimaik     kadhavin   thaaL neekkavaa
+dn S  G RGM      GRS  S     S   g g   m gmp  mrs
+AB C+ E+ D+E+F+  E+D+C+ C+ C+   E E   F EFG  FDC
+
+kaNdukoNdaen kaNdukoNdaen kaadhal mugam kaNdukoNdaen
+s  g r  m    p  n d  S    s  g    r m   p  n d  S
+C  E D  F    G  B A  C+   C  E    D F   G  B A  C+
+
+Stanza 1:
+
+maegam thiRandhaal adhaRkuL un mugam paarkkiRaen
+gp p   p  m2 dp    rm   d   n  g p   G    R S
+EG G   G  F# AG    DF   A   B  E G   E+  D+ C+
+
+pookkaL thiRandhaal adhaRkuL un kural kaetkiRaen
+gp  p   m2 d  p     rm   d   n  g p   G    R S
+EG  G   F# A  G     DF   A   B  E G   E+  D+ C+
+
+kaNgaLaith thiRandhun kanavugaL vaLarkkum
+dn n n     n  nR S    p dpm g   g mg  mp
+AB B B     B  BD+ C+  G AGF E   E FE  FG
+
+kaadhalin viralgaL kallaiyum thiRakkum
+dn n n    n nR S   pdpm  g   g  mg mp
+AB B B    B BD+ C+ GAGF  E   E  FE FG
+
+unnaith thaediyae ini enadhu payaNamoa
+r r     m   m md  dS  gg g   p p p pS
+D D     F   F FA  AC+ EE E   G G G GC+
+
+endhan saalaigaL un  veettil mudiyumoa
+r r    m  m  d   dS  g   g   p p p S
+D D    F  F  A   AC+ E   E   G G G C+
+
+ae kanavu mangaiyae unadhu manadhu enadhu  manadhil iNaiyumoa
+mg r r r  m  m  md  gg p   G G R   SS n    R R S    nn  S dpmg
+FE D D D  F  F  FA  EE G  E+ E+ D+ C+C+ B D+ D+ C+  BB C+ AGFE
+
+(kaNdukoNdaen kaNdukoNdaen)
+
+Stanza 2: (notes similar to Stanza 1)
+
+nadhiyin thaedal kadaisiyil kadal kaaNbadhu
+uyirin thaedal kadaisiyil unaikkaaNbadhu
+kadal konda nadhiyoa mugam thanai izhakkum
+naan unnil kalandhaal pudhu mugam kidaikkum
+natchaththirangaLai oru naaril kattuvaen
+endha naeramum un kadhavu thattuvaen
+ae kaadhal dhaevanae enadhu imaiyil unadhu vizhigaL mooduvaen
+
+(kaNdukoNdaen kaNdukoNdaen)

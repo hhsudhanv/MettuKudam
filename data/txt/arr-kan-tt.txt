@@ -1,0 +1,86 @@
+Title: Kannum Kannum
+Film: Thiruda thiruda
+Source URL: https://www.newtfmpage.com/notes/arr/kan_tt.txt
+
+s r2 m1 p d1 S
+Notes: s r2 g2 p d2 S
+
+Kannum Kannum Kollaiadithal
+s  r   m  r   m  p  dp mr
+p  d   S  d   S  R  GR Sd
+
+Kaadhal Endru Artham
+s  r    m  r  m m
+p  d    S  d  S S
+
+Kadalaivanam Kollaiadithal
+s s r  m r   m  p  dp mr
+p p d  S d   S  R  GR Sd
+
+Megham Endru Artham
+s r    m  r  m m
+p d    S  d  S S
+
+Poovai Vandu Kollaiadithal
+p  d   p  p  p  p  pp mr
+R  G   R  R  R  R  RR Sd
+
+Pudhayal Endru Artham
+m m  p   d  m  p p
+S S  R   G  S  R R
+
+Pudhayal Ennai Kollaiadithal
+p p  d   p p   p  p  pp pd
+R R  G   R R   R  R  RR RG
+
+Maccham Endre Artham Artham
+S  S    S  S  S d    p m
+P  P    P  P  P G    R S
+
+Stanza 1:
+
+Paravaigal Thondrinaal
+p p d  S   p    d S
+R R G  P   R    G P
+
+Nadigal Pakkam Endru Artham
+r m p   d  d   d  m  p p
+d S R   G  G   G  S  R R
+
+Paarkadal Ponginaal
+p   d S   p  d S
+R   G P   R  G P
+
+Vaanil Pournami Endru Artham
+rm p   d   d d  d  m  p p
+dS R   G   G G  G  S  R R
+
+Aalillamal Adikadi Sirithaal
+m r  mrmr  mm p d  p p mr
+S d  SdSd  SS R G  R R Sd
+
+hmmm mmm Endru Artham
+m    r   m pd  p m
+S    d   S RG  R S
+
+Azhagu Pennin Thayarendraal
+mm  r  mr mr  m  pd p  m
+SS  d  Sd Sd  S  RG R  S
+
+Athai Endru Artham Artham
+SS    S  S  S d    p m
+PP    P  P  P G    R S
+
+Stanza 2: (notes similar to Stanza 1)
+
+Thavidum Odaikal Nadiyin
+Thangaikal Endru Artham
+
+Thoovidum Thooralkal Mazhaiyin
+Thozhikal Endru Artham
+
+Iravinmeedhu Vellaiadithal
+Vidiyal Endru Artham
+
+Edhiri Perai Solliadithal
+Vetri Endru Artham Artham

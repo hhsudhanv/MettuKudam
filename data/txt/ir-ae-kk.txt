@@ -1,0 +1,50 @@
+Title: Aedho mogam
+Film: Kozhi koovudhu
+Source URL: https://www.newtfmpage.com/notes/ir/ae_kk.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+aedhoa moagam aedhoa dhaagam
+r g    r  r   s r    d.  p.
+D D#   D  D   C D    G#. G.
+
+naeththu vara nenakkallaiyae
+m.p. d.  m.p. m.p. d. m. p.
+F.G. G#. F.G. F.G. G#.F. G.
+
+aasa    vedha molakkallaiyae
+m.p.d.  m. p. m.p. d. m. p.
+F.G.G#. F. G. F.G. G#.F. G.
+
+saedhi enna vanakkiliyae
+p. m   g r  s r  g r s
+G. F   D# D C D D# D C
+
+(aedhoa)
+
+thaazham poovu eeramaachchu thalaiyil sooda  naeramaachchu (2)
+rg  g    g  g  rgg g    g   g  r  s   r  s   gr s s    s
+DD# D#   D# D# DD#D# D# D#  D# D  C   D  C  D#D C C    C
+
+soodu     kondu  ee......ramoochchu thoalak koththak  kaayamaachchu (2)
+d.n.n.    n. n.  d.n.    n.n.   n.  d.  p.  d.  p.    d. p.p.   p.
+G#.A#.A#. A#.A#. G#.A#. A#.A#.  A#. G#. G.  G#. G.   G#. G.G.   G.
+
+paarvaiyaalae nooru paechchu vaarththai ingu moorchchaiyaachchu (2)
+mp  p  p  p   mp p  p    p   m     p    m g  mp    p   p    p
+FG  G  G  G   FG G  G    G   F     G    F D# FG    G   G    G
+
+poadhum poadhum kaadhal dhaevanae moochchu vaangudhae rendu jee...vanae
+s  s    g3r g3  m  m    g3  g3 r  r    g   r   s sn.  n.sr  n.s   n.d.p.
+C  C    ED  E   F  F    E   E  D  D    D#  D   C CA#. A#.CD A#.C A#.G#.G.
+
+(aedhoa)
+
+ponnukkenna aachchu naeththu nenjukkulla saarakkaaththu (2)
+thotta baagam thottup paarththu saayvadhenna kangal kooththu
+akkam pakkam suththip paarththu thalaikkumaela thanni ooththu (2)
+vidiyach cholli koazhi koovudhu indha vaelaiyil nenju thaavudhu
+
+(aedhoa)

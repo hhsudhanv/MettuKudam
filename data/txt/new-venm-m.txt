@@ -1,0 +1,78 @@
+Title: Venmathi
+Film: Minnale
+Source URL: https://www.newtfmpage.com/notes/new/venm_m.txt
+
+s r2 g2 m1 p d1 n3 S
+
+ Venmathi  venmathiye nillu, nee  vaanakum   meghaathukkum sollu
+ G  G R    R  S S  n  nS S   SR   G  G R     R S   S   n   nS S
+D#+ D#+ D+ D+ C+C+ B  BC+ C+ C+D+ D#+ D#+ D+ D+ C+ C+  B   BC+C+
+
+ Vaanamthan  unnodaiya ishtam  endraal,   meghathakku illai  oru  nashtam
+ G  G  R     R S S  n  nS S    RP GR      G G  R      R S    RSn  n   S
+D#+ D#+ D+  D+ C+ C+ B BC+ C+ D+G+ D#+D+ D#+ D#+ D+  D+ C+  D+C+B B   C+
+
+Unnai endradda naan marappaene naan marappaene
+M M   M G3  M  M    G3M  P  G3 M    G3M  PDPD G3
+F+ F+ F+ E+ F+ F+   E+F+ G+ E+ F+   E+F+ G+G#+G+G#+ E+
+
+ Unnaale    nenjil pootha kaadhal melum melum thunbam thunbam  vaendaam
+ D D  P     P  M   M  G   G  R    S R   S R   S   R   S   RP   G   R
+G#+ G#+ G+  G+ F+  F+ D#+ D#+D+   C+ D+ C+ D+ C+  D+  C+  D+G+ D#+ D+
+
+(Venmathi)
+
+Stanza 1:
+
+Jannalin vazhi vanthu vizhunthathu
+g  m g   m g   r  m   p d   p  m
+D# F D#  F D#  D  F   G G#  G  F
+
+minnalin oli   athil therinthathu
+g  m g   mg    rm    p  d  p  m
+D# F D#  FD#   DF    G  G# G  F
+
+azhagu daevathai athisaya mughame
+pd2 d2 d2 m m    d2n2S n2 d2S  n2
+GA  A  A  F F    AA#C+ A# AC+  A#
+
+Aah ha..
+n2GR    n2dpm
+A#D#+D+ A#G#GF
+
+Thee pori ezha eru vizhighalum
+g    m g  mg   rm  p d  p  m
+D#   F D# FD#  DF  G G# G  F
+
+thee kuchi ena enai urasida
+g    m g p mg  rm   pd p m
+D#   F D#G FD# DF   GG#G F
+
+Koadi pookkalaai malarnthathu maname
+pd2d2 d2  m m    d2n2  S  n2  d2S n2
+GA A  A   F F    A A#  C+ A#  AC+ A#
+
+Aval azhaghai paada  oru  mozhi illaye,  alanthu paarka pala vizhi illaiye
+n2n  SS  p    S  G   RS   n2n2  d2S n2   dd  p   d   S  n2d  p p   m d  p
+A#B  C+C+ G   C+ D#+ D+C+ A#A#  AC+ A#  G#G# G   G#  C+ A#G# G G   F G# G
+
+Enna iruntha poathum aval ena...thillaiye, maranthupo en  maname
+n2n  SS  p   S  G    RS   n2n2  d2  S  n2  d d  g  d  d   S G R
+A#B  C+C+G   C+ D#+  D+C+ A#A#  A   C+ A#  G#G# D# G# G# C+ D#+ D+
+
+(Venmathi)
+
+Stanza 2: (notes similar to Stanza 1)
+
+Nenjinal varai aval porinthathu, aasaiyil mazhai athil nanainthathu
+Nooru jenmanghal ninaivinil irrukum, athu pol entha naal varai
+Uyir urughiye antha naal sugham, athai ninaikayil
+Raththa naadighal rathiri vedikum
+Oru nimisham kuude ennai piriyavillai, vivaram yethum aval ariyavillai
+Ennai irunthu pothum aval ennathillaye, marunthupo en maname
+La la la la la la....leh
+.
+Unnai endradda naan marupenne naan marupenne
+Unnalle nenjil pootha kaadhal melum melum thunbam thunbam vendam
+
+(Venmathi)

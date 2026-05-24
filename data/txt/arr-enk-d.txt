@@ -1,0 +1,49 @@
+Title: En Kaadhale
+Film: Duet
+Source URL: https://www.newtfmpage.com/notes/arr/enk_d.txt
+
+s r2 g3 m1 p d2 n2 S
+
+en kaadhale en kaadhale ennai enna  seiya pogiraai
+sr gm p  pd mg rm g  rs s n.  d.n.  s  m  g s r
+CD EF G  GA FE DF E  DC C A#. A.A#. C  F  E C D
+
+naan o..viyan endru therindhum nee yaen  kannirendai kaetkiraai
+sr   gm p pd  m g   r  m  g    rs  s n.  d.n. s  m   g   rss
+CD   EF G GA  F E   D  F  E    DC  C A#. A.A#.C  F   E   DCC
+
+siluvaigal sirakugal rendil enna thara pogiraai
+p d p  d   n d p mg  g  m   p S  p  n  d p d
+G A G  A   A#A G FE  E  F   G C+ G  A# A G A
+
+killuvathai killivittu yaen thalli nindru paarkkiraai
+p  d p d    n  d p  mg gm   p   S  p  n   d    p p
+G  A G A    A# A G  FE EF   G   C+ G  A#  A    G G
+
+Stanza 1:
+
+kaadhale nee pooverindhaal endha malaiyum konjam kuzhaiyum
+mp p  p  pd  mp p p  pmg   g m   p pn3d   d  Sn3 n3R   S
+FG G  G  GA  FG G G  GFE   E F   G GBA    A  C+B BD+   C+
+
+kaadhale nee kallerindhaal endha kadalum konjam kalangum
+mp p  p  pd  mp p p  pmg   g m   p pn3d  d  Sn3 n3R  S
+FG G  G  GA  FG G G  GFE   E F   G GBA   A  C+B BD+  C+
+
+ini veezhvadhaa illai veezhvadhaa
+pd  n3   S S    n3n3  n3   R S
+GA  B   C+ C+   B B   B   D+ C+
+
+uyir vaazhvadhaa illai poavadhaa
+pd   n3   S S    n3n3  n3 R S
+GA   B   C+ C+   B B   B D+ C+
+
+amudhenbadhaa vishamenbadhaa
+pd n3  S Sn3  d p  p  n3dp
+GA B  C+ C+B  A G  G  BAG
+
+unnai amudha vishamenbadhaa
+m g   mm d   p m  gr s r
+F E   FF A   G F  ED C D
+
+(en kaadhale ...)

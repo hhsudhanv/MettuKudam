@@ -1,0 +1,65 @@
+Title: Vasantha kaala
+Film: Moondru mudichu
+Source URL: https://www.newtfmpage.com/notes/old/vas2.txt
+
+s r2 g2 m1 p d1 n3 S
+
+(music prelude)
+
+vasantha kaala nadhikaliley
+p p  p   p  p  m p  p p pr
+G G  G   G  G  F G  G G GD
+
+vairamani neeralaigal
+r  g m p  m  g r  gs
+D  D#F G  F  D#D  D#C
+
+neeralaigal neeriniley
+rs mr   pm  rs n.s n.
+DC FD   GF  DC B.C B.
+
+nenjirendin ninaivalaigal
+d  p g  r   s s  s s  s
+G# G D# D   C C  C C  C
+
+Stanza 1:
+
+ninaivalaigal thodarndhu vandhaal
+S n  S n  S   p  p   p   p  d
+C+B  C+B  C+  G  G   G   G  G#
+
+ naeramellaam kanavalaigal
+ dp d p  d    r r g m  mp
+G#G G# G G#   D D D# F FG
+
+kanavalaigal valarvatharkku
+p n n S  n   d2n  S n   d2p
+G B B C+ B   A B  C+ B   AG
+
+kaamanavan malarkanaigal
+n2 d p g   r s  s s  s
+A# G#G D#  D C  C C  C
+
+("ninaivalaigal" with the notes of "vasantha")
+
+(music interlude 1)
+
+Stanza 2: (notes similar to "ninaivalaigal" Stanza 1)
+
+malarkanaigal paaindhu vittaal
+madiyirandum panjanaigal
+panjanaiyil pallikondaal
+manamirandum thalaiyanaigal
+
+(vasantha)
+
+(music interlude 2)
+
+Stanza 3: (notes similar to "ninaivalaigal" Stanza 1)
+
+thalaiyanaiyil mugam pudhaithu
+sarasamidum pudhu kalaigal
+pudhu kalaigal peruvadharkku
+poomaalai manavinaigal
+
+(vasantha)

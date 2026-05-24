@@ -1,0 +1,76 @@
+Title: Vaarai nee
+Film: Mandhiri kumari
+Source URL: https://www.newtfmpage.com/notes/old/vaar.txt
+
+Song: Vaarai nee
+Film: Mandhiri kumari
+
+---------------------------------------------------------------------
+
+Legend for the notes:
+s  = sa    = C
+r1 = ri 1  = C#
+r2 = ri 2  = D
+g2 = ga 2  = D#
+g3 = ga 3  = E
+m1 = ma 1  = F
+m2 = ma 2  = F#
+p  = pa    = G
+d1 = da 1  = G#
+d2 = da 2  = A
+n2 = ni 2  = A#
+n3 = ni 3  = B
+S  = sa    = C [next octave; higher "sa"]
+R1 ...
+
+s r2 g2 m1 p d2 n2 S
+here, r=r2, g=g2, m=m1, d=d2, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Vaaraai nee  vaaraai (2)
+gm pS   RnSn nS S   nRSnSnp
+
+Pogumidam perum dhooramillai, nee vaaraai
+pnp m pmg g m   mp  p p  p    np  nR S
+
+Pogumidam perum dhooramillai, nee vaaraai
+pnp m pmg g m   pdn d p  p    np  nR S
+
+Aahaa maarudham veeSuvadhaale, aanandham pongudhe manadhile(2)
+p pm  gm m mg   pn n n dp  pm  pSn  Sp   mn o mg  s g m  pgm p n S
+
+Idhanilum aanandham adaindhe iyarkkayil
+pn  n n   SRS  n    SG   G   RGR  S n
+
+kalandhuyir peNNilai kaaNbaai
+p n  S  G   RGR Sn   nS  S
+
+Idhanilum aanandham adaindhe iyarkkayil
+pn  n n   SRS  n    SG   G   RGR  S n
+
+kalandhuyir peNNilai kaaNbaai, anbe....           vaaraai
+p n  S  G   RGR Sn   nS  S     SGGP M GR Sn R Snp GR S R nSp
+
+Amaidhi nilavudhe, Saantham thavazhudhe, oh...
+pn  n   d d p dpm  mp  p    S  n d  p    n dS n dS n dS n d p
+
+Amaidhi nilavudhe, Saantham thavazhudhe
+pn  n   d d p dpm  mp  p    S  n d  p
+
+Mudivilaa mona nilai Soozhudhe...
+s g m p   pSn  d p   mnpm  g  sm grs
+
+Mudivilaa mona   nilayai nee (2)
+S G G G   SGMPM  G M G   GS
+
+Malai mudiyil kaaNuvaai vaaraai, Vaaraai....
+p n   S G S   nS n p    pG R     gm pS
+
+Eedila azhagai Sigarameedhile kaNdu inbame koLvom (2)
+gmm mg mp  p   m p p pm p  pn pS d  d p pm m np
+
+Inbamum adaindhe igamarandhene inbam kaaNuvai ange, vaaraai
+gmp n   pS   n   pn S G  R  Sn SGS   nS n pm  pSn   gm pS
+
+Puliyenai thodarndhe pudhumaan neeye vaaraai,  vaaraai..
+S R S n   n  S   np  p n  pm   mp mg gp m pgrs gm pS

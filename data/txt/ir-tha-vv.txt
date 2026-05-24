@@ -1,0 +1,71 @@
+Title: Thathom
+Film: Vetri vizha
+Source URL: https://www.newtfmpage.com/notes/ir/tha_vv.txt
+
+s r1 g2 m1 p n2 S
+
+Thathom thalaangu thathoam
+n  S    S  S   S  R  S
+
+thottum thodaamal thottoam
+n   S   S  S  S   R   S
+
+kaniyai thaangum kodiyai thaangu thagajom
+n S R   R    S   n S R   R    S  n  R S
+
+thathom thalaangu thathoam
+n  S    S  S   S  R  S
+
+pattum padaamal pattoam
+n  S   S S  S   R   S
+
+miruthangam thaangum angam yaengum thagajom
+S n nS  R   R    S   nSR   R   S   n  R S
+
+thazhuvattum thazhuvattum ilavattam ilavattam
+M  M  M  M   G  G  G  G   MM M  M   RR R  R
+
+paravattum paravattum isaivellam paravattum
+M M M  M   G G G  G   MM  M  M   R R R  R
+
+imaiyathin mudimattum ilamaithaan kodikattum hoi
+MM  M M    G G G  G   RR R  R     S S S  S   n
+
+(Thathom)
+
+Stanza 1:
+
+Iravil unnoadu narthanandhaan
+GG G   G G  G  R  G  R  R
+
+idaiyil undaagum sorkam
+nn  n   n n  n   S  S
+
+uravil munnooru keerthanandhaan
+GG G   G  G  G  R   G  R  R
+
+idhazhgal kondaadum mutham
+nn    n   n  n  n   S S
+
+sudhandhira dhinam sugamthaan
+S S   S  S  S  S   S S  R
+
+nirandhara sugam sugamthaan
+n n  n  n  n n   n n  S
+
+nalam perum manam manamthaan
+S S   S  S  S S   S S  R
+
+valam varum nagar valamthaan
+n n   n  n  n n   n n  S
+
+inaiyathaan inaiyathaan anaiyathaan anaiyathaan
+MM  M M     GG  G G     MM  M M     RR  R R
+
+poru athaan poru athaan urugathaan urugathaan
+M M  MM     G G  GG     MM M M     RR R R
+
+dhisaiyettum isaiyettum thaalangal muzhangattum hoi
+M  M  M  M   GG  G  G   R   R  R   S S   S  S   n
+
+(Thathom)

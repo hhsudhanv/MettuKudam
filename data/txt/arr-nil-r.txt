@@ -1,0 +1,89 @@
+Title: Nilame
+Film: Rhythm
+Source URL: https://www.newtfmpage.com/notes/arr/nil_r.txt
+
+s r2 g2 m1 p n2 S
+here, r=r2, g=g2, m=m1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+music: n3 S R G P M G R S
+
+Thaniyae thannandhaniyae naan kaathu kaathu nindraen
+p  G R   R   R  G  S S   Sn   n  S   R  S   S  RSnSn
+G D#+D+ D+  D+ D#+ C+C+ C+A# A# C+  D+ C+  C+ D+C+A#C+A#
+
+Nilamae     poru  nilamae     un   porumai    vendru   viduven
+p G R       R R   G S S       Sn   n n S      R  S     S S S
+G D#+ D+   D+ D+ D#+ C+ C+   C+A# A# A# C+   D+  C+   C+ C+ C+
+
+ puriyaadhaa       peranbae
+ P P P  GRS        P P  GRS
+G+ G+ G+ D#+D+C+  G+ G+ D#+D+C+
+
+ puriyaadhaa   peranbae
+ P P P  M      P P  M
+G+ G+ G+ F+   G+ G+ F+
+
+Stanza 1:
+
+october maadhathil andhi mazhai vaanathil
+p p p   p  n  n    n m   m m    m  p p
+G G G   G A# A#   A# F   F F    F  G G
+
+vaanavillai rasithirundhaen
+p  s s  s   s s r  g  gm
+G  C C  C   C C D D#  D#F
+
+andha nerathil yaarumillai
+p p   p p p    p  n n  m
+G G   G G G    G A# A# F
+
+dhoorathil ival mattum
+m   m m    mp   p  s
+F   F F    FG   G  C
+
+vaanavillai rasikka vandhaal
+s  s s  s   s r  pm g  r
+C  C C  C   C D  GF D# D
+
+Andru kangal paarthu kondom
+S S   n  S   R   S   S  Sn
+C+ C+ A# C+ D+  C+  C+ C+A#
+
+uyir kaatrai maatri   kondom
+SS   n  S    RG S     S  S
+C+C+ A# C+  D+D#+ C+ C+ C+
+
+ rasanai       ennum     oru    puLLiyil
+ G G G         G G       GM     M  M MR
+D#+ D#+ D#+   D#+ D#+   D#+F+  F+ F+ F+D+
+
+iru      idhayam      inaya     kandom
+GG       GG  G        GM M      M  MR
+D#+D#+  D#+D#+ D#+   D#+F+ F+  F+  F+D+
+
+ naanum avalum   inaigayil
+ G  M   PD1P     GG  M GR
+D#+ F+ G+G#+G+  D#+D#+ F+ D#+D+
+
+ nila  andru    paal mazhai pozhindhadhu
+ S R   S G      RM   G R    S n   d2 p
+C+ D+ C+ D#+   D+F+ D#+ D+ C+ A#  A  G
+
+(thaniyae)
+
+Stanza 2: (notes similar to Stanza 1)
+
+ennudaiya nizalaiyum innoruthi thoduvadhu
+pizai yendru karudhivittal
+oru jeans anindha chinna kili
+hallo endru kai kodukka
+thanga mugam karugi vittal
+andha kalli pirindhu sendraL
+naan jeevan urugi nindraen
+chinnadhoru kaaranathaal
+siragadithu maraindhuvittaaL
+meendrum varuvaal nambinae
+adho aval varum vazi theriyudhu
+
+(thaniyae)

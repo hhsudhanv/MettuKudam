@@ -1,0 +1,13 @@
+{
+  "name": "songs",
+  "fields": [
+    { "name": "slug", "type": "string", "optional": true },
+    { "name": "title", "type": "string", "optional": true, "sort": true },
+    { "name": "film_name", "type": "string", "optional": true, "sort": true },
+    { "name": "full_notes", "type": "string", "optional": true },
+    { "name": "raw_text", "type": "string", "optional": true },
+    { "name": "source_url", "type": "string", "optional": true },
+    { "name": "relative_path", "type": "string", "optional": true },
+    { "name": "content_type", "type": "string", "optional": true }
+  ]
+}

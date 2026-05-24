@@ -1,0 +1,65 @@
+Title: Vaanam
+Film: Anjali
+Source URL: https://www.newtfmpage.com/notes/ir/va_anj.txt
+
+s r2 g3 m1 p d2 n3 S
+r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+vaanam namakku veedhi megam namakku jodi (2)
+m  g   g r  g  m  g   m g   g r  g  m g
+F  E   E D  E  F  E   F E   E D  E  F E
+
+kaatrodu parakkalaam
+g  gmggr g g  m gr
+E  EFEED E E  F ED
+
+kaiveesi nadakkalaam
+g  gmggr g g  m gr
+E  EFEED E E  F ED
+
+thadaiyindri haa yaar thaduppadhu
+r  g  m  p   pg  rp   m  p  m gr
+D  E  F  G   GE  DG   F  G  F ED
+
+vaanam namakku veedhi megam namakku jodi
+m  g   g r  g  m  g   m g   g r  g  m g
+F  E   E D  E  F  E   F E   E D  E  F E
+
+Stanza 1:
+
+oorai sutrum pengalukku       indha uchi veiyyil vennilavu (2)
+g g   g m    g  r s  n.  p m  s r   gg   g   m   g  r n.s      p.p.p. p.d. p.d.
+E E   E F    E  D C  B.  G F  C D   EE   E   F   E  D B.C      G.G.G. G.A. G.A.
+
+ellorum anbaale katti vaitha mullai
+s s s   s n. n. n. d. d. d.  d. m.
+C C C   C B. B. B. A. A. A.  A. F.
+
+ippodhu podathu paadam ennum thollai
+s s s   s n.n.  n. d.  d.d.  d.  p.
+C C C   C B.B.  B. A.  A.A.  A.  G.
+
+alaiyai udaikkum nadhigal thaan
+p.m g   p.m  g   p.m  g   r
+G.F E   G.F  E   G.F  E   D
+
+namakku edharkku vidhigal thaan
+p.g  r  p.g   r  r g  m   p        m r n. p.
+G.E  D  G.E   D  D E  F   G        F D B. G.
+
+(vaanam)
+
+Stanza 2: (notes are similar to stanza 1)
+
+kattuppattu kuttuppattu pallikkoodathile kashtappattu
+kattukkalai vittu vittu chinna chittu pola vattamittu
+
+ettadha ettu kattai mettu katti paada
+thattadha thaalam thannai thatti thatti poda
+
+alaiyai udaikkum nadhigal thaan
+namakku edharkku vidhigal thaan
+
+(vaanam)

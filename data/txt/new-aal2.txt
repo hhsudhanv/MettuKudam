@@ -1,0 +1,39 @@
+Title: aal thotta
+Film: Youth
+Source URL: https://www.newtfmpage.com/notes/new/aal2.txt
+
+s r2 g2 m1 p d1 n3 S
+
+ada aal thotta ...
+pn  S   S   S  SRSn    SRG       GGP      MMG     RM    GRSG       RSS
+GB  C+  C+  C+ C+D+C+B C+D+D#+   D#+D#+G+ F+F+D#+ D+F+ D#+D+C+D#+ D+C+C+
+
+oru paattu ...
+pn  S   S   SS  SRSn    SRG     GGP      MMG     RM   GRSG       RSS
+GB  C+  C+ C+C+ C+D+C+B C+D+D#+ D#+D#+G+ F+F+D#+ D+F+ D#+D+C+D#+ D+C+C+
+
+iva mutha ... (2)
+pd  n2n2  dp  pd  n2n2  dp
+GG# A#A#  G#G GG# A#A#  G#G
+
+vaadi ... (2)
+S  PM   GMG      RSRSn2      n2SRG     RRSS
+C+ G+F+ D#+F+D#+ D+C+D+C+A#  A#C+D+D#+ D+D+C+C+
+
+Stanza 1:
+kotti kotti paesum ... (2)
+p  S  p  S  p  S   SRG      GP     GM    RG    RSS
+G  C+ G  C+ G  C+  C+D+D#+  D#+G+  D#+F+ D+D#+ D+C+C+
+
+thoondil sikkaa...dha ... (2)
+P    P   M  PM   G     GMGM       PDP       RRRR     MG     RSSS
+G+   G+  F+ G+F+ D#+   D#+F+D#+F+ G+G#+G+   D+D+D+D+ F+D#+  D+C+C+C+
+
+ival kattudale ...
+pd   n2 n2d p   pd  n2n2  dp
+GG#  A# A#G# G  GG# A#A#  G#G
+
+pd   n2 n2d p   pR  RMG     RS   S
+GG#  A# A#G#G   GD+ D+F+D#+ D+C+ C+
+
+vaadi ...

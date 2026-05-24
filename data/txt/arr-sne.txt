@@ -1,0 +1,176 @@
+Title: Snehidhanae
+Film: Alaipaayudhaey
+Source URL: https://www.newtfmpage.com/notes/arr/sne.txt
+
+s
+
+Prelude
+-------
+
+M:
+Naetru munniravil un
+G2R2   G2R2G2R2   S
+D#+D+ D#+D+D#+D+ C+
+
+Naetru munniravil unnai thiravu maniyil
+G2R2   G2R2G2R2   Sn2   SR2S    n2Sd1p
+D#+D+ D#+D+D#+D+  C+A#  C+D+C+  A#C+G#G
+
+kaatru nuzaivadhu pol
+m1 m1  n2n2 n2S   d1p
+F  F   A#A# A#C+  G#G
+
+unnai kadandhu kazithirundhaen
+pd1   m1 m1 m1 n2n2 n2S    d1p
+GG#   F  F  F  A#A# A#C+   G#G
+
+Indru pinniravil andha eera ninaivil
+G2R2   G2R2G2R2   Sn2  SR2S    n2Sd1p
+D#+D+  D#+D+D#+D+ C+A# C+D+C+  A#C+G#G
+
+kandu thavippadhaeno
+m1 m1 n2n2 n2S   d1p
+F  F  A#A# A#C+  G#G
+
+manam kalangi  pulambugiraen
+pd1p  m1 m1 m1 n2n2 n2S  d1p
+GG#G  F  F  F  A#A# A#C+ G#G
+
+Koondhal nelivil ezil  kulachcharivil
+n3d2n3   S S S   M1M1  P M1 R2 S R2Sn3
+BAB     C+ C+ C+ F+F+ G+ F+ D+ C+ D+C+B
+
+Koondhal nelivil ezil  kulachcharivil
+n3d2n3   S S S   M1M1  P M1 R2 S R2Sn3
+BAB     C+ C+ C+ F+F+ G+ F+ D+ C+ D+C+B
+
+Garvam vozindhadhadi
+m1m1m1 n2n2 n2S  d1p
+FFF    A#A# A#C+ G#G
+
+En   garvam azhindhadhadi
+pd1p m1m1m1 n2n2 n2S  d1p
+GG#G FFF    A#A# A#C+ G#G
+
+Starting
+--------
+
+F:
+Snehidhanae   Snehidhanae
+p  p d1 d1S   p  p d1 d1S
+G  G G# G#C+  G  G G# G#C+
+
+Ragasiya Snehidhanae
+p d1p m1 g2r2g2d1p
+G G#G F  D#DD#G#G
+
+Chinnachinnadhai  korikkaigal
+p  p  p  d1 d1S   p p  d1 d1S
+G  G  G  G# G#C+  G G  G# G#C+
+
+sevikodu snegidhanae
+p d1p m1 g2r2g2d1p
+G G#G F  D#DD#G#G
+
+Idhey azhuththam azhuththam
+pd1   n2S  R2n2  R2S   d1p
+GG#   A#C+  D+A# D+C+  G#G
+
+Idhey Anaippu   anaippu
+pd1   n2S R2n2  R2S d1n2d1p
+GG#  A#C+ D+A#  D+C+ G#A#G#G
+
+Vaazvin ellaivarai vendum  vendum
+pd1     n2SR2n2G2  G2R2S   n2d1p
+GG#    A#C+D+A#D#+ D#+D+C+ A#G#G
+
+Vaazvin ellaivarai vendum vendume
+d2  d2  d2 n2R2S   d1 p   g2 s g2d1
+A   A   A  A#D+C+  G# G   D# C D#G#
+
+Snehidhanae  Snehidhanae
+p  p d1 d1S  p  p d1 R2S
+G  G G# G#C+ G  G G# D+C+
+
+Ragasiya Snehidhanae
+p d1p m1 g2r2g2d1p
+G G#G F  D#DD#G#G
+
+Stanza
+------
+
+Chinna chinna arthamidhu purivai
+p  d2  S  d2  p d2 p g3  p d2S
+G  A  C+  A   G A  G E   G AC+
+
+En cell ellam pookkal pookka seivai
+p  pd2  s d2  p d2    p  g3  pd2S
+G  GA   C A   G A     G  E   GAC+
+
+malargalil    malarvai
+d2S  G2G2     S R2 S
+AC+  D#+D#+  C+ D+ C+
+
+Poopparikkum bakthan pola medhuvai
+p  d2 S  d2  p  d2   p g3 p d2 S
+G  A C+  A   G  A    G E  G A  C+
+
+Naan thoongum bodhu viral nagam kaLaivai
+p    p    d2  s d2  p d2  p g3  p d2 S
+G    G    A   C A   G A   G E   G A C+
+
+Saththamindri  thuyilvai
+d2  S  G2 G2   S  R2 S
+A  C+ D#+ D#+ C+ D+ C+
+
+Aiviral    idukkil    Olive  ennai poosi     se vaiyai seiyavendum
+n2S S      SS R2Sn2   n2 n2  S S   S  R2Sn2  n2Sn2 d1  p  m1pn2d1
+A#C+ C+   C+C+ D+C+A# A# A# C+ C+ C+ D+C+A#  A#C+A# G# G  FGA#G#
+
+Nee azhum bodhu   naan azha naerndhal  thudaikkindra viral vaendum
+n2  S S   SR2Sn2  n2   S S  S   R2Sn2  n2 S   n2 d1  p m1  pn2d1
+A# C+ C+ C+D+C+A# A#  C+ C+ C+  D+C+A# A# C+  A# G#  G F   GA#G#
+
+Repeats
+-------
+
+Snehidhanae Snehidhanae
+Ragasiya Snehidhanae
+Chinnachinnadhai korikkaigal
+sevikodu snegidhanae
+
+M:
+Naetru munniravil un
+Naetru munniravil unnai thiravu maniyil
+kaatru nuzaivadhu pol
+unnai kadandhu kazithirundhaen
+Indru pinniravil andha eera ninaivil
+kandu thavippadhaeno
+manam kalangi pulambugiraen
+Koondhal nelivil ezil kulachcharivil
+Garvam vozindhadhadi
+En garvam azhindhadhadi
+
+F:
+Sonnadhellam pagalilae purivaen(2)
+Nee sollaadhadhai iravilae purivaen
+Kaadhil koondhal nuzaipaen
+Undhan chattai naanum pottu alaiven
+Nee kulikkaiyil naanum konjam nanaiven
+Uppu mootai sumappaen
+Unnai aLLi eduthu uLLangaiyil madithu
+kaikuttaiyil oliththukoLLvaen
+Veli varumbodhu vidudhalai saidhu vendum varam vaangikkoLvaen
+
+Snehidhanae Snehidhanae
+Ragasiya Snehidhanae
+Chinnachinnadhai korikkaigal
+sevikodu snegidhanae
+Idhey azhuththam azuththam
+Idhey Anaippu anaippu
+Vaazvin ellaivarai vendum vendum
+Vaazvin ellaivarai vendum vendum
+Snehidhanae Snehidhanae
+Ragasiya Snehidhanae
+Chinnachinnadhai korikkaigal
+sevikodu snegidhanae

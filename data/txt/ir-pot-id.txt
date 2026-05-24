@@ -1,0 +1,78 @@
+Title: Pottu vaiththa
+Film: Idhayam
+Source URL: https://www.newtfmpage.com/notes/ir/pot_id.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+pottu vaiththa oru vatta nila
+s  s  s    p.  ss  r  r  r d.
+C  C  C    G.  CC  D  D  D A.
+
+kulir punnagaiyil enai thotta nila
+r r   g  g m  gr  rs   s   s  s s
+D D   E  E F  ED  DC   C   C  C C
+
+en manadhil ambu vitta nila
+s  s s p.   s s  r  r  r d.
+C  C C G.   C C  D  D  D A.
+
+idhu etta nindru enai sutta nila
+rr   g g  m  gr  rs   s  s  s s
+DD   E E  F  ED  DC   C  C  C C
+
+vazhnaal thorum
+p   d p  mg r
+G   A G  FE D
+
+dhinandhaan kaadhoram
+g  m  p     dp mg r
+E  F  G     AG FE D
+
+paadal  koorum
+p  dnS  ndpmgr
+G  ABC+ BAGFED
+
+(pottu)
+
+Stanza 1:
+
+aaraadha aasaigal thondrum enai thoondum
+p p  p   p p  pr  mg  g    gr   mg   g
+G G  G   G G  GD  FE  E    ED   FE   E
+
+aanaalum vaai pesa anjum indha nenjam
+p p  p   p    p pr mgg   g r   mg g
+G G  G   G    G GD FEE   E D   FE E
+
+aval perai   naalum asai podum   ullam
+ss p p p S   S  ndp ss p p p S   S S
+CC G G G C+ C+  BAG CC G G G C+ C+ C+
+
+aval pogum   padhai nizhal pola   sellum
+ss p p p S   S  ndp ss p   p pS   S  S
+CC G G G C+ C+  BAG CC G   G GC+ C+  C+
+
+mounam paadhi moham  paadhi
+g  m p p  p   g m d1 d1 d1
+E  F G G  G   E F G# G# G#
+
+ennai kollum ennaalum
+g m p p  p   s rm g2
+E F G G  G   C DF D#
+
+(pottu)
+
+Stanza 2:
+
+ya? thodu seraadho paattu thamizh paattu
+tho? thodu seraadho kaatru pani kaatru
+
+vinaa thaal pol inge kanaa kaanum kaalai
+vidai poale ange nadai poadum paavai
+
+ondraai koodum ondraai paadum
+ponnaal ingu ennaalo
+
+(pottu)

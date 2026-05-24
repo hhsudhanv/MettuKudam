@@ -1,0 +1,91 @@
+Title: Enna solla
+Film: Kandukonden kandukonden
+Source URL: https://www.newtfmpage.com/notes/arr/enna_kk.txt
+
+s r2 g2 m1 p d1 n3 S
+here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+illai illai solla oru kaNam poadhum
+s g   s m   m  m  mp  m d   p gg
+C D#  C F   F  F  FG  F G#  G D#D#
+
+illai enRa sollaith thaanguvadhenRaal
+s g   s m  m   m    mp   m d p  gg
+C D#  C F  F   F    FG   F G# G D#D#
+
+innum innum enakkoar jenmam  vaendum
+s g   s m   mm  m    md dp   p  gg
+C D#  C F   FF  F    FG# G#G G  D#D#
+
+enna sollap poagiRaay
+s r  g  s   srsn.s
+C D  D# C   CDCB.C
+
+sandhanath thenRalai jannalgaL dhaNdiththal nyaayamaa         nyaayamaa
+pn S  R    Sn  d2pd2 pn S  R   Sn  d2p d2   n   S S    RSn    n   S S
+GB C+ D+   C+B AGA   GB C+ D+  C+B AG  A    B   C+ C+  D+C+B  B   C+ C+
+
+kaadhalin kaeLvikku kaNgaLin badhil enna  mounamaa       mounamaa
+pn S  R   Sn  d2pd2 pn S R   S Sn   d2pd2 n  S S   RSn   n  S S
+GB C+ D+  C+B AGA   GB C+ D+ C+ C+B AGA   B C+ C+  D+C+B B  C+ C+
+
+anbae endhan kaadhal solla nodi  onRu poadhumae
+s sp  p p    p  d    pm m  g mg  m pm g  r  sn.
+C CG  G G    G  G#   GF F D# FD# F GF D# D  CB.
+
+adhai naanum meyppikkaththaanae pudhu   aayuL vaeNdumae
+s sp  p  p   pn2 n2 d   dm  mg  g mg    m pm  g   r sn.
+C CG  G  G   GA# A# G#  G#F FD# D# FD#  F GF  D#  D CB.
+
+(illai illai)
+
+Stanza 1:
+
+idhayam oru   kaNNaadi      unadhu bimbam vizhundhadhadi
+pn2 p   SS    S  SR RSn     pn2p   S  S   S S   S  R RSn
+GA# G   C+C+  C+ C+D+ D+C+B GA#G   C+ C+  C+ C+ C+ D+ D+C+B
+
+idhudhaan un sondham    idhayam   sonnadhadi
+SS  S     R  Sn2 n2d    dd  d     d  d n2 dn2G  Sn2dn2p
+C+C+ C+   D+ C+A# A#G#  G#G# G#  G#  G# A# G#A#D#+  C+A#G#A#G
+
+kaNNaadi bimbam katta kayir    onRum  illaiyadi
+pn2p  S  S  S   R RSn pn2p     S S    S S  M RSn
+GA#G  C+ C+ C+  D+ D+C+B GA#G  C+ C+ C+ C+ F+ D+C+B
+
+kaNNaadi oonjal     bimbam aadudhadi
+S  S  R  Sn2 n2d    d  d   d d n2 dn2dp
+C+ C+ D+ C+A# A#G#  G# G#  G# G# A# G#A#G#G
+
+nee onRu  solladi  peNNae illai ninRu  kolladi  kaNNae
+s p p d   m  p g   m  m   s p   p  d   m  p g   m  m
+C G G G#  F  G D#  F  F   C G   G  G#  F  G D#  F  F
+
+endhan vaazhkkaiyae undhan vizhiviLimbil
+s p    p     d  mp  g m    p n2 d2n2 p
+C G    G     G# FG D# F    G A# AA# G
+
+ennai thuraththaadhae uyir  karaiyaeraadhae
+d p   p  p   d   RS   Sn    S p  d m p g m r
+G# G  G  G   G#  D+C+ C+B  C+ G G# F G D# F D
+
+(illai illai)
+
+Stanza 2:
+
+vidiyal vandha pinnaalum vidiyaadha iravu edhu
+poovaasam veesum undhan koondhaladi
+ivvulagam iruNda pinnum iruLaadha baagam edhu
+kadhir vandhu paayum undhan kaNgaLadi
+pala ulaga azhagigaL koodi un paadham kazhuvalaam vaadi
+en thaLir malarae innum thayakkamenna
+ennaip puriyaadhaa idhu vaazhvaa saavaa
+
+enna sollap poagiRaay enna sollap poagiRaay
+
+enna sollap poagiRaay enna sollap poagiRaay niyaayamaa
+enna sollap poagiRaay enna sollap poagiRaay mounamaa mounamaa
+
+enna sollap poagiRaay

@@ -1,0 +1,73 @@
+Title: Ye aathaa
+Film: Payanangal Mudivathillai
+Source URL: https://www.newtfmpage.com/notes/ir/ye_pm.txt
+
+s r2 g2 m1 p d1 n3 S
+r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+Ye   aaththaa     aaththoaramaa    vaariyaa
+pS   R G RG       R   GR  S SR     S  n n
+GC+ D+ D#+ D+D#+ D+ D#+D+ C+ C+D+ C+  B B
+
+naan  paaththaa    paakkaamalae      poariyaa
+pS    R  G RG      R   GR S SR       S  S S
+GC+  D+ D#+ D+D#+ D+ D#+D+ C+ C+D+  C+ C+ C+
+
+adi
+PP
+G+G+
+
+Ye   aaththaa     aaththoaramaa     vaariyaa
+pS   R G RG       R   GR  S SR      S  n n
+GC+ D+ D#+ D+D#+ D+ D#+D+ C+ C+D+  C+  B B
+
+naan  paaththaa    paakkaamalae      poariyaa
+pS    R  G RG      R   GR S nSR      S  S S
+GC+  D+ D#+ D+D#+ D+ D#+D+ C+ BC+D+ C+ C+ C+
+
+  akkambakkam   yaarumillaa    allikkalaam     vaapulla
+  G P  G  M     R  M R  G      G P  G M        M2 M2 P
+D#+ G+ D#+ F+  D+ F+ D+ D#+  D#+ G+ D#+ F+   F#+ F#+ G+
+
+(Ye aaththaa)
+
+Stanza 1:
+
+aavaaram  poovaaga allaama     thullaama  anaikkath thudichchirukkaen
+n S  n    S  n  S  S RG R      S   S  S   RG   R    S  S   n  S  R
+B C+ B   C+  B C+ C+ D+D#+ D+  C+ C+ C+  D+D#+ D+  C+ C+   B C+ D+
+
+achchaaram poattaachchu anjaaru     naalaachchu thanichu  thavichirukkaen
+n  S   n   S   n    S   S RG R      S  S    S   R  G R    S  S n  S  R
+B C+   B  C+   B   C+  C+ D+D#+ D+ C+ C+   C+  D+ D#+ D+ C+ C+ B C+ D+
+
+ thavichcha manasukkuth thanni thara vaenaamaa
+ M  G   R   S S S  S    S   G  R  S  n  n  n
+F+ D#+ D+  C+ C+ C+ C+ C+  D#+ D+ C+ B  B  B
+
+ thalumbum nenappukku  allikkiraen   neevammaa
+ M  G  R   S S  S  S   S G  R S      n2 n2 n2
+F+ D#+ D+ C+ C+ C+ C+ C+ D#+ D+ C+   A# A# A#
+
+maarula   kulirudhu   saerththenna anachchaa
+p  d n2   d p d n2    d   p d   n2 dp   dn2  dn2n
+G  G# A# G# G G# A#  G#   G G#  A# G#G G#A# G#A#B
+
+theerumadi kulirum kattip pidichchikka
+n   n n n  n2n2n2  d  d   p p   d   n2
+B   B B B  A#A#A#  G# G#  G G   G#  A#
+
+(Ye aaththaa)
+
+Stanza 2: (notes are similar to stanza 1)
+
+naamboaraen munnaala neevaadi pinnaalae naaykkar thoattaththukku
+paesaadhae kannaala ennaadi ammaalae aadura aattaththukku
+sirichcha sirippila sillaraiyum sedharudhu
+sevandha mogangandu emmanu padharudhu
+pavazha vaayila theriyura azhagap
+paaththadhumae manasungettuth thavikkudhu
+
+(Ye aaththaa)

@@ -1,0 +1,76 @@
+Title: September
+Film: Alaipayudhey
+Source URL: https://www.newtfmpage.com/notes/arr/sep_ap.txt
+
+s r2 g2 m1 p d1 n3 S
+
+thunbam tholaindhadhu...inbam tholaindhadhu...
+r s s   r  s   s  s     rs s  r  s   s  s
+D C C   D  C   C  C     DC C  D  C   C  C
+
+thunbam tholaindhadhu...inbam tholaindhadhu...
+r s s   r  s   s  s     rs s  r  s   s  s
+D C C   D  C   C  C     DC C  D  C   C  C
+
+september maa.....dham septembar maa.....dham vaazhvin thunbaththai tholaiththu vittoam
+g  g  s   rg  rg  rs   g  g  s   rg  rg  rs   m    r   gm  g   r    r  p    m   p  grs
+D# D# C   DD# DD# DC   D# D# C   DD# DD# DC   F    D   D#F D#  D    D  G    F   G  D#DC
+
+ october maa.....dham  october maa.....dham vaazhvin in..baththai tholaiththu vittoam
+ g g s   rg  rg  rs    g g s   rg  rg  rs   m    r   gm  g   r    r  p    m   p  grs
+D# D# C  DD# DD# DC   D# D# C  DD# DD# DC   F    D   D#F D#  D    D  G    F   G  D#DC
+
+thunbam tholaindhadhu eppoa...    kaadhal piRandhadhae appoa
+r s s   r  s   s  s   n.sr grsn.  rs s    n.r  s  s    n.sg srn.d.p.
+D C C   D  C   C  C   B.CD D#DCB. DC C    B.D  C  C    B.CD# CDB.G#.G.
+
+inbam tholaindhadhu eppoa...    kalyaaNam mudindhadhae appoa
+rs s  r  s   s  s   n.sr grsn.  r  s  s   n.r  s  s    n.d pm2p
+DC C  D  C   C  C   B.CD D#DCB. D  C  C   B.D  C  C    B.G# GF#G
+
+(september)
+
+ae  peNNae...
+mp  g  gs
+FG  D# D#C
+
+kaadhal enbadhu inikkum virundhu kalyaaNam enbadhu vaeppangozhundhu ae  kaNNae
+gp m    g p m   gp  m   g p  m   g  p  m   g p m   gp  m  g p   m   gm  r  rn.
+D#G F   D# G F  D#G F   D# G F   D# G  F   D# G F  D#G F  D# G  F   D#F D  DB.
+
+niRaiyil mattumae kaadhal paarkkum kuRaiyil mattumae kalyaaNam paarkkum aen kaNNaa
+n.r  s   n. r s   n.r s   n. r s   n.r  s   n. r s   n. r  s   n. r s   n.r s  s p.
+B.D  C   B. D C   B.D C   B. D C   B.D  C   B. D C   B. D  C   B. D C   B.D C  C G.
+
+kaadhal paarppadhu paadhi kaNNil kalyaaNam paarppadhu naalu kaNNiladi peNNae
+p.r s   n.   r s   n.r s  n.r s  p. r  s   n.   r s   n.s r g    r s  s  s
+G.D C   B.   D C   B.D C  B.D C  G. D  C   B.   D C   B.C D D#   D C  C  C
+
+kiLi mookkin nuni mookkil koabangaL aLaiginRa rasikkum rasikkum kaadhal
+p g  g   s   s s  r   g   p  g  s   ss  r  g  g m  m   m m  m   mr rn.
+G D# D#  C   C C  D   D#  G  D# C   CC  D  D# D# F F   F F  F   FD DB.
+
+kalyaaNam aanaalae thurumbellaam thooNaaga aen aen aen moadhal
+p  g  s   s r  g   p  g  gs s    s   r  g  m   m   m   pd p
+G  D# C   C D  D#  G  D# D#C C   C   D  D# F   F   F   GG# G
+
+peNgaL illaamal aaNgaLukkaa...Rudhal kidaikkaadhu
+p. p.  d2.n.s   sr r s  n.d2. d2.n.  d2.p. p. p.
+G. G.  A. B.C   CD D C  B.A.  A.B.   A. G. G. G.
+
+peNgaLae ulagil illaiyenRaal aaRudhalae thaevai iruk...kaadhu
+p. p.p.  p.p.p. d2.n.s  r    s r r  s   n.  d2. d2.n.  d2.p. p.
+G. G.G.  G.G.G. A. B.C  D    C D D  C   B.  A.  A. B.  A. G. G.
+
+(september)
+
+naan kaNdaen...
+kaadhal enbadhu kazhuththil sangili kalyaaNam enbadhu kaalil sangili en seyvaen
+kalyaaNam enbadhaith thaLLip poadu thoNNooRu varaikkum ???? vaa anbae
+kaadhal pozhudhil virumbum kuRumbu kalyaaNak kattilil kidaippadhillai en naNbaa
+pirivonRu naeraadha uRavonRil sugamillai kaadhal kaadhal adhudhaan
+uRavoadu silakaalam pirivoadu silakaalam naam vaazhvoam vaa vaa
+aaNgaL illaamal peNgaLukkaaRudhal kidaikkaadhu
+aaNgaLae ulagil illaiyenRaal aaRudhalae thaevaiyirukkaadhu
+
+(september)

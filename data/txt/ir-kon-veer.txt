@@ -1,0 +1,104 @@
+Title: Konji
+Film: Veera
+Source URL: https://www.newtfmpage.com/notes/ir/kon_veer.txt
+
+s r2 g2 m1 p d2 n3 S
+
+konji konji alaigal oda
+g  r  g  m  gr  r   gss
+D# D  D# F  D#D D   D#CC
+
+solai thendral malargal aada
+g r   g    m   g r  r   gsp
+D# D  D#   F   D#D  D   D#CG
+
+kaatrile thavazhum oligal
+p  m  g  r  s n.   sr n.p.
+G  F  D# D  C B.   CD B.G.
+
+kanavile mithakkum vizhigal
+p p m g  r s   n.  s n. d.
+G G F D# D C   B.  C B. A.
+
+kanden anbe anbe
+d. s   s m  mppd
+A. C   C F  FGGA
+
+o    anbil vandha raagame
+dS   S S   S  n   d  n S
+AC+ C+ C+  C+ B   A  B C+
+
+annai thandha geethame
+S S   S   n   d  n  S
+C+ C+ C+  B   A  B  C+
+
+anbil vandha raagame
+S S   S  n   d  n SRnRS
+C+ C+ C+ B   A  B C+D+BD+C+
+
+annai thandha geethame
+S S   S   n   d  n  SRnRS
+C+ C+ C+  B   A  B  C+D+BD+C+
+
+endrum unnai paadume
+S S    S n   d  p m
+C+ C+    C+ B   A  G F
+
+manadhil inba thenum neeye
+g3m p    d1p  m  g3  rg3r
+E F G    G#G  F  E   DE D
+
+(konji)
+
+Stanza 1:
+
+maanguyil  koovuthu maamaram  pookkuthu
+m2p m2pm2p m2pp p   m2pm2pm2p m2p g rs
+F#G F#GF#G F#GG G   F#GF#GF#G F#G D# DC
+
+megam vandhu thaalaatta
+d.n.  s  rg  s   n.  s
+A.B.  C  DD# C   B.  C
+
+ponmayil  aaduthu venpani   thoovuthu
+m2pm2pm2p m2pp p  m2pm2pm2p m2p g rs
+F#GF#GF#G F#GG G  F#GF#GF#G F#G D# DC
+
+bhoomi vandhu seeratta
+d.  n. s  rg  rs n. s
+A.  B. C  DD# DC B. C
+
+aalam vizhuthu aada athil aasai  oonjal aada
+sr r  s n. s   sd d d d   dndnS  dn d   pm2g
+CD D  C B. C   CA A A A   ABABC+ AB A   GF#D#
+
+aalam   vizhuthu aada athil aasai  oonjal aada
+sr rgr  s n. s   sndd d d   dndnS  dn d   pm2dpm2pm2 m2g
+CD DD#D C B. C   CBAA A A   ABABC+ AB A   GF#AGF#GF# F#D#
+
+iyarkkayin athisayam sa ga ri ma ga pa ma dha pa ni da sa nee ri nee sa
+SS   S n   dd  n S   s  g3 r  m  g3 p  m  d   p  n  d  S  n   R  n   S
+C+C+ C+ B  AA  B C+  C  E  D  F  E  G  F  A   G  B  A  C+ B   D+ B   C+
+
+vaanavil   oviyam
+S  S Sn    dn S
+C+ C+ C+B  AB C+
+
+engengum paaduthu kaadhal geethangale
+pSn  p   n2 d m   d1 p    g3 m   g3r
+GC+B G   A# A F   G# G    E  F   ED
+
+(konji)
+
+Stanza 2: (notes similar to Stanza 1)
+
+maadavan poonkuzhal mandhira geethaththil
+maadar thammai marandhaada
+aadhavan karangalin aadharaval ponne
+aatril pon pol valainthaada
+kaalai paniyil roja puthu kavithai paadi aada (2)
+vannangalin oorvalam sa ga ri ma ga pa ma dha pa ni da sa nee ri nee sa
+swarangalin thoranam
+engengum paaduthu kaadhal geethangale
+
+(konji)

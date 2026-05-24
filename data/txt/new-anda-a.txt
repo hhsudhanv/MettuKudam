@@ -1,0 +1,52 @@
+Title: aNdangAkkA
+Film: Anniyan
+Source URL: https://www.newtfmpage.com/notes/new/anda_a.txt
+
+s r2 g2 m1 p d1 n3 S
+
+aNdangAkkA koNdakkAri - reNdakka reNdakka reNdakka reNdakka
+p p  R  R  S  n  S S    S  R  S  S  R  S  S  R  S  S  R  S
+
+aCHu vella thoNdakkAri - reNdakka reNdakka reNdakka reNdakka
+pp   R  R  S   n  S S    S  R  S  S  R  S  S  R  S  S  R  S
+
+ayyArettu pallukkAri - reNdakka reNdakka reNdakka reNdakka
+S S M  M  GR S  G R    R  G  R  R  G  R  R  G  R  R  G  R
+
+ayirameenu kaNNukkAri - reNdakka reNdakka reNdakka reNdakka
+SS SMG3 M  GR S  G R    R  G  R  R  G  R  R  G  R  R  G  R
+
+poovAl oru pOdu pOttA seyva  kAttu vEttaikkAri
+R  G   RS  S S  S  S  n2Sn2S n2d2p mp mp  mgr
+
+kAthal paCHOnthi rAvil pooCHANdi     paCHaiTHaNNiyai oTHai pArvaiyil paTHa vaCHANdi
+s r    s n.  s   s r   n. s   rmg3r  r m   m   m p   gr    r  r  r   s r   s n.  s
+
+yE thANdi kuthiTHENdi un thAvaNi thottENdi    muTHaTHAlE vErvai ellAm suTHam seyyENdi
+S  S   R  S S  n   S  S  S  R R  n   S  RMG3R R M  M  P  G  R   R R   S R    S  n  S
+
+Stanza :
+
+Ey CHi pO enRu yEval seyvAyO
+S  S   S  S S  S R   n  S RMG3R
+
+hA hu hO enRE koova cheyvAyO
+S  S  S  S S  S  R  n   S RMG3R
+
+inji marappA iduppai pATHu kasangi pOnENdi
+RM R M P  P  RM  RM  P P   R M  PM GRSn S
+
+eera uthattil soodu parappi isthiri pOdENdi
+RM R MP   P   RM R  M P  P  RM P M  GRSn S
+
+jAngu jaga jAlak kArA - reNdakka reNdakka reNdakka
+R  R  R R  RGRM  GRS    S  R  S  S  R  S  S  R  S
+
+pApparappa pAdi kArA - reNdakka reNdakka reNdakka
+R  R R  R  RGRM GRS    S  R  S  S  R  S  S  R  S
+
+unnai thEkkadiyil yAnai pOla ninaiCHEn (2)
+S R   RM  M M PM  G3G3  R S  S G  R
+
+unnai nAkkadiyil kaRkaNdAga oLiCHEn (2)
+S R   S  n2n2S   R  G  R S  SS S

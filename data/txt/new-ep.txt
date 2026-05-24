@@ -1,0 +1,55 @@
+Title: Ennai paada
+Film: Punnagai Desam
+Source URL: https://www.newtfmpage.com/notes/new/ep.txt
+
+s r2 g2 m1 p d1 n3 S
+
+Ennai paada vaittha, paesum poovae,
+p p   pdSp  dp  p    pdSp   dp p
+G G   GG#C+G  G#G  G    GG#C+G   G#G G
+
+Unnai enni vaalugindraen,
+p d   p m  mg g m   mp
+G G#   G F  FD# D# F   FG
+
+(same as above 2 lines)
+En dhaagam theera, oontha paeyirai,
+Solli solli paadugindraen,
+
+Imaigal thiranthu paartthathum,
+pS  n   S  R  R   RMG  R  Sp
+GC+  B   C+  D+  D+   D+F+D#+  D+  C+G
+
+Edhiril vaendum poo mugam,
+pS  n   SR  R   RMG R Sp
+GC+  B   C+D+  D+   D+F+D#+ D+ C+G
+
+Yenathu svaasam unn vasam,
+p S n   p   p   md  p grs
+G C+ B   G   G   FG#  G D#DC
+
+Stanza 1:
+
+Thaayendru koduttha, Mutthangal kooda, Unn killal pola, Sugamaay illai,
+p   d  m   p p  p    p  d   m   p  p   S   S  S   S RSn n n S    R S
+G   G#  F   G G  G    G  G#   F   G  G   C+   C+  C+   C+ D+C+B B B C+    D+ C+
+
+Mungilgal paadum, Raagatthil kooda, Nee thittum alagin, Ithamae illai,
+p  d  m   p  p    pn2d  m    p  p   S   S   S   SS RSn  nn  S   RG RS
+G  G#  F   G  G    GA#G#  F    G  G   C+   C+   C+   C+C+ D+C+B  BB  C+   D+D#+ D+C+
+
+Unn paechil therikkum, Echu thulli,
+G   G  R    S  S  S    nSR  n   S
+D#+   D#+  D+    C+  C+  C+    BC+D+  B   C+
+
+Mochathai adaiya,Sollum valli,
+G G  R    RS  S  n  S   RG RS
+D#+ D#+  D+    D+C+  C+  B  C+   D+D#+ D+C+
+
+Naan aalayam sendru paarkkiraen,
+S    SRG R   p   p  pd   n2 dp
+C+    C+D+D#+ D+   G   G  GG#   A# G#G
+
+Angu saamiyum unn saayalilae,
+p p  p  d p   m   mg g m mp
+G G  G  G# G   F   FD# D# F FG

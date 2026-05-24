@@ -1,0 +1,78 @@
+Title: Ragasiyamaai
+Film: Dum dum dum
+Source URL: https://www.newtfmpage.com/notes/new/rag_ddd.txt
+
+s r1 g3 p d2 n2 S
+
+ragasiyamaai ragasiyamaai punnagaithaal porul ennavo
+s s s d.d.r  s s s d.d.r  s  s sd.d.r p gpg   g r rs
+C C C A.A.C# C C C A.A.C# C  C CA.A.C#G EGE   E C# C#C
+
+adhisayamaai avasaramaai mozhi tholaindhaal porul ennavo
+ss  s d.d.r  ss s d.d.r  s s   s  d.  d.r p gpg   g r rs
+CC  C A.A.C# CC C A.A.C# C C   C  A.  A.C#G EGE   E C# C#C
+
+solla thudikkum vaarthai kirangum
+g  p  d  d  d   dp  g    p p  d
+E  G  A  A  A   AG  E    G G  A
+
+thondai kuzhiyil oosi irangum
+g   p   d d  d   dpg  pp  d
+E   G   A A  A   AGE  GG  A
+
+ilai vadivil idhayam irukkum
+gp   d d d   dp  g   pp  d
+EG   A A A   AG  E   GG  A
+
+malai vadivil    adhuvum kanakkum
+d n   S R S      nd  n   S S  S
+A A#  C+ C#+ C+ A#A  A#  C+C+ C+
+
+siriththa sirippu siraiyilae
+S S   S   S n  d  p d  n S
+C+ C+ C+  C+ A#A  G A  A# C+
+
+sikkikkolla adam pidikkum oh  ho
+g  S  n  d  pg   r r  s   n.  s
+E  C+ A# A  GE   C#C# C   A#. C
+
+(ragasiyamaai)
+
+Stanza 1:
+
+nilam neer kaatrilae minsaarangal piranthidum
+g g   gp   p  p  p   g  g  g  p   d p  n  dp
+E E   EG   G  G  G   E  E  E  G   A G  A# AG
+
+kaadhal tharum minsaaramo prabanchaththai kadanthidum
+g  g    g  p   p  p  p p  g  g  g    p    d p  n  dp
+E  E    E  G   G  G  G G  E  E  E    G    A G  A# AG
+
+nijamaai nee ennai theendinaal
+d.n.s    s   s s   s    s s
+A.A#.C   C   C C   C    C C
+
+nijamaai nee ennai  theendinaal  paniyaai kaniyaai uraigiraen
+d.n.s    s   s s    rsn. n.n.    d.n.s    n.s r    gr  p grs
+A.A#.C   C   C C   C#CA#. A#.A#. A.A#.C   A#.CC#   EC# G EC#C
+
+oliyaai nee ennai theendinaal  nuraiyaai unn..ul  karaigiraen
+d.n.s   s   s s   rsn. n.n.    d.n. s    n.s  r   g r  p grs
+A.A#.C  C   C C  C#CA#. A#.A#. A.A#. C   A#.C C#  E C# G EC#C
+
+tharaadhathaaley ennul thaane vandha ularalgal thaano  (?)
+gp gp dp g   g   p g   r   r  gr s   ss n. d.  n.s n.s
+EG EG AG E   E   G E   C#  C# EC# C  CC A#. A. A#.C A#.C
+
+Stanza 2: (notes similar to Stanza 1)
+
+velli tharai poalavey ennidhayam irunthadhu
+mella vandhu un viral kadhai ondrai ezhudhuthu
+
+oru naal kaadhal en vaasalil
+oru naal kaadhal en vaasalil varavaa varavaa kaettadhu
+maru naal kaadhal en veettukku adimai saasanam meettudhu
+
+adhuvo adhu idhuvo idhu edhuvo adhuvey naam ariyaomey
+
+(ragasiyamaai)

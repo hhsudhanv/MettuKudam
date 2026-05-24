@@ -1,0 +1,50 @@
+Title: Saadhi malli
+Film: Azhagan
+Source URL: https://www.newtfmpage.com/notes/old/sa_az.txt
+
+s r2 g3 m1 p d2 n3 S
+
+saadhi mallip poochcharamae sangath thamizhp paachcharamae
+g  m   d  n   nS   S  S S   n  nR   S  n     d    d  p p
+
+aasaiyulla aasaiyadi avvalavu aasaiyadi
+g m  d  n  nSS  S S  n nRS n  d d  p p
+
+engengae munnae vandhu kannae nee konjam kaettukkoa
+d d  d   d1 dn  d  g   g  mg  r   s  s   rg  g  g
+
+kaadhalil undaagum sugam ippoadhu marappoam
+SG G  G   G MG R   S R   G MG R   S S  SR
+
+kannith thamizhth thondaatru adhai munnaetru
+SG G    G  G      G   MG RS  Sn    n  SR Sn
+
+pinbu kattilil thaalaattu
+d  p  p  p p   p   p   p
+
+(saadhi mallip)
+
+Stanza 1:
+
+enadhu veedu enadhu vaazhvu enru vaazhvadhu vaazhkkaiyaa
+gp d   S  S  dS S   S    S  dSS  GR   S n   d     p  p
+
+irukkum naalu suvarukkullae vaazha nee oru kaidhiyaa
+gp  d   S  S  d S S  S  S   dS S   GR  Sn  d  p  p
+
+dhaesam vaeralla thaayum vaerallaa onrudhaan
+dd1 d   gr g  d  d1d n   d  g  g   rgg g
+
+thaayaik kaappadhum naattaik kaappadhum onrudhaan
+dd1 d    gr  g d    d1d n    d   g g    rpm g
+
+kaduhu poal un manam irukka koodaathu
+m d d  dn   dn S d   md  d  dn Sn n
+
+kadalai poal virindhathaai irukkattum
+n S n   S    S R  S  R     RG  M  G
+
+kaettukko raasaathi thamizh naadaachu andha naattukku naa..maa..chu
+G   G  G  G  MG RS  S  S    n  SR Sn  d p   p   p  p  dnSn pdnd p
+
+(saadhi mallip)

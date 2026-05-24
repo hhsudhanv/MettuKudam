@@ -1,0 +1,44 @@
+Title: Thamizhaa
+Film: Roja
+Source URL: https://www.newtfmpage.com/notes/arr/tha_ro.txt
+
+s r2 g3 m1 p d2 n3 S
+
+Thamizhaa thamizhaa naalai nam naalae
+s  s rg   g  g g    rg mg  rg  s  gr
+
+thamizhaa thamizhaa naadum nam naadae
+s  s rg   g  g g    rp mg  rg  s  gr
+
+en veedu thaai thamizh naadu endrae solladaa
+gm p  p  p     p  p    p  p  dpdmg  m  g gr
+
+en naamam indhiyar endrae endrum nilladaa
+gm p  p   p p  p   p  p   dpdmg  m  g gr
+
+(Thamizhaa)
+
+Stanza 1:
+
+inam maaralaam kulam ondruthaan
+mp   d1 n S    m p   d1 n S
+
+idam maaralaam nilam ondruthaan
+gm   p  n S    g m   p  n S
+
+mozhi maaralaam porul ondruthaan
+m p   d1 n S    m p   d1 n S
+
+thali maaralaam kodi ondruthaan
+gm   p  n S    g m   p  n S
+
+thisai maaralaam idam ondruthaan
+m  p   d1 n R    pd1  n  R G
+
+isai maaralaam oli ondruthaan
+mp   d1 n R    pd1 n  R G
+
+nam india adhu ondruthaan
+GR  R GM  GR   R  G M     MG P
+
+(Thamizhaa)

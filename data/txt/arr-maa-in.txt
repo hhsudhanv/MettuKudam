@@ -1,0 +1,50 @@
+Title: maayaa
+Film: Indhiyan
+Source URL: https://www.newtfmpage.com/notes/arr/maa_in.txt
+
+s r2 g3 m1 p d2 n2 S
+
+maayaa machchindhraa machcham paarkka vandheeraa
+S  RG  R   S   RSn   n   S    R    S  S  S   RSn
+
+maayangal kaatti moasam seyyum maaveeraa
+S  S  RG  RS RSn n  S   R  S   S  S  Sn
+
+maaran kalaikkoodam manjaththil uruvaakkum maesthiri kaadhal saasthiri
+p  S   m g2  m  g2  p  p   S    mg2m   g2m p   S  S  g2 m    p   S  S
+
+maarbil vilaiyaada mannan kai visaipoada raaththiri adachchee poakkiri
+p   S   m g2 m  g2 p  p   S   m g2 m g2m p    S  S  pp   m    p   R S
+
+urumaari urumaari  oaviyap pen unaiththaedi  varuvaenae vaarith tharuvaenae
+dS SG G  GR M  GRS d S G   G   GR    M   GRS d S SM M   G  R    R  R M  G
+
+thadai thaandum padaiveeraa udaiyaaga aniveeraa thamburaa meettum kingaraa
+p  S   n3S  R   S S  S  dnp pS  n3SR  SS S  dnp p   S S   p   m   p  R S
+
+unai naanum adaiyaadhu vizhivaasal adaiyaadhu kanjiraa thattak konjiraa
+pS   n3SR   SS  S  dnp p S  n3SR   SS  S  dnp p  S S   p   m   p  R S
+
+(maayaa)
+
+Stanza :
+
+unnai naan sandhiththaal ullaththil thiththiththai thakadhimmi thakkadhimmi thaalam
+S R   MG2M R  S    RSn   S R   MG2M R    S    RSn  S  M M   M  M   M M  G2  MP  MP
+
+unnai naan sindhiththaal undaagum thithippai udhadukkul poththi vaiththaen naalum
+S R   MG2M R  S    RSn   S R MG2M R  S   RSn SM  M  M   M   M   M    G2    MP MP
+
+poththi vaiththa thithippai nee thandhaalenna
+n   R   R    R   R  G2  PM  MG2 G2S S   G2Snd1
+
+muththamittu sakkarai noay vandhaalenna
+n   R  R  R  R  G2PM  MG2  G2SS   G2Snd1
+
+dhinamum dhinamum varalaamaa thavanai muraiyil tharalaamaa solladi soanpappadi
+S  S S   n  n n   d1d1d1 p   S  S S   n  n n   d1 d1d1 pm  p  S S  pm  p  S S
+
+seyalil irangu seekkiramaa meenam maesham paakkanumaa   mennudaa ennaith thinnudaa
+S S S   nn  n  d1  d1d1p   S  S   n  n    d1  d1p pd1mp p  S S   p m     p   R S
+
+(maayaa)

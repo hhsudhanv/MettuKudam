@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mettukudam</title>
+  <link rel="icon" type="image/png" href="assets/DarkTheme_Mettukdam_Logo_v2.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brandmark" href="index.html" aria-label="Mettukudam home">
+        <img class="brandmark-image brandmark-image-light" src="assets/Mettukudam_v2.png" alt="Mettukudam">
+        <img class="brandmark-image brandmark-image-dark" src="assets/DarkTheme_MettuKudam_v2.png" alt="Mettukudam">
+      </a>
+
+      <div class="topbar-actions">
+        <a id="editPageLink" class="icon-button" href="index.html?mode=edit" aria-label="Open edit page" title="Open edit page">
+          <span aria-hidden="true">&#9881;</span>
+        </a>
+        <button id="themeToggleButton" class="icon-button" type="button" aria-label="Toggle theme" title="Toggle theme">
+          <span id="themeToggleIcon" aria-hidden="true">&#9790;</span>
+        </button>
+      </div>
+    </header>
+
+    <section class="controls">
+      <label class="search-field">
+        <span class="field-label">Search</span>
+        <input id="searchInput" type="search" placeholder="Search title, film, or notes text">
+      </label>
+
+      <label class="sort-field">
+        <span class="field-label">Sort</span>
+        <select id="sortSelect">
+          <option value="title-asc">Song A-Z</option>
+          <option value="film-asc">Film A-Z</option>
+          <option value="title-desc">Song Z-A</option>
+          <option value="film-desc">Film Z-A</option>
+        </select>
+      </label>
+
+      <button id="addSongButton" type="button" class="action-button hidden">Add Song</button>
+    </section>
+
+    <section id="fileFallback" class="fallback hidden">
+      <p>
+        This browser may be blocking local <code>fetch()</code> because the page was opened directly from disk.
+        Run a tiny local server or choose <code>data/songs.json</code> manually.
+      </p>
+      <input id="fileInput" type="file" accept=".json,application/json">
+      <p class="hint">Server option: <code>python -m http.server 8000</code> and then open <code>http://localhost:8000/</code>.</p>
+    </section>
+
+    <main class="content-grid">
+      <aside id="listPane" class="sidebar">
+        <div id="songList" class="song-list"></div>
+      </aside>
+
+      <section id="readerSection" class="reader">
+        <div id="emptyState" class="empty-state">
+          <h2>Select a song</h2>
+          <p>The notes will appear here.</p>
+        </div>
+
+        <article id="readerPane" class="reader-pane hidden">
+          <div class="reader-header">
+            <button id="mobileBackButton" type="button" class="back-button">Back to songs</button>
+
+            <div class="reader-meta">
+              <h2 id="songTitle">Untitled</h2>
+              <p id="filmName" class="film-name">Unknown film</p>
+            </div>
+
+            <div id="readerActions" class="reader-actions hidden">
+              <button id="editSongButton" type="button" class="action-button">Edit</button>
+              <button id="saveSongButton" type="button" class="action-button hidden">Save</button>
+              <button id="cancelEditButton" type="button" class="action-button hidden">Cancel</button>
+              <button id="deleteSongButton" type="button" class="action-button danger-button hidden">Delete</button>
+              <button id="exportLibraryButton" type="button" class="action-button hidden">Export JSON</button>
+            </div>
+          </div>
+
+          <div id="notesLayout" class="notes-layout">
+            <pre id="notesContent" class="notes-block"></pre>
+            <pre id="notesContentSecondary" class="notes-block notes-block-secondary hidden"></pre>
+          </div>
+
+          <form id="editForm" class="edit-form hidden">
+            <div class="field-grid">
+              <label class="field">
+                <span>Title</span>
+                <input id="editTitleInput" type="text" required>
+              </label>
+              <label class="field">
+                <span>Film</span>
+                <input id="editFilmInput" type="text">
+              </label>
+              <label class="field field-full">
+                <span>Source URL</span>
+                <input id="editSourceUrlInput" type="text" placeholder="https://...">
+              </label>
+              <label class="field field-full">
+                <span>Notes</span>
+                <textarea id="editNotesInput" required></textarea>
+              </label>
+            </div>
+          </form>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="typesense.config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

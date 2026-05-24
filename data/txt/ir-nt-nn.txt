@@ -1,0 +1,82 @@
+Title: Nee thaane endhan pon vasandham
+Film: Ninaivellam Nithya
+Source URL: https://www.newtfmpage.com/notes/ir/nt_nn.txt
+
+s r2 m1 p n2 S
+here, r=r2, m=m1, n=n2
+
+needhaanae endhan ponvasandham
+p  pnp m r r s    r  m r  rs
+G  GA#GF D D C    D  F D  DC
+
+pudhu raaja vaazhkkai naalai en sondham
+s s   r  m  r     rs  r  m   r  rs sr sr sr sr
+C C   D  F  D     DC  D  F   D  DC CD CD CD CD
+
+en   vaasal hae varavaerkkum innaeram
+p.p. n. s   s   s s s    n.  n.s  p.
+G.G. A#.C   C   C C C   A#. A#.C  G.
+
+un   sorggam hae arangaerum annaeram
+p.p. n.  s   s   ss  s  n.  n.s  s
+G.G. A#. C   C   CC  C A#. A#.C  C
+
+needhaanae  endhan ponvasandham
+p  pnp m r  r s    r  m r  rs
+G  GA#G F D D C    D  F D  DC
+
+pudhu raaja vaazhkkai naalai en sondham
+s s   r  m  r     rs  r  m   r  rs sr sr sr sr
+C C   D  F  D     DC  D  F   D  DC CD CD CD CD
+
+Stanza 1:
+
+paadhai muzhudhum
+r  p    m n  p    Snp
+D  G    F A# G   C+A#G
+
+koadi malargal
+p  n  m n  pm   npm
+G A#  F A# GF  A#GF
+
+paadi varumae
+r  p  m n  p    Snp
+D  G  F A# G   C+A#G
+
+thaevak kuyilgal
+p   n   m n  p   npm
+G  A#   F A# G  A#GF
+
+panneeril hae ilandhaegam neeraadum
+pp n  S   S   SS  S   n   n  S  p
+GG A# C+  C+ C+C+ C+ A#  A# C+  G
+
+panippookkal hae unaikkandu thaenoorum
+p p  n   S   S   SS   S  n  n   S  S
+G G A#  C+  C+  C+C+  C+ A# A# C+ C+
+
+nee aadai anigalan soodum araigalil roja malligai vaasam
+p   n p   pp p p   m  p   pp  p p   n p  p  p p   m  p
+G  A# G   GG G G   F  G   GG  G G  A# G  G  G G   F  G
+
+muga vaervaith thuliyadhu pogum varaiyinil thenral kavarigal veesum
+p p  n   p     p  p p p   m p   p p  p p   n   p   p p p p   m  p
+G G A#   G     G  G G G   F G   G G  G G  A#   G   G G G G   F  G
+
+sandhosham unnodu kaiveesum ennaalum
+pp n  S    mmp n  rr m  p   s m  rm
+GG A# C+   FFG A# DD F  G   C F  DF
+
+(needhaanae)
+
+Stanza 2:
+
+eera iravil nooru kanavu
+paedhai vizhiyil koadi ninaivu
+un aasai hae midhakkinra paalaadai
+un kaalai hae kulippaattum neeroadai
+veyil naalum sudumena dhaegam kedumena jannal thiraiyidum maegam
+iru kaadhal vizhigalil paesum mozhigalil piraiyum pournami aagum
+sandhoasham unnoadu kaiveesum ennaalum
+
+(needhaanae)

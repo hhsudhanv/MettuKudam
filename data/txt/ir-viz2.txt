@@ -1,0 +1,63 @@
+Title: Vizhiyilae
+Film: Nooraavadhu naal
+Source URL: https://www.newtfmpage.com/notes/ir/viz2.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ vizhiyilae mani  vizhiyil  mouna mozhi  paesum  annam
+ g d  p g   s r   g d  p    g  r  s r    g  r    g r
+D# G# G D#  C D  D# G# G   D#  D  C D   D#  D   D# D
+
+undhan  viral thodum  idangalil  ponnum  minnum
+s r     g d   p  g    gr  s r    g  r    g  r
+C D    D# G#  G D#   D#D  C D   D#  D   D#  D
+
+oaoaoa             arththa jaamangalil   nadakkum  inba  yaagangalil
+pdpdpdpdpdp        g   p   n  d2 n dp    g m2 p    g p   n  d2 n dp
+GG#GG#GG#GG#GG#G  D#   G  A#  A A# G#G  D# F# G   D# G  A#  A A# G#G
+
+kani  idhazhgalil vaedhangal  nee oadhalaam
+p d   SG    R S   dp g   p    d   d2n  dp
+G G# C+D#+ D+ C+ G#G D#  G   G#   AA#  G#G
+
+(vizhiyilae)
+
+Stanza 1:
+
+koadi  minnal oadi   vandhu paavai      aanadhoa (2)
+n3SS   S  S   n3SS   S  S   SRn3SRSn3   pmgm p
+BC+C+ C+ C+   BC+C+ C+ C+  C+D+BC+D+C+B GFD#F G
+
+ival radhiyilum udal malarvanam
+rg   m n  d2m   rg   m n  d2n
+DD#  F A# AF    DD#  F A# AA#
+
+idazh maragadham adhil madhurasam
+rg    m n d2m    rg    m n  d2n
+DD#   F A# AF    DD#   F A# AA#
+
+ival  kaaman  vaaganam
+pm2p  G  M    GR R G
+GF#G D#+ F+  D#+D+ D+ D#+
+
+isai  sindhum  moaganam
+pp    G  M     GR R G
+GG   D#+ F+   D#+D+ D+ D#+
+
+  azhagaip  padaiththaay oa bramma dhaevanae
+  GS  d     R n    m     mp d   d  d2  n dp
+D#+C+ G#   D+ A#   F     FG G#  G# A  A# G#G
+
+(vizhiyilae)
+
+Stanza 2: (notes similar to Stanza 1)
+
+kaadhal dhaevan undhan kaigal theettum nagavari (2)
+inbach chugavari anbin mugavari
+konjam dhinasari ennai anusari
+mazhalaiyaagum kaaviri madiyil thoongum kaadhali
+vidiya vidiya en paerai uchchari
+
+(vizhiyilae)

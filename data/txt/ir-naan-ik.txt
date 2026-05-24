@@ -1,0 +1,59 @@
+Title: Naan paadum
+Film: Idhayakovil
+Source URL: https://www.newtfmpage.com/notes/ir/naan_ik.txt
+
+s r2 g2 m1 p d2 n2 S
+
+naan paadum mouna raagam kaetkavillaiyaa
+sg   r  g   r  g  r  g   r   s r  s  s
+
+en kaadhal raani innum thoongavillaiyaa
+g  r  g    r  g  r g   r    s r  s  s
+
+kanneeril unnaith thaeduginraen
+s  s  n   d n  dp m   g m  m2
+
+ennoadu naanae  paaduginraen
+s s  n  d  n dp m  g mm2m  g
+
+(naan paadum)
+
+Stanza 1:
+
+unnaik kandu thenralum ninru poanadhundu
+d S    S  S  n   d dS  dS S  S  S n   d
+
+unnaik kaana vennilaa vandhu poanadhundu
+d S    S  S  n  d dS  SRGRS  S R  n   d
+
+aen dhaevi inru nee ennaik kolgiraay
+pn  d   n  d p  pn  d p    d  p p
+
+mul meedhu aenadi thoongach cholgiraay
+pn  d  n   d p pn d    p    d   p p
+
+unnaith thaedith thaediyae
+SG G    G   G    R   S SG
+
+endhan aavi poanadhu
+SG G   G G  R  S SG
+
+koodudhaanae inru paadudhu
+SG G R   R   S S  n  n dnd
+
+koodu inru kuyilaith thaanae thaedudhu
+d  n  nSp  p   d     dn  p   d   n RS
+
+(naan paadum)
+
+Stanza 2: (notes similar to Stanza 1)
+
+kangal ennum soalaiyil kaadhal vaangi vandhaen
+vangi vandha pinbudhaan saabam enru kandaen
+en saabam theeravae yoagam illaiyae
+en soagam paadavae raagam illaiyae
+poovum veezhndhu poanadhu kaambu ingu vaadudhu
+kaalam ennaik kaelvi kaetkudhu
+kaelvi inru gaeliyaagip poanadhu
+
+(naan paadum)

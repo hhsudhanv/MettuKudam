@@ -1,0 +1,51 @@
+Title: Ulagathil
+Film: Thai porandhachu
+Source URL: https://www.newtfmpage.com/notes/deva/ula_tp.txt
+
+s r2 g2 m2 p d2 n3 S
+here, r=r2, g=g2, m=m2, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ulagathil ulla  adhisayam ettu unnaiyum saerthu
+sr g p    Sppg  pg  g r   grs  srg  p   pSp pSp
+CD D# G  C+GGD# GD# D# D D#DC  CDD# G   GC+G GC+G
+
+vaanathil ulla  rahangal   pathu unnaiym saerthu
+sr g p    Sppg  p g  g r   gpgrs srg  p  pSp pSp
+CD D# G  C+GGD# G D# D# D D#GD#DC CDD# G GC+G GC+G
+
+thanga thamizh nangu         unnai unnai  saerthu
+p   Sp p  Sp   SR SR nd1p    p Sp  p Sp   SG  SG
+G  C+G G C+G  C+D+ C+D+ BG#G G C+G G C+G C+D#+ C+D#+
+
+ ennudan   nee thaan saerndha poadhu rendalla naam ondru    oh
+ R G R     S   Sn    dn  Rn   dp p   p  pS n  dp   mdpmg    pmgrs
+D+ D#+ D+ C+  C+B    AB D+B   AG G   G  GC+B  AG  F#AGF#D#  GF#D#DC
+
+stanza 1:
+
+nadakkaiyil un pudavai    seiyyum saruku osai  adhai rasithaen
+p S  S  n   nd d p dndnp  m   p   dndnp  dndnp mp    d n S
+G C+ C+ B   BA A G ABABG F#   G   ABABG  ABABG F#G   A B C+
+
+sirikkaiyil un muhathil   oru kuzhandhai thavazhum adhai rasithaen
+p S  S  n   nd d p dndnp  mp  dndn  p    dn dnp    mp    d n S
+G C+ C+ B   BA A G ABABG  F#G ABAB  G    AB ABG   F#G    A B C+
+
+ennai   pirihaiyile     un  kangal     kalangume          adhai rasithaen
+nR R    R R R  R nRp    nS  M1GM1G     M1GM1GM1GM1        RR    S S S
+BD+ D+ D+ D+ D+ D+ BD+G BC+ F+D#+F+D#+ F+D#+F+D#+F+D#+F+ D+D+  C+ C+ C+
+
+nee en  nizhalaiyume    thottu paartha    poadhile          adhai rasithaen
+nR  R   R R R  R nRp    n   S  M1GM1G     M1GM1GM1GM1       RR    S S S
+BD+ D+ D+ D+ D+ D+ BD+G B  C+ F+D#+F+D#+ F+D#+F+D#+F+D#+F+ D+D+  C+ C+ C+
+
+mazhai otri   erithaal   un paerai sollithaan manadhukkul naan rasithaen
+n n    SRS    SS RSn     n  SR S   S  S S     n S R   S   nd   d n ndp
+B B   C+D+C+ C+C+ D+C+B  B C+D+ C+ C+ C+ C+   B C+ D+ C+  BA   A B BAG
+
+athan edhiroli kaettu rasithaen oh
+pp    mp  d p  m   g  r s s     pmgrs
+GG   F#G  A G F#  D#  D C C     GF#D#DC
+
+stanza 2: (notes similar to stanza 1)

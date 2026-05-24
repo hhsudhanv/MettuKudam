@@ -1,0 +1,96 @@
+Title: Ival oru
+Film: Brahma
+Source URL: https://www.newtfmpage.com/notes/ir/iv_b.txt
+
+s r2 g2 m1 p d1 n2 S
+
+ival oru ilankuruvi
+pg   pS  Sp  g p S
+GD#  GC+ C+G D#G C+
+
+ezhundhu aadum malar kodi
+pg   p   S S   p g   p S
+GD#  G   C+C+  G D#  G C+
+
+idaiyil nadaiyil iraivan    varaindha koalam
+SG  R   S G  R   SG  R      S G   R   SR Rm
+C+D#+D+ C+D#+D+  C+D#+ D+   C+ D#+ D+ C+D+ D+F
+
+thavazhnthidum malai aruvi
+n  R    S  n   p n   dn dpm
+A# D+  C+ A#   G A#  G#A# G#GF
+
+parandhu paadum pasunkili
+n R  S   n  p   p n  d pm
+A#D+ C+  A# G   G A# G# GF
+
+nitham nitha nitham
+p p    p p   d d
+G G    G G   G#G#
+
+nadai thathi thathi pazhagum
+d d   n  n   m  m   n d  p
+G#G#  A# A#  F  F   A# G# G
+
+(ival oru)
+
+Stanza 1:
+
+kaal poagum  poakkil
+pS   S  R    GR  RM
+GC+  C+ D+  D#+D+ D+F+
+
+manam poagum  naalil
+p S   S  R    GR RM
+G C+  C+ D+  D#+D+ D+F+
+
+ kidaiyaathu    thadai poada    mull veli thaan
+ G R  RM S      S  n   SR n     dS   n d  p
+D#+ D+ D+F+ C+  C+ A#  C+D+ A#  G#C+ A#G# G
+
+naan poagum paadhai
+pS   S  R   GR RM
+GC+  C+ D+  D#+D+ D+F+
+
+nizhal poala kooda
+p S    S  R  GR RM
+G C+   C+ D+ D#+D+ D+F+
+
+varukindra      poonkaatrum       en       thoazhi thaan
+G R RM S        Sn  SRG n         ndS      n   d   p
+D#+ D+ D+F+ C+  C+A# C+D+D#+ A#   A#G#C+   A#  G#  G
+
+neenda    thooram oadum    maegam yaarai thaedutho
+RG  R     Sn3 S   SR R     R  R   p  d   pdn d pmgr
+D+D#+ D+  C+B C+  C+D+ D+  D+ D+  G  G#  GG#A# G# GFD#D
+
+ neerillaamal  vaadum    endhan oorai    thaedutho
+ RG R  Sn3 S   SR R      R R    pdSn     dm  m gr
+D+D#+D+ C+B C+ C+D+ D+   D+ D+  GG#C+A#  G#F F D#D
+
+naanum ennai kaelvi kaetkum naal     idhu
+g  p   p d   d   S  S   R   GR M     S S
+D# G   G G#  G#  C+ C+  D+  D#+D+ F+ C+ C+
+
+thiru naal     idhu
+S  R  GR M     S S
+C+ D+ D#+D+ F+ C+ C+
+
+(ival oru)
+
+Stanza 2: (notes similar to Stanza 1)
+
+naan paadum paattu
+thalai aatti kaettu
+dhinandhoarum poo pookkum thoattangale
+
+neeroadai meedhu
+nodipoadhil paaindhu
+irai thaedum sennaarai koottangale
+
+aalam vizhudhil oonjal poattu aattaam aaduvaen
+aaval theera thaalam poattu paattu paaduvaen
+venir kaalam vaazhthu koorum naal idhu
+thiru naal idhu
+
+(ival oru)

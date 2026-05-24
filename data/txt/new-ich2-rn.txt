@@ -1,0 +1,78 @@
+Title: Ichutthaa
+Film: Run
+Source URL: https://www.newtfmpage.com/notes/new/ich2_rn.txt
+
+s r2 g3 m1 p d2 n2 S
+
+Ichutthaa, ichutthaa, Kannatthila ichutthaa,
+SS   S     Sn   nS    S  S  S  R  Sn   dp
+C+C+ C+    C+A# A#C+  C+ C+ C+ D+ C+A# AG
+
+Pi.chutthaa, pichutthaa, Kannangalai pichutthaa,
+S  S   S     S n   nS    S  S  S R   S n   dp
+C+ C+  C+    C+A#  A#C+  C+ C+ C+D+  C+A#  AG
+
+Thittam poattu thirudiya kollaikaa..raa,
+R   G   G   R  R  S S p  p  d  nS   SR
+D+  E+  E+  D+ D+ C+C+G  G  A  A#C+ C+D+
+
+Vetka pada vakkiriyae vellaikaa..raa,
+R  G  G R  R  S S p   p  d  nS   n
+D+ E+ E+D+ D+ C+C+G   G  A  A#C+ A#
+
+Yennai kolla unnai pettha unn aat..thaa,
+R  G   G  R  R S   S  p   pd  nS   SR
+D+ E+  E+ D+ D+C+  C+ G   GA  A#C+ C+D+
+
+Yen ullmanasu kadaiyira kadaiyira kadaiyira or maathaa,
+R   R  M G R  R M  R S  R M  R S  R M  R S  R  S  S
+D+  D+ F+E+D+ D+F+ D+C+ D+F+ D+C+ D+F+ D+C+ D+ C+ C+
+
+Stanza :
+Panju mittaay kasakkuthu kasakkuthu,
+S  S  S  S    S S  S R   S n  d p
+C+ C+ C+ C+   C+C+ C+D+  C+A# A G
+
+Pattaampoochi kadikkuthu kadikkuthu,
+S  S   S  S   S S  S R   S n  d p
+C+ C+  C+ C+  C+C+ C+D+  C+A# A G
+
+Arichampoovum murukkuthu murukkuthu,
+SS S   S  S   S S  S R   S n  d p
+C+ C+  C+ C+  C+C+ C+D+  C+A# A G
+
+Yae..nnu   theri..yaa.thaa,  oh-ho-ho-ho?
+nS   Sn    n  S   Sn  nSn    S  n  d  p
+A#C+ C+A#  A# C+ C+A# A#C+A# C+ A# A  G
+
+Thraatcha thinnaa eri..yu.thu eri..yuthu,
+S   S S   S   S   SS   S  R   Sn   d p
+C+  C+C+  C+  C+  C+C+ C+ D+  C+A# A G
+
+Pullil nadanthaa valikkuthu valikkuthu,
+S  S   S S  S    S S  S R   S n  d p
+C+ C+  C+C+ C+   C+C+ C+D+  C+A# A G
+
+Veiyil suttaa jillena kuluruthu,
+S  S   S  S   S  S R  S n d p
+C+ C+  C+ C+  C+ C+D+ C+A#A G
+
+Yae..nnu   pu.ri.yaa..thaa?
+nS   Sn    n  S  Sn   nSn
+A#C+ C+A#  A# C+ C+A# A#C+A#
+
+Yen vaasa.li.la koalam ida, kootti vakkiraen,   edhirvaasalila pulli vakkiraen,
+p   p  G  G  G  R  G   GG   R   G  G  MGRS      SS   S  R R R  S  R  R  GRSn
+G   G  E+ E+ E+ D+ E+  E+E+ D+  E+ E+ F+E+D+C+  C+C+ C+ D+D+D+ C+ D+ D+ E+D+C+A#
+
+Yen veettukkuthaan poi..vara etthanikkiraen,   un veetta vanthu mutti ni..kki..raen,
+p   p   G  G G     RG   G G  R G  G  MGRS      S  S   R  R  R   S  R  R   GR   Sn
+G   G   E+ E+E+    D+E+ E+E+ D+E+ E+ F+E+D+C+  C+ C+  D+ D+ D+  C+ D+ D+  E+D+ C+A#
+
+Unna kaadhalicchaen, ulla moodi vacchaen,
+R R  R  M  G  RS     R R  R  M  G  RS
+D+D+ D+ F+ E+ D+C+   D+D+ D+ F+ E+ D+C+
+
+Thael kottivitta thirudana thirudana thirudana ninaenae,
+R     R  M G  R  R  M G R  R  M G R  R  M G R  R S  S
+D+    D+ F+E+ D+ D+ F+E+D+ D+ F+E+D+ D+ F+E+D+ D+C+ C+

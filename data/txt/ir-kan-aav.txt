@@ -1,0 +1,71 @@
+Title: Kanmaniyae kaadhal
+Film: Aarilirundhu arupathuvarai
+Source URL: https://www.newtfmpage.com/notes/ir/kan_aav.txt
+
+s r2 g3 m2 p d2 n3 S
+
+kanmaniyae kaadhal enbathu
+s  s r gp  p  dp   pggrrs
+C  C D EG  G  AG   GEEDDC
+
+karpanaiyo     kaaviyamo
+s  s r  rsgrg  rs s r rsgrg
+C  C D  DCEDE  DC C D DCEDE
+
+kann varaindha    oaviyamo
+s    s r   rsgrg  rss r rsgrg
+C    C D   DCEDE  DCC D DCEDE
+
+eththanai eththanai inbangal nenjinil
+sg g  gp  gr r  rg  rss  rs  sd.d.sd.
+CE E  EG  ED D  DE  DCC  DC  CA.A.CA.
+
+ponguthamma         palsuvaiyum        solluthammaa
+d.p.p.d. d.p.sd.s   p. p.d. d.p.sd.s   d.p.p.s  s
+A.G.G.A. A.G.CA.C   G. G.A. A.G.CA.C   A.G.G.C  C
+
+(kanmaniyae...)
+
+Stanza 1:
+
+melam muzhangida thoranam aadida
+d S   d d   d d  d  S d   d d d
+A C+  A A   A A  A  C+A   A A A
+
+kaalamum vandhathammaa
+d  S d   dp p  d   dS
+A  C+A   AG G  A   AC+
+
+neramum vandhathammaa
+d S d   dp p  d   dS
+A C+A   AG G  A   AC+
+
+paarvaiyin jaadaiyil thondridum aasaiyil
+dS  S  R   Sd d  d   d   S  d   dp p p
+AC+ C+ D+  C+AA  A   A   C+ A   AG G G
+
+paadidum ennangale
+p  d p   grs  r rg
+G  A G   EDC  D DE
+
+indha paavaiyin ullaththile
+gp p  p  d  p   grs   r  rpg
+EG G  G  A  G   EDC   D  DGE
+
+poovithazh thaen kulunga
+gp p p     pd    d d  dSdpd
+EG G G     GA    A A  AC+AGA
+
+sindhum punnagai naan mayanga
+s  r    gp p p   pd   d d  dSdpd
+C  D    EG G G   GA   A A  AC+AGA
+
+aayiram     kaalamum naanundhan maarbinil
+gmm m       md d d   dn n  n    nR  R R
+EF#F# F#   F#A A A   AB B  B    BD+ D+D+
+
+saainthiruppaen  vaazhndhiruppaen
+nd   d  d  pdpdn dp    p  p  p
+BA   A  A  GAGAB AG    G  G  G
+
+(kanmaniyae...)

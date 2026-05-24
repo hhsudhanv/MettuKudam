@@ -1,0 +1,51 @@
+Title: Sendhoorappoove
+Film: 16 Vayadhinile
+Source URL: https://www.newtfmpage.com/notes/ir/sen_16.txt
+
+s r2 g2 m1 p d2 n3 S
+here, r=r2, g=g2, m=m1, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+sendhoorappoovae sendhoorappoovae jillenra kaatrae
+p  S   R  G  S   n  S   p  p  p   s  s  p  mp m
+G C+  D+ D#+ C+  B C+   G  G  G   C  C  G  FG F
+
+en  mannan engae en mannan engae nee konjam sollaayoa
+n2. n2.s   s s   r  r  g   s sr  n2. n2.s   s rgrg s
+A#. A#.C   C C   D  D D#   C CD  A#. A#.C   C DD#DD# C
+
+(sendhoorappoovae)
+
+Stanza 1:
+
+thenralaith thoodhu vittu  oru saedhikkuk kaaththirundhaen
+nR  S n     dp  p   p n2d  pp  p  d   S   R    R  R  GR
+BD+ C+B     AG  G   G A#A  GG  G  A   C+  D+   D+ D+ D#+D+
+
+kangalai   moodavittu inbak kanavinil naan midhandhaen
+nR S n     dp p p n2d p p   p p d S   R    R R   GR
+BD+ C+ B   AG G G A#A G G   G G A C+  D+   D+D+  D#+D+
+
+kannip paruvaththin vannak kanavidhuvae
+S  R   n R S   R    n  R   S R S p  n2d
+C+ D+  B D+ C+ D+   B D+  C+ D+C+ G A#A
+
+ennai izhukkudhu andha ninaivadhuvae
+p d   gd   p d   g d   p d  p s  gr
+G A   D#A  G A  D# A   G A  G C D#D
+
+vannap poovae thenral kaatrae ennaith thaedi  sugam varumoa
+sr r   gr rs  gd  d   n2d dp  p d     pg  gd  p g   g d ndp
+CD D  D#D DC D#A  A   A#A AG  G A     GD# D#A G D# D# A BAG
+
+(sendhoorappoovae)
+
+Stanza 2: (notes similar to Stanza 1)
+
+neelak karunguyilae thennanjoalaik kuruvigalae
+koalamidum mayilae nalla gaanap paravaigalae
+maalai varum andha naalai uraiththidungal
+saalai vazhi engum poovai iraiththidungal
+vannap poovae thenral kaatrae ennaith thaedi sugam varumoa
+
+(sendhoorappoovae)

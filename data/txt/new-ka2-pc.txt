@@ -1,0 +1,51 @@
+Title: Kaadhalaagi
+Film: Popcorn
+Source URL: https://www.newtfmpage.com/notes/new/ka2_pc.txt
+
+s r2 g2 m1 p d1 n3 S
+
+Kaadhalaagi kaninthathu, Kaaval meeri kalanthathu,
+s  s  p  p  p p  p  p    d  d   m  m  m m  d  d
+C  C  G  G  G G  G  G    G# G#  F  F  F F  G# G#
+
+Moadhal aagi pirinthathu, Paathai maari thirinthathu,
+p  p    g g  g g  p  p    m  m    r  r  r  r  m  m
+G  G    D#D# D#D# G  G    F  F    D  D  D  D  F  F
+
+Meendum indru ilainthida, Maedai vanthu isai paada...
+g   g   s  s  ss   g  g   r  r   n. n.  n.n. r  s
+D#  D#  C  C  CC   D# D#  D  D   B. B.  B.B. D  C
+
+(similar to "Kaadhalaagi")
+Thaen neer kaala iravugal, Vaalntha kaala ooravugal,
+Kaadhal pola marainthida, Kannil neerum nirainthida,
+Vaadi nindra iru manam, Koodum indri inithaaga...
+
+Paadu paadu poongaatrae, Poovum kaetkum unn paattae,
+p  p  S  S  S   S   n    p  p   S   S   S   SR  n
+G  G  C+ C+ C+  C+  B    G  G   C+  C+  C+  C+D+B
+
+Oodal theera vaendum, Koodal naera vaendum,
+p p   S   S  S   S    n  S   n  d  p   p
+G G   C+  C+ C+  C+   B  C+  B  G# G   G
+
+Vaanam ulla kaalam, Vaazha vaendum sontham...
+m  m   d d  d  S    n  S   n   d   pm gr
+F  F   G#G# G# C+   B  C+  B   G#  GF D#D
+
+Stanza 1:
+Kaadhal ennum poari..lae, Kaayam kolla naera..laam,
+S  n2   n2n2  d2 n2  d2n2 S  n2  n2 n2 d2 n2  d2n2
+C+ A#   A#A#  A  A#  AA#  C+ A#  A# A# A  A#  AA#
+
+Kaalam konjam poana..dhum, Kaayam mella aaralaam,
+S  n2  n2 n2  d2 n2  d2n2  S  R   R  S  R S R
+C+ A#  A# A#  A  A#  AA#  C+  D+  D+ C+ D+C+D+
+
+Thookkam ennum  pakka..mum,  Sorgam ennum pakka..mum,
+R    n2  G G    R  G   RG    R  n2  R R   S  R   SR
+D+   A#  D#+D#+ D+ D#+ D+D#+ D+ A#  D+D+  C+ D+ C+D+
+
+Rendum ingu    konda...thu, Vaazhkai ennum putthagam...
+R  n2  G G     R  G    RG   R    R   R S   R  S  R
+D+ A#  D#+D#+  D+ D#+ D+D#+ D+   D+  D+C+  D+ C+ D+

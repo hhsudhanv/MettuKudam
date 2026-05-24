@@ -1,0 +1,95 @@
+Title: Oru ponnu onnu
+Film: Kushi
+Source URL: https://www.newtfmpage.com/notes/deva/oruponnu.txt
+
+s r2 g2 m1 p d1 n3 S
+here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+M:
+oru ponnu onnu naan paathen
+ss  s pp  p p  d p  md p
+CC  C GG  G G G# G  FG# G
+
+centimeter sirikka solli kaetten
+s  s smm   m m  m  p  m  gp m
+C  C CFF   F F  F  G  F D#G F
+
+ava  siricha sirippile nooru paeru sethupoittaan
+mg   g p p   m g  r r  g  m  m  g  r s  n.n.s
+FD# D# G G   F D# D D D#  F  F D#  D C  B.B.C
+
+F:
+(oru aalu ...)
+
+Stanza:
+
+M:
+thaai thandhai mugame   marandhu
+p     d   S    S S S    n R  S ndpm
+G    G#  C+   C+ C+ C+  B D+ C+ BG#GF
+
+nenjil   undhan mugam ezhume
+p  d     S p    d p   md  p
+G  G#   C+ G   G# G   FG# G
+
+parichai  ezhudhum pozhudhum
+p p dS    SS  S    nn  d2d2 pp mm
+G G G#C+ C+C+ C+   BB  AA   GG FF
+
+kavidhai ezhudha varudhey
+m n2 p   gr  s   r m mg
+F A# G  D#D  C   D F FD#
+
+F:
+(kulikkum ...)
+
+M:
+oru kosu  kadithaalum uyir thudikkum
+pp  R R   R R R   Sn  nS   R  G  R
+GG D+ D+ D+ D+ D+ C+B BC+ D+ D#+ D+
+
+ adhu idhuvarai    enakkulla  vazhakkam
+ SS   SM  G M      RG  R  S   n R   S
+C+C+ C+F+ D#+ F+  D+D#+ D+ C+ B D+ C+
+
+F:
+(oru thel ...)
+
+M:
+kannu vizhichirukke
+p  d  S p  d  m  p
+G G# C+ G G#  F  G
+
+kanavugal    varudhu
+p d S p      d m p
+G G# C+ G   G# F G
+
+kannu moodi thirandhum
+p  d  S  p  d  m  p
+G  G# C+ G G#  F  G
+
+kaatchigal varudhu
+p  dS  p   d m p
+G G#C+ G  G# F G
+
+idhu unakkum enakkume unnmai sollividu
+s s  sp  p   mm  g r  g  m   g  r n.s
+C C  CG  G   FF D# D D#  F  D#  D B.C
+
+F:
+idhu yen endru theriyavillai
+p.p. s   s r   g  m g r  s
+G.G. C   C D  D#  F D# D C
+
+idhu nee thaana puriyavillai
+p.p. s   s   r  g m g r  s
+G.G. C   C   D D# F D# D C
+
+oru vaai pesa mudiyavillai
+ss  m    m p  d n2d p  m
+CC  F    F G G# A#G# G F
+
+idhu inippil nanaindha kavalai
+mg   gm  p   r g   m   g r s
+FD# D#F  G   D D#  F  D# D C

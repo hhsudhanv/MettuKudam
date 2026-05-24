@@ -1,0 +1,43 @@
+Title: Ding Dong
+Film: Samurai
+Source URL: https://www.newtfmpage.com/notes/new/din_sa.txt
+
+s r2 g3 m1 p d2 n3 S
+
+Ding Dong  Ding Dong En manadhil Mani Oliyaam
+g    g  g  r    g    g  r r g    p p  rr s
+
+Jil Jil   Jil Jil   En Nenjil Panimazhaiyaam
+g   g g   r   g     g  r  g   p p r r   s
+
+Oru Punniya Poovin Maelae Minsaaram Paaigiradhey
+ss  d  d d  d  d   d1 d   d  d1 d   S   n d p
+
+Ada Vetkam Ennum Kathi Ennai Vetti Thingiradhey
+ss  d  d   d d   d1 d  d d   d1 d  S   n d p
+
+Ithu Poala Sugamaana Valiyillai
+pp   p  m  m m m  g  g g g  r
+
+Endraalum Valisolla Mozhiyillai
+p p   m   m m m  g  g g  g  r
+
+Stanza 1
+
+Maegamaai Maegamaai Kurumbugal Enai Vittu Paranthana Eh Paranthana
+mp p p    mp p p    p m  p d   dp   d  n  S n  d  p  S  S n  d  p
+
+Anjilae Nenjilae Ninaivugal Enai Vittu Tholaithana Eh Tholaithana
+p p p   d  d p   p m  p d   dp   d  n  S  n  d  p  S  S  n  d  p
+
+Evarukkum Ithu Naerumaa Illai Enakku Thaan Ithu  Naethamaa
+Sn d  m   Sn   p  d n   S n   Sn  d  m     Sn    p  d n
+
+Suriyan  Nanaikkumaa Sandhiran Erikkumaa
+d S d    n n   R n   d  S  d   nn  R n
+
+Kanavukkum Nijathukkum Idaiveli kuraiyumaa
+S n R  S   S n R   S   Sn  R S  S n  R S
+
+Veiyidathil Thanthatharum Kathikondu  Rasikumaa
+S  R G R    S   n  d  p   m g  r  s   n.s r m

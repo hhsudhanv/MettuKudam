@@ -1,0 +1,64 @@
+Title: Vizhigal medaiyaam
+Film: Kilinjalgal
+Source URL: https://www.newtfmpage.com/notes/old/viz.txt
+
+Song: Vizhigal medaiyaam
+Film: Kilinjalgal
+
+---------------------------------------------------------------------
+
+Legend for the notes:
+s  = sa    = C
+r1 = ri 1  = C#
+r2 = ri 2  = D
+g2 = ga 2  = D#
+g3 = ga 3  = E
+m1 = ma 1  = F
+m2 = ma 2  = F#
+p  = pa    = G
+d1 = da 1  = G#
+d2 = da 2  = A
+n2 = ni 2  = A#
+n3 = ni 3  = B
+S  = sa    = C [next octave; higher "sa"]
+R1 ...
+
+s r1 m1 p n2 S
+here, r=r1, m=m1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Vizhigal medaiyaam
+n.n. s   r m  s
+
+imaigal thiraigalaam
+n.n.s   r  r  m s
+
+kaadhal naadagam
+n. s    r  m s
+
+arangil yeralaam
+n.n.s   r m s       srss srss srss srss srsrsrsrs
+
+julie i love you
+n.s   r rm   s      pm pmrs
+
+julie i love you
+n.s   r rm   s      sn. sp.s    srss srss srss srss
+
+julie i love you
+n.s   r rm   s      pS
+
+Stanza 1: (lyrics are not correct)
+
+poon kadhavin vazhiyoram
+pn   n n  nSn n p  p npm
+
+mohanamaai dhinam aadum
+pnn n nSn  n  p   p npm
+
+mayakkam tharum manmadhanin  thiru uruvam
+m m  p   n  Snp p  n S  RSnR R  S  SS S
+
+unnai kanda pinbu kanni endhan kangalile minnal ondru oli veesa (2)
+S S   n  S  n  p  p  n  p m    m  p m r  r  m   r s   n.s rmrss         SnSnpnS
+S S   n  S  n  p  p  n  p m    m  p m r  r  m   r s   n.s rmrss         pmpmrsrs

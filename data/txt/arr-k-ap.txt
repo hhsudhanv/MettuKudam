@@ -1,0 +1,79 @@
+Title: Kaadhal sadugudugudu
+Film: Alaipayudhey
+Source URL: https://www.newtfmpage.com/notes/arr/k_ap.txt
+
+s r2 g2 m1 p d1 n2 S
+
+kaadhal sadugudugudu kaNNae thodu thodu (4)
+g  s    s s s s n.s  g  s   s  s  n. s
+D# C    C C C C A#.C D# C   C  C  A#.C
+
+alaiyae   sitRalaiyae   karai vandhu vandhu poagum alaiyae
+pp  nd    p  p p  nd    p p   p  d   d  p   m  gr  rg  gm
+GG  A#G#  G  G G  A#G#  G G   G  G#  G# G   F  D#D DD# D#F
+
+ennaith thoduvaay medhuvaayp padarvaay enRaal nuraiyaay karaiyum alaiyae
+p p     p  p d    p p  d     p p  d    p d    p d  d p  m m  gr  rg  gm
+G G     G  G G#   G G  G#    G G  G#   G G#   G G# G# G F F  D#D DD# D#F
+
+tholaivil paarththaal aamaam enginRaay arugil vandhaal illai enRaay
+p  p  mp  p     mp    mp p   m g  mp   mm m   m  m     g r   g m
+G  G  FG  G     FG    FG G   F D# FG   FF F   F  F     D# D  D# F
+
+nagila nagila nagilaa oa oa oa vilagidaadhu nagilaa oa oa (2)
+p p p  p p p  p p p   n  d  p  m m m m  g   r r r   g  m
+G G G  G G G  G G G   A# G# G  F F F F  D#  D D D   D# F
+
+pazhagumbozhudhu kumariyaagi ennai velvaay peNNae
+g s  s  g s  s   g s s g  s  g s   r  g    m  m
+D# C C  D# C C   D#C C D# C  D# C  D  D#   F  F
+
+padukkai aRaiyil kuzhandhaiyaagi ennaik kolvaay kaNNae
+g s  s   gs  s   g s   s   g  s  g s    r  mp   p  mp
+D#C  C   D#C C   D# C  C   D# C  D# C   D  FG   G  FG
+
+(kaadhal sadugudugudu)
+
+Stanza 1:
+
+neeraattum naeraththil ennannaiyaaginRaay
+g  m   p   g  m   p    m p  d  dm r  g
+D# F   G   D# F   G    F G  G# G#FD  D#
+
+vaalaattum naeraththil en piLLaiyaaginRaay
+g  m   p   g  m   p    m  n  d  dm r  g
+D# F   G   D# F   G    F  A# G# G#FD  D#
+
+naanaagath thottaaloa muLLaagip poaginRaay
+g  m  p    g   m  p   m  p  d   dm r  g
+D# F  G    D#  F  G   F  G  G#  G#FD  D#
+
+neeyaagath thottaaloa poovaaga aaginRaay
+g  m  p    g   m  p   m  n  d  dm r  g
+D# F  G    D#  F  G   F  A# G# G#FD  D#
+
+en kaNNeer en thaNNeer ellaamae neeyanbae
+n  d  p    n  d   p    n d  p   nS p  m
+A# G# G    A# G#  G    A# G# G  A#C+ G F
+
+en inbam en thunbam ellaamae neeyanbae
+n  d p   n  d   p   n d  p   nS p  m
+A# G# G  A# G#  G   A# G# G  A#C+ G  F
+
+en vaazhvum en saavum un kaNNil asaivilae
+p  nS   n   d  p  m   m  md pm  gr  s n3.
+G  A#C+ A# G#  G  F   F  FG# GF D#D C B.
+
+(nagila nagila ...)
+
+Stanza 2: (notes similar to Stanza 1)
+
+un uLLam naan kaaNa ennaayuL poadhaadhu
+en anbai naan solla un kaalam poadhaadhu
+en kaadhal iNaiyenna un nenju kaaNaadhu
+aanaalum en muththam sollaamal poagaadhu
+kondaalum konRaalum en sondham needhaanae
+ninRaalum senRaalum un sondham naandhaanae
+un vaetkai pinnaalae en vaazhkkai vaLaiyumae
+
+(nagila nagila ...)

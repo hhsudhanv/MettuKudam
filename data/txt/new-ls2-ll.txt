@@ -1,0 +1,59 @@
+Title: Laysa laysa
+Film: Laysa laysa
+Source URL: https://www.newtfmpage.com/notes/new/ls2_ll.txt
+
+s r2 g3 m1 p d2 n3 S
+
+Laysa laysa, nee illaamal vaalvathu laysa?
+s  rp p  p   p   d dS S   nS  n d   p  p
+C  DG G  G   G   A AC+ C+ BC+ B A   G  G
+
+Laysa laysa, neenda kaalam   uravithu naesa,
+s  rp p  p   p   d  dR S     nS n d   p  p
+C  DG G  G   G   A  AD+ C+   BC+B A   G  G
+
+Kaadhal deivam koyil thaedi,
+n2 d    n2 d   p d   p   m
+A# A    A# A   G A   G   F
+
+Varugirathae, viraivinilae,
+g r g p m     g r  g p m
+E D E G F     E D  E G F
+
+Color-color kanavugal viligalilae,
+g r   g m   p m p m   g r g p m
+E D   E F   G F G F   E D E G F
+
+unakkenavae, ulaginilae piranthavalae,
+rs  r s s    rs r s s   r p  g  rss
+DC  D C C    DC D C C   D G  E  DCC
+
+Stanza 1:
+
+Naan thoongi naal aachu,
+R    S    R  n    R S
+D+   C+   D+ B    D+ C+
+
+Naal ellaam paal aachu,
+R    S R    n    R S
+D+   C+D+   B    D+ C+
+
+Kollaamal yennai kondru vathaikkirathae,
+S  n  S   n  S   n  dp  p dn   d p p
+C+ B  C+  B  C+  B  AG  G AB   A G G
+
+Sollaamal aekkam yennai sithaikkirathae,
+S  n  S   n  S   n  dp  p dn   d p p
+C+ B  C+  B  C+  B  AG  G AB   A G G
+
+Kannellaam kannan vannam therigirathae virigirathae,
+n2 d  n2   d  n2  d  p   g  m g p m    g m g p m
+A# A  A#   A  A#  A  G   E  F E G F    E F E G F
+
+Thanimaiyil irukkaiyil erigirathae,
+g  r g  m   pm  p  m   gr g p m
+E  D E  F   GF  G  F   ED E G F
+
+Kanni iravum, kannal malaiyai, poligirathae,
+r  s  rs s    r  s   r s  s    r m g rss p
+D  C  DC C    D  C   D C  C    D F E DCC G

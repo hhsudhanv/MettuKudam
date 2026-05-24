@@ -1,0 +1,68 @@
+Title: Thakita thadhimi
+Film: Salangai oli
+Source URL: https://www.newtfmpage.com/notes/ir/tha_so.txt
+
+s r2 g2 m2 p d1 n2 S
+here, r=r2, g=g2, m=m2, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+thakita thadhimi thakita thadhimi thamdhaanaa
+s  r g  s  r  g  s  r g  s  r  g  s   r   g
+C  D D# C  D D#  C  D D# C  D D#  C   D   D#
+
+idhaya oliyin jadhiyil enadhu thillaanaa
+s r g  sr g   s r  g   sr g   g   r  s
+C D D# CD D#  C D  D#  CD D#  D#  D  C
+
+irudhayam adikkadi thudikkudhu enbaenaa
+pd p  m   pd  p m  p  d p  m   pS n d
+GG#G  F#  GG# G F# G G# G F#   GC+A#G#
+
+en  kadhai ezhudhida marukkudhu en paenaa
+pd  p m    pd  p  m  p d p  m   pn d  p
+GG# G F#   GG# G F#  G G# G F#  GA# G# G
+
+ srudhiyum layamum onru   saera
+ n  d  p   d p m   pmg    mg r
+A# G#  G  G# G F#  GF#D# F#D# D
+
+(thakita)
+
+Stanza 1:
+
+  ulaga    vaazhkkai nadanam   nee  oppukkonda  payanam
+ nSS S     nS    S   nSS S     pS   S S  S  R   S n n
+A#C+C+ C+ A#C+  C+  A#C+C+ C+  GC+ C+ C+ C+ D+ C+ A# A#
+
+adhu  mudiyumboadhu   thodangum nee  thodangumboadhu mudiyum
+p n   d n n  dn n     d  n  n   pn   n  n  n  d  n   d p p
+G A# G# A#A# G#A# A# G# A# A#   GA# A# A# A# G# A#  G# G G
+
+manidhan   dhinamum  alaiyil  alaiyum  thulineer
+p d pm     p  d pm   pd  pm   pR  R    R  G S n
+G G# GF#   G G# GF#  GG# GF#  GD+ D+  D+ D#+ C+ A#
+
+theriyum therindhum manamae   kalangaadhiru nee
+p  d pm  p  d  pm   p d pm    p S  S  S  R  n
+G G# GF# G G#  GF#  G G# GF#  G C+ C+ C+ D+ A#
+
+thaalamingu     thappavillai  yaar meedhum thappu illai
+pR  R G  S      S   S R  n    pR   G  S    S   S  R n
+GD+ D+ D#+ C+  C+  C+ D+ A#   GD+ D#+ C+  C+  C+ D+ A#
+
+ kaalgal poana paadhai endhan ellai
+ R   n   S  d  n  p    d m    p pR
+D+  A#  C+ G# A#  G   G# F#   G GD+
+
+(thakita)
+
+Stanza 2: (notes similar to Stanza 1)
+
+pazhaiya kaalam marandhu nee parandhadhenna peridhu
+iravudhoarum azhudhu en irandu kannum pazhudhu
+idhu oru ragasiya naadagamae
+alaigalil pongidum oadam naanae
+baavamingu paavamillai vaazhkkaiyoadu koabamillai
+kaadhal ennaik kaadhalikka villai
+
+(thakita)

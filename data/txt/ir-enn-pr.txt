@@ -1,0 +1,130 @@
+Title: Ennuyir neethaane
+Film: Priya
+Source URL: https://www.newtfmpage.com/notes/ir/enn_pr.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+hathiya kushukaava slaluvathu chinthaavaa
+p p  p  p p  p  p  m  p m g   m   p   p
+G G  G  G G  G  G  F  G F D#  F   G   G
+
+saayaapaandaan thirimu saayaabar hari hari doka
+m  m  m   m    m  m m  g  m  g   r r  r rg m m
+F  F  F   F    F  F F  D# F  D#  D D  D DD# F F
+
+ padhasoram   hathim padhamu
+ g g  g g     g m    m m  p
+D# D# D# D#  D# F    F F  G
+
+Ennuyir  neethaane ho
+s s r    g  r   s  p.
+C C D   D#  D   C  G.
+
+unnuyir  naanthaane ho
+s s r    g   r   g  p
+C C D   D#   D  D#  G
+
+ nee yaaro  ingu  naan yaaro
+ S   S  S   n p   n    n  n
+C+  C+ C+  A# G  A#   A# A#
+
+ ondru saerndhome inbam   kanbome
+ d m   d    d  d  nddp    p  p p
+G# F  G#   G# G# A#G#G#G  G  G G
+
+(ennuyir)
+
+Stanza 1:
+
+poonkodi   thallaada
+pn  n n    pn  n  n
+GA# A# A#  GA# A# A#
+
+poovizhi    vandaada
+pn n n      pn n  n
+GA# A# A#   GA# A# A#
+
+kaadhalai    kondaada
+pn n  n      n  S  R
+GA# A# A#   A# C+  D+
+
+ aasaiyil  vandhene
+ nSR  S    n  S  S
+A#C+D+ C+ A# C+  C+
+
+avachandhe  machaan
+pn n   n    n n
+GA# A# A#  A# A#
+
+gunaaraayaa
+n S  S  S
+A#C+ C+ C+
+
+kya naalu paa
+pn  n  n  n
+GA# A# A# A#
+
+samaa   saayaa
+dnS     S  S
+G#A#C+ C+ C+
+
+poonkodi   thallaada
+pn  n n    pn  n  n
+GA# A# A#  GA# A# A#
+
+poovizhi    vandaada
+pn n n      pn n  n
+GA# A# A#   GA# A# A#
+
+kaadhalai   kondaada
+pn n  n     n  S  R
+GA# A# A#  A# C+ D+
+
+ aasaiyil  vandhene
+ nSR  S    n  S  S
+A#C+D+ C+ A# C+ C+
+
+nee thandha    sondham maaraadhey
+pS  S   nS     n  p    pS S  S
+GC+ C+  A#C+  A#  G    GC+ C+ C+
+
+naan  kanda   inbam theeraadhey
+pS    S  nS   n p   pS  S  S
+GC+  C+ A#C+ A# G   GC+ C+ C+
+
+ unnaruhil    un nizhalil un  madiyil un manadhil
+ n S n n      d  n d  d   p   d p p   m  p g m
+A# C+ A# A#  G# A# G# G#  G  G# G G   F  G D# F
+
+aayiram kaalangal  vazhndhida vandhen
+p d p   m  p  m    g    m  g  r  s
+G G# G  F  G  F   D#    F  D# D  C
+
+(ennuyir)
+
+Stanza 2: (notes similar to Stanza 1)
+
+paavayin ponmeni
+jaadaiyil thaanaada
+paarvayil poonthendral
+paadida vandhene
+
+athi kitha thida
+dua dua
+auran sajala
+dua dua
+
+paavayin ponmeni
+jaadaiyil thaanaada
+paarvayil poonthendral
+paadida vandhene
+
+nee konjum ullam thenaaga
+naan kollum inbam nooraaga
+
+ennaruhil punnagaiyil kannurangum mannavane
+kaaviyam poaloru vazhvinai kanden
+
+(ennuyir)

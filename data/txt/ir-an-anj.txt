@@ -1,0 +1,155 @@
+Title: Anjali
+Film: Anjali
+Source URL: https://www.newtfmpage.com/notes/ir/an_anj.txt
+
+s r2 g3 m1 p d2 n3 S
+r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+Anjali anjali anjali chinna kanmani kanmani kanmani
+g g g  m m m  g g g  s   r  g  g g  m  m m  g  g g
+E E E  F F F  E E E  C   D  E  E E  F  F F  E  E E
+
+anjali anjali anjali minnum minmini minmini minmini
+g g g  m m m  g g g  s  r   g  g g  g  g g  g  g g
+E E E  F F F  E E E  C  D   E  E E  E  E E  E  E E
+
+ammammaa pillai kani
+p p  p   m  p   m m
+G G  G   F  G   F F
+
+angandhaan thanga kani
+p p  p     m   p  m m
+G G  G     F   G  F F
+
+ponnin mani chinna chinna
+r  r   r r  g   g  g   g
+D  D   D D  E   E  E   E
+
+kannin mani minna minna
+m  m   m m  p  p  p  p
+F  F   F F  G  G  G  G
+
+ konjida  konjida  oru kann meni
+ S  S S   S  S S   SR  n    n n
+C+ C+ C+ C+ C+ C+ C+D+ B    B B
+
+ poondhamizh sindhida oru pon meni
+ S   S  S    d  d  d  dS  m   m m
+C+  C+ C+    A  A  A  AC+ F   F F
+
+ muthangal thandhidum indha poo meni
+ S S   S   S   S  S   S R   n   n n
+C+ C+ C+  C+  C+ C+  C+ D+  B   B B
+
+ kanpadum kanpadum indha pon meni
+ S  S S   d  d d   m m   p   p p
+C+ C+ C+  A  A A   F F   G   G G
+
+Anjali anjali anjali chinna kanmani kanmani kanmani
+g g g  m m m  g g g  s   r  g  g g  m  m m  g  g g
+E E E  F F F  E E E  C   D  E  E E  F  F F  E  E E
+
+anjali anjali anjali minnum minmini minmini minmini
+g g g  m m m  g g g  s  r   g  g g  m  m m  g  g g
+E E E  F F F  E E E  C  D   E  E E  F  F F  E  E E
+
+Stanza 1:
+
+aagaayam bhoomi ellaam iraivan undaakki vaithu
+gpp  p   p   p  p pg   pp  dp  p dp  p  d  pm
+EGG  G   G   G  G GE   GG  AG  G AG  G  A  GF
+
+aasai thaan theeraamale unnai thandhaan amma
+gpp   p     p   p  p pg pp dp p   dp    p pd
+EGG   G     G   G  G GE GG AG G   AG    G GA
+
+kanne unmel megam thaan panneer thoovi neeraattum
+p  p  d d   n p   d     p  p    d   d  n  p   d
+G  G  A A   B G   A     G  G    A   A  B  G   A
+
+thulli thaavum maan kutti solli solli thalattum
+p   p  d   d   n    p  d  p  p  d  d  n  p  d
+G   G  A   A   B    G  A  G  G  A  A  B  G  A
+
+nadakkum nadayum oru   pallakku sirikkum sirippum  oru   mathappu
+n n  n   S S S   SS    n  n  S  n n  n   S S  S    SS    R n   n
+B B  B  C+ C+ C+ C+C+  B  B C+  B B  B  C+ C+ C+  C+C+  D+ B   B
+
+unadhu  azhagukenna  rajathi  ulagam nadandhu  varum kaithatti
+nn n    SS  S S  S   n n S    nn n   S S  S    S S   R  n   n
+BB B   C+C+ C+C+ C+  B B C+   BB B  C+ C+ C+  C+ C+ D+  B   B
+
+varaamal vandha devadhai ulaavum indha velli thaaragai
+g d  d   n  n   S S R    gd  d   n n   S  S  R   R G
+E A  A   B  B  C+ C+ D+  EA  A   B B  C+ C+ D+  D+ E+
+
+Anjali anjali anjali chinna kanmani kanmani kanmani
+g g g  m m m  g g g  s   r  g  g g  m  m m  g  g g
+E E E  F F F  E E E  C   D  E  E E  F  F F  E  E E
+
+anjali anjali anjali minnum minmini minmini minmini
+g g g  m m m  g g g  s  r   g  g g  m  m m  g  g g
+E E E  F F F  E E E  C  D   E  E E  F  F F  E  E E
+
+Stanza 2: (notes similar to stanza 1)
+
+...
+...
+
+Anjali anjali anjali chinna kanmani kanmani kanmani
+g g g  m m m  g g g  s   r  g  g g  m  m m  g  g g
+E E E  F F F  E E E  C   D  E  E E  F  F F  E  E E
+
+anjali anjali anjali minnum minmini minmini minmini
+g g g  m m m  g g g  s  r   g  g g  m  m m  g  g g
+E E E  F F F  E E E  C  D   E  E E  F  F F  E  E E
+
+ammammaa pillai kani
+p p  p   m  p   m m
+G G  G   F  G   F F
+
+angandhaan thanga kani
+p p  p     m   p  m m
+G G  G     F   G  F F
+
+ponnin mani chinna chinna
+r  r   r r  g   g  g   g
+D  D   D D  E   E  E   E
+
+kannin mani minna minna
+m  m   m m  p  p  p  p
+F  F   F F  G  G  G  G
+
+ konjida konjida oru  kann meni
+ S  S S  S  S S  SR   n    n n
+C+ C+ C+ C+ C+C+ C+D+ B    B B
+
+ poondhamizh sindhida oru pon meni
+ S   S  S    d  d  d  dS  m   m m
+C+  C+ C+    A  A  A  AC+ F   F F
+
+ muthangal thandhidum indha poo meni
+ S S   S   S   S  S   S R   n   n n
+C+ C+ C+  C+  C+ C+  C+ D+  B   B B
+
+ kanpadum kanpadum indha pon meni
+ S  S S   d  d d   m m   p   p p
+C+ C+ C+  A  A A   F F   G   G G
+
+Anjali anjali anjali chinna kanmani kanmani kanmani
+g g g  m m m  g g g  s   r  g  g g  m  m m  g  g g
+E E E  F F F  E E E  C   D  E  E E  F  F F  E  E E
+
+anjali anjali anjali minnum minmini minmini minmini
+g g g  m m m  g g g  s  r   g  g g  m  m m  g  g g
+E E E  F F F  E E E  C  D   E  E E  F  F F  E  E E
+
+Anjali anjali anjali chinna kanmani kanmani kanmani
+g g g  m m m  g g g  s   r  g  g g  m  m m  g  g g
+E E E  F F F  E E E  C   D  E  E E  F  F F  E  E E
+
+anjali anjali anjali minnum minmini minmini minmini
+g g g  m m m  g g g  s  r   g  g g  m  m m  g  g g
+E E E  F F F  E E E  C  D   E  E E  F  F F  E  E E

@@ -1,0 +1,49 @@
+Title: Vizhiyilae
+Film: Bhuvana oru kaelvikkuri
+Source URL: https://www.newtfmpage.com/notes/ir/vi_b.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+vizhiyilae malarndhadhu uyirilae  kalandhadhu
+s s  r g   s s   r  g   ss r g r  s r  s  n.
+C C  D D#  C C   D D#   CC D D# D C D  C  A#.
+
+ pennenum  ponnazhagae  adadaa    engengum unnazhagae
+ n. r r    n. m m  r    n.sn.d.   p.s  s   s s s  s
+A#. D D   A#. F F  D   A#.CA#.G#. G.C  C   C C C  C
+
+ adadaa    engengum unnazhagae
+ n.sn.d.   p.p. p.  p.p.p. p.
+A#.CA#.G#. G.G. G.  G.G.G. G.
+
+un vizhiyae poadhumadi manam mayangum mey marakkum
+pudhu ulagin vazhi theriyum ponvilakkae dheepamae
+
+(vizhiyilae)
+
+oaviyanum  varaindhadhillaiyae unnaippoal
+p p d p    m p   m  g   r  g   s rm  rsn.
+G G G# G   F G   F D#   D D#   C DF  DCA#.
+
+   oarazhagaik kandadhillaiyae
+ n.r r r  g    m  p d n d  p
+A#.D D D D#    F  G G# A# G# G
+
+ kaaviyaththin naayagi    karpanaikku oorvasi
+ gp p p   d    nd2Sndpm   rm m m   p  dpnd p
+D#G G G  G#   A#AC+A#G#GF DF F F   G  G#GA#G# G
+
+kangalukku vilaindha maangani kaadhalukku  malarndha  poongodi
+pn p m  g3 m m   g3  m   g3m  rm pm r  s   n.n.  n.   d.  d.p.
+GA# G F E  F F   E   F   EF   DF GF D  C  A#.A#. A#. G#. G#.G.
+
+(vizhiyilae)
+
+kaiyyalavu pazhuththa maadhulai paalil
+neyyalavu parandha punnagai
+munnazhagil kaamini pinnazhagil moagini
+moagavalai soodum naeramae yoagam varap paadum raagamae
+
+(vizhiyilae)

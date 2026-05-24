@@ -1,0 +1,90 @@
+Title: Kalaimaane
+Film: Thaalam
+Source URL: https://www.newtfmpage.com/notes/arr/ka_th.txt
+
+s r2 g3 m1 p d2 n3 S
+
+Kannae Nee Pogum
+p  p   p   p r
+G  G   G   G D
+
+Vazhi Enggum Poanaalum
+mpmp  m  m   gr gm g mgrs
+FGFG  F  F   ED EF E FEDC
+
+Ellam Vazhiyum En Veettu Vaasalil
+n.d.  s m  m   mp mp  m  gr r r
+B.A.  C F  F   FG FG  F  ED D D
+
+Vanthu Thaan  Mudiyum
+n.d.   srg sr s s s
+B.A.   CDE CD C C C
+
+Kadaliyae
+
+.
+n n n S
+B B B C+
+
+Kalaimanae
+s s  s s
+C C  C C
+
+Kalaimanae Un  thalai  Koathavaa
+s s  s s   sn. n.sn.sr r  r  gmgrs
+C C  C C   CB. B.CB.CD D  D  EFEDC
+
+Viralaalae Un  Udal    Neevavaa
+s s s  s   sn. n.sn.sr r  r gmgrs
+C C C  C   CB. B.CB.CD D  D EFEDC
+
+Un Kaiyilae
+s  r  p p
+C  D  G G
+
+Un Kaiyilae Poo      Valai Poadavaa
+s  r  p p   pSnSdn   p d   p  p pmg
+C  D  G G   GC+BC+AB G A   G  G GFE
+
+Un Kaiyilae Poo      Valai Poadavaa
+s  r  p p   pSnSdn   p d   p  p pmg
+C  D  G G   GC+BC+AB G A   G  G GFE
+
+Panju Kaalgalai Nenjil Soodavaa
+m  g  r   s s   m  g   r  s s
+F  E  D   C C   F  E   D  C C
+
+Kadaliyae Vaa
+
+.
+n n n S   RG MG RSR S
+B B B C+  D+E+ F+E+ D+C+D+ C+
+
+Stanza 1:
+
+Tholaivaana Pothu Pakkamanavel
+g  m2 d  m2 p p   g  m2d m2 p
+E  F# A  F# G G   E  F#A F# G
+
+Pakkam Vantha Poathu Tholaivaavathoe (2)
+g  p   pS d   pm m   g  g  s  g r
+E  G   GC+A   GF F   E  E  C  E D
+
+Moliyodu Sollukku Udal Ennavoe
+g g g2g  m2 m2 m2 m2d  d n dp m2 g
+E E D#E  F# F# F# F#A  A B AG F# E
+
+Singaara Poovukku Sevai Seiyavoo
+g  g2 g  m2 m2 m2 m2d   nS n S
+E  D# E  F# F# F# F#A   BC+B C+
+
+(Un Kaiyilae ...)
+
+Stanza 2: (notes similar to Stanza 1)
+
+Pooncholai Amarnthu Sendral Konja Neramae
+Sontha Vasam Marantha Poovil Unthan Vaasamae (2)
+Nee Enai Pirinthatha  Yaro Sonathu
+En Uyirula Pulithan Nee Vaalavathu
+
+(Un Kaiyilae ...)

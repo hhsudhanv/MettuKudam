@@ -1,0 +1,110 @@
+Title: Vimmavey
+Film: University
+Source URL: https://www.newtfmpage.com/notes/new/vim2_u.txt
+
+s r2 g3 m1 p d2 n3 S
+
+(Vimmavey ah-vimmavey, vimmavey ah-vimmavey,
+ s  s s      s  s s    s  s s      s  s s
+ C  C C      C  C C    C  C C      C  C C
+
+ Vimmavey vimmavey vimmavey vimmavey,
+ g  g gs  g2 g2g2s  g  g gs  g2 g2g2s
+ E  E EC  D# D#D#C  E  E EC  D# D#D#C
+
+ Vimmavey vimmavey vimmavey vimmavey),
+ g  g gs  g2 g2g2s  g  g gs  g2 g2g2s
+ E  E EC  D# D#D#C  E  E EC  D# D#D#C
+
+Stanza 1:
+College thiranthathenna?
+g  s s  g2 g2 g2 s   s
+E  C C  D# D# D# C   C
+
+Kanni pookkal malarnthathenna?
+g  g  s   s   g2g2  g2 s   s
+E  E  C   C   D#D#  D# C   C
+
+Kaanaamal kaayntha kanngal,
+g  s  s   g2   g2  s   s
+E  C  C   D#   D#  C   C
+
+Kolar kaatti nindrathendru,
+g g   g   p  g2  g2g2   p
+E E   E   G  D#  D#D#   G
+
+(Vimmavey vimmavey  vimmavey vimmavey),
+ g  g gs  g2 g2g2s  g  g gs  g2 g2g2s
+ E  E EC  D# D#D#C  E  E EC  D# D#D#C
+
+Yen aalu yennai thaeda,
+g   s s  g2 g2  s   s
+E   C C  D# D#  C   C
+
+Unn aalu unnai thaeda,
+g   s s  g2g2  s   s
+E   C C  D#D#  C   C
+
+Naal maari poanaboadhum,
+g    s  s  g2 g2s  s
+E    C  C  D# D#C  C
+
+Aal maari poi vidaamal,
+g   g  p  g2  g2g2 p
+E   E  G  D#  D#D# G
+
+(Vimmavey vimmavey vimmavey vimmavey),
+ g  g gs  g2 g2g2s  g  g gs  g2 g2g2s
+ E  E EC  D# D#D#C  E  E EC  D# D#D#C
+
+Elloarum hey sollungada,
+s s  S   S   S  S  S S
+C C  C+  C+  C  C+ C+C+
+
+Indru pudhiya ula..gin kathavu    thiranthathu,
+S  S  G G  G  GG   P   G2G2 G2    G2 G2 G2 S
+C+ C+ E+E+ E+ E+E+ G+  D#+D#+ D#+ D#+ D#+ D#+ C+
+
+Elloarum kai kudungada, (ku-ku-ku-ku, ku-ku-ku-ku)
+s s  S   S   S S  S S    g  g  g  g   m  m  m  mg
+C C C+   C+  C+C+ C+C+   E  E  E  E   F  F  F  FE
+
+Ada  palaya pagaiyum maranthu  ponathu, (ku-ku-ku-ku, ku-ku-ku-ku)
+SS   G G G  G G  P   G2G2 G2   G2G2S     g  g  g  g   m  m  m  mg
+C+C+ E+E+E+ E+E+ G+  D#+D#+D#+ D#+D#+C+  E  E  E  E   F  F  F  FE
+
+Atho pogiraalae Hamsavardhini,
+dS   S d n  n   S  S S  d  n
+AC+  C+A B  B   C+ C+C+ A  B
+
+Ada unn thalaikku vaenum Kaesavardhini,
+dd  S   S  S   d  n  pg  d  d d  S  p
+AA  C+  C+ C+  A  B  GE  A  A A  C+ G
+
+Benz car-il vanthu pogum periya Raagini,
+S    S   d  n  n   n d   S S S  S  d n
+C+   C+  A  B  B   B A   C+C+C+ C+ A B
+
+Nam pass pannum varaikkum vahuppil irukkoe vaenum nee,
+d   S    S  d   n n   n   d p  p   dd  d   d  S   p
+A   C+   C+ A   B B   B   A G  G   AA  A   A  C+  G
+
+Stanza 2: (notes similar to Stanza1)
+Aagaayam thiranthathendru,
+Aanandham malarnthathendru,
+Jail vaalkai mudinthathendru,
+Kuyil koottam paranthathendru,
+(Vimmavey vimmavey vimmavey vimmavey),
+Exam-il paper engum,
+Distinction vaangi vaitthu,
+Love-endra thaervil mattum,
+Eppodhum arrears vaikka,
+(Vimmavey vimmavey vimmavey vimmavey),
+Elloarukkum sweet koodungadi,
+Nam ilamai ilamai inimai aagattum,
+Ha, angangae look-um vidungadi, (ku-ku-ku-ku, ku-ku-ku-ku)
+Oh kaali vachavan jolly saerattum, (ku-ku-ku-ku, ku-ku-ku-ku)
+Kannaa kaanum vayathil garuvam kaanungal,
+Adi karppai mattum pootti vaitthu kaadhal pannungal,
+Aaru varudam degree paditthu asatthi aenthira,
+Onga vayasukku aittha aala, yaaru physics-u teacher-aa?

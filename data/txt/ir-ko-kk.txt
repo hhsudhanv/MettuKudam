@@ -1,0 +1,62 @@
+Title: Kodiyile
+Film: Kadalora kavithaigal
+Source URL: https://www.newtfmpage.com/notes/ir/ko_kk.txt
+
+s r2 g2 m1 p d1 n3 S
+here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+kodiyilae  malligappoo  manakkudhae maanae
+s s r rg   s  s r  rg   s s  r gp   prgr r
+C C D DD#  C  C D  DD#  C C  D D#G  GDD#D D
+
+edukkavaa thodukkavaa thavikkiraen naanae
+n.n.s sr  n. n. s sr  s  s  r gr   s  s
+B.B.C CD  B. B. C CD  C  C  D D#D  C  C
+
+parikkach chollith thoondudhae pavazhamallith thoattam
+p p  d    p   d    p    m mg   p p d  p  d    m2p gd dn2dp
+G G  G#   G  G#    G    F FD#  G G G# G  G#   F#G D#G# G#A#G#G
+
+nerunga  vidavillaiyae nenjulkullak koo......chcham
+p p  d   p d p  m  mg  p  d  p  d   pm2 pdn2 dp p
+G G  G#  G G# G F  FD# G  G# G  G#  GF# GG#A# G#G G
+
+(kodiyilae)
+
+Stanza 1:
+
+ manasu  thadumaarum      adhu nenachchaa niram maarum
+ S S n   S  S RGS S       SS   S S   n    S S   RGSG R  GRSn
+C+ C+ B C+ C+ D+D#+C+ C+ C+C+ C+ C+  B   C+ C+ D+D#+C+D#+ D+ D#+D+C+B
+
+ mayakkam irundhaalum     oru thayakkam thadai poadum
+ S S  n   SS  RGS S       SS  S  S  n   S  S   RGSG R GRSn
+C+ C+ B  C+C+ D+D#+C+ C+ C+C+ C+ C+ B  C+ C+  D+D#+C+D#+ D+ D#+D+C+B
+
+niththam niththam un      nenappu     nenjukkuzhi       kaayum
+p   m2   p   pG   SG      G G  G      SG G  G G         RGM RGM G GRSn
+G   F#   G   GD#+ C+D#+ D#+ D#+ D#+  C+D#+ D#+ D#+ D#+ D+D#+F+ D+D#+F+ D#+ D#+D+C+B
+
+maadu rendu   paadhai rendu vandi engae    saerum
+n  n  S  SR   SR R    R  R  S  S  R GR     SRG SRS S
+B  B C+ C+D+ C+D+ D+ D+ D+ C+ C+ D+ D#+D+ C+D+D#+ C+D+C+ C+
+
+poththi vechchaa      anbu illae sollipputtaa        vambu illae
+pS  S   n2  d2n2d2Sn2 n2n2 n2 n2 pS S  n2 d2n2d2Sn2  n2 n2 n2 n2
+GC+ C+  A#  AA#AC+A#  A#A# A# A# GC+ C+ A# AA#AC+A#  A# A# A# A#
+
+sollaththaanae       thembu illae         inba thunbam yaaraal
+pS S   n2  d2n2d2Sn2 n2  n2 d pdpn2d      G R  S   Sp  dSp dSp p
+GC+ C+ A#  AA#AC+A#  A#  A# G# GG#GA#G# D#+ D+ C+ C+G G#C+G G#C+G G
+
+(kodiyilae)
+
+Stanza 2: (notes similar to Stanza 1)
+
+parakkum dhisaiyaedhu indhap parava ariyaadhu
+uravum theriyaadhu ulagam puriyaadhu
+paaraiyilae poovalarndhu paarthavanga yaaru
+anbu konda nenjaththukku aayisu nooru
+kaalam varum vaelaiyilae kaaththiruppaen ponmayilae
+thaedhi varum unmaiyilae saedhi solvaen kannaa

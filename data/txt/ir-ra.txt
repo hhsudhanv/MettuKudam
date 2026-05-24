@@ -1,0 +1,74 @@
+Title: Raja raja chozhan
+Film: Rettai vaal kuruvi
+Source URL: https://www.newtfmpage.com/notes/ir/ra.txt
+
+Song: Raja raja chozhan
+Film: Rettai vaal kuruvi
+
+-----------------------------------
+
+Legend for the notes:
+
+n3. s r2 g2 m1 p d1 n3 S
+B.  C D  D# F  G G# B  C+
+lower octave  = "." is the suffix
+higher octave = "+" is the suffix
+
+------------------------------------
+
+ raja raja cholan  naan          enai
+ G C+ C+G  G  F D# F G           D#F
+[p S  S p  p  m g  m p           g m]
+
+ aalum kaadal desam    nee    dhaan
+ G C+  C+ G   G F D#   D#FG   F
+[p S   S  p   p m g    gmp    m]
+
+ poove   kaadal   thene
+ DD#FD#  CDD#D    B.CDC
+[rgmg    srgr     n.srs]
+
+ man meedu sorgam vandhu
+ G.  D# D# D  C   D D#
+[p.  g  g  r  s   r g]
+
+ pennaaga aanade
+ G. D# D# D C D
+[p. g  g  r s r]
+
+ ullasa bhoomi ingu undaanade
+ G.D#D# D  C   D D# F G  G#G
+[p.g g  r  s   r g  m p  d p]
+
+Charanam 1
+ kannodu   kangal etrum karpoora deepame
+ D#+D#+D#+ D+ C+  D+D#+ D#+D+ C+ C+ G G
+[G  G G    R  S   R G   G  R  S  S  p p]
+
+ kaimeettum  bodu  paayum  minsaarame
+ D#+D#+D#+   D+C+  D+ D#+  D#+D+C+B
+[G  G  G     R S   R  G    G  R S n]
+
+ ullasa      medai mele   oranga   naadaham
+ D#+D#+D#+   D+C+  D+D#+  D#+D+C+  C+ G G
+[G  G G      R S   R G    G R S    S  p p]
+
+ inbangal   paadal sollum  en  thaayagam
+ D#+D#+D#+  D+ C+  D+ D#+  D#+ D+  C+B
+[G G  G     R  S   R  G    G   R   S n]
+
+ ingangu  oonjalaga  naanpogiren
+ A#A# A#  A  A#C+A#  A#  A#G#G
+[n2n2 n2  d2 n2S n2  n2  n2d p]
+
+ angangu aasai theeyil naanvegiren
+ A#A# A# A A#  C+  A#  A#  A#G#G
+[n2n2 n2 d2n2  S   n2  n2  n2d p]
+
+ unraaga mohanam en kaadal vaahanam
+ A#A# G  D#D D   B  B  G   G  F F
+[n2n2 p  g r r   n  n  p   p  m m]
+
+ sendaamarai sendenmazhai en aavi neeye devi
+ G  F  G C+  G  F  G C+   G  F G  D#+D+ C+B
+[p  m  p S   p  m  p S    p  m p  G  R  S n]

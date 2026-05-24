@@ -1,0 +1,54 @@
+Title: Vaan mazhai
+Film: University
+Source URL: https://www.newtfmpage.com/notes/new/van2_u.txt
+
+s r2 g2 m1 p d1 n2 S
+
+Vaan mazhai, athu vaanam vitta thoothu,en nanbanukku en thoothu saernthidum, Naal eppoadhu?
+p    g gm    gg   gm m   m  m  gr  s   s  p  p p  p  g  m   m   m    m  g    n    d dn p
+G    D# D#F  D#D# D#F F  F  F  D#D C   C  G  G G  G  D# F   F   F    F  D#   A#   G# G#A# G
+
+Pudhu poo manam, athu pookkal vitta thoothu,en kaadhu paartthathai kanngal paartthidum, Naal eppoadhu?
+s s   p   g gm   gg   m   m   m  m  gr  s   s  p  p   p    p  g    m   m   m    m  g    n    d dn p
+C C   G   D# D#F D#D# F   F   F  F  D#D C   C  G  G   G    G  D#   F   F   F    F  D#   A#   G# G#A# G
+
+Iru kann pootthu naan kaatthirukkumboadhu,Oru poo thiranthathum, pudhayal kottidum,Naal eppoadhu?
+pp  G    GM  R   p    G   G  G  G  GM R   pp  G   G  G  G  GM    R R  R   R  S Sn  nSRS n dn p
+GG  D#+    D#+F+  D+   G    D#+   D#+  D#+  D#+  D#+F+ D+   GG  D#+   D#+  D#+  D#+  D#+F+    D+ D+  D+   D+  C+ C+A#  A#C+D+C+ A# G#A# G
+
+Adi naan andru,   uyir thattha..littha..boadhu, enai vaazha vaitthavan   aala vanthidum,  Naal     eppoadhu?
+pp  G    GM R     pp   G   G    G  G    GM R    pp   G  G   G   G  GM    R R  R  S  Sn    nSRS     n dn p
+GG  D#+  D#+F+D+  GG   D#+ D#+ D#+ D#+ D#+F+ D+ GG   D#+D#+ D#+ D#+D#+F+ D+D+ D+ C+ C+A#  A#C+D+C+ A# G#A# G
+
+"Doo  doo-doo  doo" (2)
+pnS   RGSRnSp        ppnmp   pnS   RGSMRSn         nMRSn
+GA#C+ D+D#+C+D+A#C+G GGA#FG  GA#C+ D+D#+C+F+D+C+A# A#F+D+C+A#
+
+Stanza 1:
+Thoaligalae,   en sorgam therigirathae,Athai thottu thodarum mugavari theriyalaiyae, Yeah-i yeah-i yeah-i
+p   n p pn     p  S  S   S  S S R n    pp    S   S  S  S R   n n n n  d  d d m  mp   p    m p    m p    m
+G   A# G GA#   G  C+ C+  C+ C+C+D+A#   GG    C+  C+ C+ C+D+  A#A#A#A# G# G#G#F  FG   G    F G    F G    F
+
+Vaasal vanthu oru vaazhkai azhaikkirathae, en valamum idamum  rendum thudikkirathae, Yeah-i yeah-i yeah-i
+p  n   p  pn  pp  S    S   SS    S R n     p  S S S   SS R    n  n   n  d  d m mp    p    m p    m p    m
+G  A#  G  GA# GG  C+   C+  C+C+  C+D+A#    G  C+C+C+  C+C+ D+ A# A#  A# G# G#F FG    G    F G    F G    F
+
+Nenjilae   nenjilae minnal poochi sutruthae, Nirkka sonnaal nirkka marukkirathae,
+p  d dn    d  p mg  g  m   mp p   m  g s     r   r  r  r    g   m  p d  n S nSn
+G  G# G#A# G# G FD# D# F   FG G   F  D# C    D   D  D  D    D#  F  G G# A#C+ A#C+A#
+
+Aayiram   ninaivugal, aasai moottiya kanavugal, avanai kaana kanngal arikkira..thae,
+p d dn    d d  p mg   g m   mp  p p  m m g s    rr r   r  g  m   p   pd  n S   nSn
+G G# G#A# G#G# G FD#  D#F   FG  G G  F F D#C    DD D   D  D# F   G   GG# A#C+ A#C+A#
+
+Nanbanaa?  Vambanaa? Nee nanbanaa    illai  vambanaa? Munnaal van..thu mugavari sollu,
+G  R G     R  S R    p   G  R G      G G    R  S R    n  nS   nd   dp  p m m g  g  m
+D#+ D+ D#+ D+ C+D+   G   D#+ D+ D#+  D#+D#+ D+ C+D+   A# A#C+ A#G# G#G G F F D# D# F
+
+Stanza 2: (notes similar to Stanza 1)
+
+Poo oolagai avan pudhidhaay seiythaanae, en puttham pudhiya vaalvae avanthaanae,(Yeah-i yeah-i yeah-i yeah),
+Sevigalilae yen jeevan thottaanae,Nenjil chinna chinna pookkal nottaanae,(Yeah-i yeah-i yeah-i yeah),
+Naerilae naerilae paartthaal aena naeramum,Yen bootrikkulae minnal vettumadi,
+Vaalvilae mudhal murai vetkam vanthu saerumoe?Mounam unnai vetti thinnumadi,
+Manmathaa (manmathaa), nee yaaradaa (yaaradaa)?Dey manmathaa, nee yaaradaa?Yen maarbukku munnae vaadaa,

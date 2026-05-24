@@ -1,0 +1,69 @@
+Title: Dhaevadhai
+Film: Aayiram nilave vaa
+Source URL: https://www.newtfmpage.com/notes/ir/d_anv.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ dhaevadhai ilam   dhaevi unnaich chutrum aavi
+ R   G R    S R    G   p  p d     p  m    p pS
+D+  D#+ D+ C+ D+ D#+   G  G G#    G  F    G GC+
+
+ kaanalaana  kanneer   kaanavillaiyaa?
+ S  R S  n   S  SM     G  M G  R  SRSn
+C+ D+ C+ A# C+ C+F+  D#+ F+ D#+D+ C+D+C+A#
+
+ oa     neeyillaamal naanaa?
+ RG     G  R  S  n   SR S
+D+D#+ D#+ D+ C+ A#  C+D+ C+
+
+(dhaevadhai)
+
+Stanza 1:
+
+  aerikkaraip     poovellaam   endhan  peyar   sollaadhoa?
+  G G  M G        Gn n  n      G G     M G     Gn n  n
+D#+ D#+ F+ D#+  D#+A# A# A#  D#+ D#+  F+ D#+ D#+A# A# A#
+
+  poo  vasandhamae    nee marandhadhaen?
+  G    G M  G  MP     R   R G  R  GM
+D#+  D#+ F+ D#+F+G+  D+  D+ D#+D+ D#+F+
+
+  aatru   manal  maedengum   naan   varaindha   koalangal
+  G G     M G    Gn n  n     G      G M   G     Gn n  n
+D#+ D#+  F+ D#+ D#+A# A# A# D#+   D#+ F+ D#+  D#+A# A# A#
+
+  dhaeva mullaiyae   kaanavillaiyae
+  G   G  M  G  MP    R  R G  R  GM
+D#+ D#+ F+ D#+ F+G+ D+ D+ D#+ D+ D#+F+
+
+  idhu    kaadhal      soadhanai
+  GG      G  GMM2      M  G  GMGR
+D#+D#+  D#+ D#+F+F#+  F+ D#+ D#+F+D#+D+
+
+  iru     kannil       vaedhanai
+  GG      G  GMM2      M  G  GMGR
+D#+D#+  D#+ D#+F+F#+  F+ D#+ D#+F+D#+D+
+
+ oru  vaanambaadi          dhaegam     vaadi
+ RR   R  RGM GRG           S   SRG     RS R
+D+D+ D+ D+D#+F+ D#+D+D#+  C+  C+D+D#+ D+C+ D+
+
+ paadum    soagam  koadi
+ n  nSR    Sn S    d  p    S
+A# A#C+D+ C+A# C+ G#  G   C+
+
+(dhaevadhai)
+
+Stanza 2: (notes similar to Stanza 1)
+
+endhanadhu kallaraiyai vaeroruvan thoanduvadhaa?
+vidhi enbadhaa sadhi enbadhaa?
+sondhamulla kaadhaliyae vatri vitta kaaviriyae
+undhan aaviyai nee veruppadhaa
+idhu kanneer raaththiri
+en kannae aadhari
+ivan thaeyum saedhi kanneer jaadhi needhaan endhan paadhi
+
+(dhaevadhai)

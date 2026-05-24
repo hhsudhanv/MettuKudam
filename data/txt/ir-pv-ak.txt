@@ -1,0 +1,115 @@
+Title: Poove eduthu
+Film: Amman kovil kizhakkaale
+Source URL: https://www.newtfmpage.com/notes/ir/pv_ak.txt
+
+s r1 g3 m1 p d1 n3 S
+here, r=r1, g=g3, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+M:
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+p  S  pp S   pS  p S  p  p m   g m  pdp  p  p   p  p p
+G  C+ GG C+  GC+ G C+ G  G F   E F  GG#G G  G   G  G G
+
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+p  S  pp S   pS  p S  p  p m   g m  pdp  p  p   p  p p
+G  C+ GG C+  GC+ G C+ G  G F   E F  GG#G G  G   G  G G
+
+un tho...lukkaaha thaan indha maa...lai yengudhu
+p  pmgmp m  g  m  p m   p p   pmgmp m   g  m pdm
+G  GFEFG F  E  F  G F   G G   GFEFG F   E  F GG#F
+
+kalyaanam kacheri eppodhu
+p  d  m   m p  g  g m grs
+G  G# F   F G  E  E F EC#C
+
+F: (notes similar to above)
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+un tholukkaaha thaan indha maalai yengudhu
+kalyaanam kacheri eppodhu
+
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+
+Stanza 1:
+M:
+kaathula    soodam      pola       karaiyiren  unnaala
+pS n  SR    Sn SR       SnSRS      p p  m pd   pmpd p
+GC+ B C+C#+ C+B C+C#+  C+BC+C#+C+  G G  F GG#  GFGG# G
+
+F:
+kaathula    soodam     pola       karaiyiren unnaala
+pS n  SR    Sn SR      SnSRS      p p  m pd  pmpd p
+GC+B C+C#+ C+B C+C#+  C+BC+C#+C+  G G  F GG# GFGG# G
+
+Kannaadi      valai munnaadi vizha en dheham  melinjachu
+S  SM G       R S   p  pS n  d p   S  SM G    S n  S RS
+C+ C+F+ E+  C#+ C+  G  GC+B G# G  C+ C+F+ E+ C+ B C+ C#+C+
+
+ kalyaana     varam unnaala perum nannaala    nenachachu
+ S  SM G      R S   p pS n  d p   S  SM G     S n S  RS
+C+ C+F+ E+  C#+ C+  G GC+B G# G  C+ C+F+ E+  C+ B C+ C#+C+
+
+M:
+ chinna vayasupulla     kanni manasukkulla
+ S   M  S S M S  M      S  G  S S G  S  G
+C+  F+ C+ C+ F+ C+ F+  C+ E+ C+ C+ E+ C+ E+
+
+ vanna kanavu   vandhadhey
+ S  M  S S M    S  M  MG
+C+ F+ C+ C+ F+ C+ F+ F+E+
+
+F:
+ kalyaanam kacheri   eppodhu
+ S  R  n   n S  d    d dnS
+C+ C#+ B   B C+ G#  G# G#BC+
+
+unakku
+sg  m
+CE  F
+
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+p  S  pp S   pS  p S  p  p m   g m  pdp  p  p   p  p p
+G  C+ GG C+  GC+ G C+ G  G F   E F  GG#G G  G   G  G G
+
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+p  S  pp S   pS  p S  p  p m   g m  pdp  p  p   p  p p
+G  C+ GG C+  GC+ G C+ G  G F   E F  GG#G G  G   G  G G
+
+un tho...lukkaaha thaan indha maa...lai yengudhu
+p  pmgmp m  g  m  p m   p p   pmgmp m   g  m pdm
+G  GFEFG F  E  F  G F   G G   GFEFG F   E  F GG#F
+
+kalyaanam kacheri eppodhu
+p  d  m   m p  g  g m grs
+G G#  F   F G  E  E F EC#C
+
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+p  S  pp S   pS  p S  p  p m   g m  pdp  p  p   p  p p
+G C+  GG C+  GC+ G C+ G  G F   E F  GG#G G  G   G  G G
+
+Stanza 2:
+M:
+Vaadaiya veesum kaathu valaikkudhey enna paathu
+
+F:
+Vaangalen neram paathu vandhu enna kaappaathu
+
+Kuthaala mazha emmela vizha appodhum soodaachu
+eppodhum ena kothaaha ana en dheham yedaachu
+
+Manja kulikkayila nenju viriyudhendha
+konjam anachu kollaiyaa
+
+kalyaanam kacheri eppodhu
+unakku
+
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+un tholukkaaha thaan indha maalai yengudhu
+kalyaanam kacheri eppodhu
+
+M:
+Poove eduthu oru mala thoduthu vachene   en chinna rasa
+Poove eduthu oru mala thoduthu vachene   en chinna rasa

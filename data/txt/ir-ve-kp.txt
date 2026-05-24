@@ -1,0 +1,85 @@
+Title: Vedham nee
+Film: Kovil puraa
+Source URL: https://www.newtfmpage.com/notes/ir/ve_kp.txt
+
+s r1 g3 m1 p n3 S
+here, r=r1, g=g3, m=m1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+vaedham  nee iniya naadham nee (2)
+pS Sp    p   mp m  p  m    p
+GC+ C+G  G   FG F  G  F    G
+
+nilavu  nee  kadhirum nee adimai naan  dhinamum oadhum (2)
+s r s   rm   r m  r   mp  mm p   mg    r  g m   grs
+C C# C C#F  C# F C#   FG  FF G   FE   C#  E F   EC#C
+
+(vaedham nee)
+
+karunai maevum poovizhip paarvaiyil kavidhai  inbam kaattugiraai (2)
+s r m   m  m   mg p m    g   r  s   s r m     p p   p   m n2 p
+C C# F  F  F   FE G F    E  C#  C   C C# F    G G   G   F A# G
+
+ilaiya thenral  kaatrinilae...
+mp  S  S   S    S  S  S S
+FG  C+ C+  C+  C+ C+ C+ C+
+
+ilaiya thenral   kaatrinilae
+mp  S  S   S     RS RS RSRS
+FG C+ C+  C+   C#+C+ C#+C+ C#+C+C#+C+
+
+ iniya     sandhap  paattinilae
+ SR M      M  M     PMGMRGMGRS
+C+C#+ F+  F+ F+    G+F+E+F+C#+E+F+E+C#+C+
+
+  edhilum  undhan naadhangalae
+  RS  R    Sp p   sp p   pS pm
+C#+C+ C#+ C+G G   CG G   GC+ GF
+
+ninaiththa porul tharum nirandhara sugam tharum
+p m    g   m r   g  m   r s  r  m  p m   p  n
+G F    E   F C#  E  F  C# C C#  F  G F   G  B
+
+(vaedham nee)
+
+andam bagirandam unai andumbadi vandhaay (2)
+m m   m m m  r   sr   m m  r m  p  p
+F F   F F F C#   CC#  F F C# F  G  G
+
+thandai oli jadhi tharumoa kamala paadham sadhiridumoa (2)
+p   p   pm  g m   r  g m   r g m  r  s    r m  r m p
+G   G   GF  E F  C#  E F  C# E F C#  C   C# F C# F G
+
+manamum   gunamum thinamum ezhudhum azhagae
+s r m     r m p   m  p n   p n S    n S R
+C C# F   C# F G   F  G B   G B C+   B C+ C#+
+
+malaiyum  kadalum nadhiyum adi  un vadivae
+s r  m    r m p   m p  n   pn   S  n S R
+C C# F   C# F G   F G  B   GB  C+  B C+ C#+
+
+nenjam    idhu thanjam ena    unaiththinam  ninaiththadhu
+nS nS     S S  nS  nS  SS     SR    S  n    S R    S  n
+BC+ BC+  C+ C+ BC+ BC+ C+C+  C+C#+ C+  B   C+ C#+ C+  B
+
+niththam  pudhu siththam  pera  isaiththamizh vadiththadhu
+nS  nS    S S   nS  nS    S S   SR    S  n    S R   S  n
+BC+ BC+  C+ C+  BC+ BC+  C+ C+ C+C#+ C+  B   C+ C#+ C+ B
+
+ isaiyil  unadhu  idhayam  magizhum
+ SR  M    GP M    GR  S    S S  R    n S  R     n S  R    S  n p  m p n
+C+C#+ F+ E+G+ F+ E+C#+ C+ C+ C+ C#+  B C+ C#+   B C+ C#+  C+ B G  F G B
+
+ manam gunam arindhaval
+ S S   p p   mm  p  p
+C+ C+  G G   FF  G  G
+
+kuzhaladhu sariyudhu   sariyudhu  kurunagai  viriyudhu viriyudhu
+s s  s s   r r r r     m m m m    r r r r    m m m m   p p p p
+C C  C C  C# C# C# C#  F F F F   C# C# C# C# F F F F   G G G G
+
+ vizhik karunai  mazhai adhil nanaiya varum oru manam  paravum
+ S S    S S S    S p    p p   p p  p  m m   pp  n n    S S  R   (???)
+C+ C+  C+ C+ C+ C+ G    G G   G G  G  F F   GG  B B   C+ C+ C#+
+
+(vaedham nee)

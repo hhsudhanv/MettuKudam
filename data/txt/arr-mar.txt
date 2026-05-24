@@ -1,0 +1,88 @@
+Title: Maargazhi poove
+Film: May madham
+Source URL: https://www.newtfmpage.com/notes/arr/mar.txt
+
+s g2 m1 d1 n2 S
+here, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+maargazhip poovae   maargazhip poovae
+s   g m    md d     g   m d    m  dmg
+C  D# F    FG# G#   D#  F G#   F  G#FD#
+
+unmadi   maelae  oaridam    vaendum
+g m d    gm gs   s g s n.   s   s
+D# F G#  D#F D#C C D# C A#. C   C
+
+meththai mael kangal     moodavum illai
+gm  m    m    m  dmg     gm m m   m dmg
+D#F F    F    F  G#FD#  D#F F F   F G#FD#
+
+un madi   saernthaal kanavugal       kollai
+m  d n    S    SG    Snd n n         S  ndmgs
+F  G# A#  C+  C+D#+  C+A#G# A# A#   C+  A#G#FD#C
+
+(maargazhi)
+
+Stanza 1:
+
+pookkalaip piriththu    puththagam padippaen
+gm  m m    m m   dmg    gm  m  m   m m  dmg
+D#F F F    F F   G#FD# D#F  F  F   F F  G#FD#
+
+pulvelikkul naan   muyal     poal kuthippaen
+m  d n  S   S G    S nd      n    S S   nSnd
+F G# A# C+ C+ D#+  C+ A#G#  A#   C+ C+ A#C+A#G#
+
+naan mattum iravil      thanimaiyil nadappaen
+gm   m  m   ndndn       m  m m  m   ndnd n
+D#F  F  F   A#G#A#G#A#  F  F F  F   A#G#A#G# A#
+
+nadaipaadhaik kadayil      thaeneer kudippaen
+m m  d  n     S S SG       Snd n     S S  nSnd
+F F  G#  A#  C+ C+ C+D#+  C+A#G# A# C+ C+ A#C+A#G#
+
+vaazhkaiyin  oru  paadhi    naan  engu   rasiththaen
+m  d d  d    mg   md d      n S   n d    n n   Snd
+F  G# G# G#  FD#  FG# G#   A# C+  A# G#  A# A# C+A#G#
+
+vaazhkaiyin maru paadhi naan  enrum  rasippaen
+m  d d  d   m g  md d   n S   n d    n n  SndnS
+F G# G# G#  F D# FG# G# A# C+ A# G# A# A# C+A#G#A#C+
+
+kaatril varum maegam poalae naan engum  midhappaen
+S  M    G M   G  S   n  d   n S  n d    n Sn  dm gm s
+C+ F+  D#+ F+ D#+ C+ A# G# A# C+ A# G# A# C+A# G#F D#F C
+
+(maargazhi)
+
+(venbaa paadi varum vandukku
+ g  m   m  m  m m   m  m  md
+D#  F   F  F  F F   F  F  FG#
+
+sendhaen thandhuvidum sirupookkal
+mg m     m   m  m m   m m md  gm
+FD# F    F   F  F F   F F FG# D#F
+
+konjam paada varum pennukku
+g  m   m  m  m m   m  m  md
+D# F   F  F  F F   F  F  FG#
+
+sandham thandhu vidum mainaakkal) (2)
+mg m    m   m   m m   m  md  gm
+FD# F   F   F   F F   F  FG# D#F
+
+Stanza 2: (notes similar to Stanza 1)
+
+kaavaerik karaiyil nadandhathumillai
+kadarkarai manalil kaal vaiththadhillai
+sudhandhira vaanil parandhadhumillai
+chudach chuda mazhayil nanaindhathum illai
+saalaiyil naanaagap poanadhumillai
+samayaththil naanaaga aanadhumillai
+aezhai manam kaanum inbam naan kaanavillai
+
+(maargazhi)
+
+(venbaa)

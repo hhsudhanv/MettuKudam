@@ -1,0 +1,102 @@
+Title: Roja roja
+Film: Kaadhalar Dhinam
+Source URL: https://www.newtfmpage.com/notes/arr/ro_kd.txt
+
+s r2 g3 m1 p d2 n3 S
+
+roajaa...roajaa...
+p  G2    RS SR
+G  D#+    D+C+ C+D+
+
+roajaa roajaa  roajaa roajaa roajaa roajaa roajaa roajaa (2)
+p  d   S  SRS  n  dp  p  dn  d  pm  m  pd  dS n   dp p
+G  A   C+  C+D+C+  B  AG  G  AB  A  GF  F  GA  AC+ B   AG G
+
+kanda pinnae unni daththil ennaivittu veeduvandhaen
+p  d  S  SRS n dp p   dn   d pm m  pd dS n dp p
+G  A  C+  C+D+C+ B AG G   AB   A GF F  GA AC+ B AG G
+
+unaith thenRal theendavum vidamaattaen
+nn     n   n   SR   S S   S S RS  nd
+BB     B   B   C+D+   C+ C+   C+ C+ D+C+  BA
+
+andha thingaL theendavum vidamaattaen
+n n   n   n   S    S GR  S S RS  nd
+B B   B   B   C+    C+ E+D+  C+ C+ D+C+  BA
+
+unai vaeRu kaigaLil tharamaattaen
+nn   n  n  S  S R   R  G RS  nd
+BB   B  B  C+  C+ D+   D+  E+ D+C+  BA
+
+naan tharamaattaen naan tharamaattaen
+d    d  S RS  Sd   d    p  m dp  p
+A    A  C+ D+C+  C+A   A    G  F AG  G
+
+roajaa...roajaa...roajaa...roajaa...
+g  gp    pS d pm  g  gp    pS SRS dp
+E  EG    GC+ A GF  E  EG    GC+ C+D+C+ AG
+
+nilaththinil un nizhal vizha aenguvaen
+p d   S  R   G  G M    G M   G2 R RS
+G A   C+  D+   E+  E+ F+    E+ F+   D#+ D+ D+C+
+
+nizhal vizhundha maNalaiyum madiyinil thaanguvaen
+p d    S R   RG  G M G  M   G M N2P   G2   R RS
+G A    C+ D+   D+E+  E+ F+ E+  F+   E+ F+ A#+G+   D#+   D+ D+C+
+
+udaiyena eduththu enai uduththu
+pd  S R  GG   G   SS   G2G2 G2
+GA  C+ D+  E+E+   E+   C+C+   D#+D#+ D#+
+
+noolaadai kodimalar idaiyinai uRuththum roajaa
+S  R  R   R G2R G2  SG2 R S   dd1  p    m  p
+C+  D+  D+   D+ D#+D+ D#+  C+D#+ D+ C+   AG#  G    F  G
+
+un paer mella naan sonnadhum en veettu roajaakkaL pookkinRana
+gm p    p  p  p    d1 m p    m  p   d1 S  n   R   S   n  d1p
+EF G    G  G  G    G# F G    F  G   G# C+  B   D+   C+   B  G#G
+
+oar naaL unnaik kaaNaavidil engae un anbenRu kaetkinRana
+gm  p    p p    pn2d1 m p   m p   d1 S n  R  S   n  d1p
+EF  G    G G    GA#G# F G   F G   G# C+ B  D+  C+   B  G#G
+
+nee vandhaal maRu kaNam vidiyum en vaa..namae
+p   R  R     R G2 R G2  R G2M   G2 RG2  RS S
+G   D+  D+     D+ D#+ D+ D#+  D+ D#+F+   D#+ D+D#+  D+C+ C+
+
+mazhaiyil nee nanaigayil enakkuk kaaichchal varum
+p d1  n   S   p d1 n S   pd1 n   S     S    n R
+G G#  B   C+   G G# B C+   GG# B   C+     C+    B D+
+
+veyilil nee nadakkayil enakku vaervai varum
+p d1 n  S   p d1 R S   pd1 n  S   S   n nR
+G G# B  C+   G G# D+ C+   GG# B  C+   C+   B BD+
+
+udalgaLdhaan rendu uNarvugaL onRu
+SR  RP M     M  M  SR  RM G2 G2G2
+C+D+  D+G+ F+     F+  F+  C+D+  D+F+ D#+ D#+D#+
+
+roajaa...roajaa...roajaa...
+RG2 RS   nd1 d1p  pm m
+D+D#+ D+C+   BG# G#G  GF F
+
+roajaa roajaa roajaa roajaa roajaa roajaa roajaa roajaa (2)
+kanda pinnae unnidaththil ennaivittu veeduvandhaen
+
+iLaiyavaLin idaiyoru noolagam
+padiththidavaa panivizhum iravugaL aayiram
+idaiveLi edhaRku sol namakku
+un naaNam oru muRai vidumuRai eduththaal enna
+ennaith theendak koodaadhena vaanoadu sollaadhu vangakkadal
+ennai aendhak koodaadena kaiyoadu sollaadhu pullaanguzhal
+nee thottaal nilavinil kaRaigaLum neengumae
+vizhigaLil vazhindhidum azhagu neerveezhchchiyae
+enakku nee unaiththara edhaRku aaraaychchiyae
+unaivida vaeRu ninaivugaL aedhu
+roajaa...roajaa...roajaa...
+
+roajaa roajaa roajaa roajaa roajaa roajaa roajaa roajaa (2)
+kanda pinnae unnidaththil ennaivittu veeduvandhaen
+
+roajaa roajaa roajaa roajaa roajaa roajaa roajaa roajaa (2)
+roajaa...roajaa...

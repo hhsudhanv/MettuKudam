@@ -1,0 +1,91 @@
+Title: Kanne Kalaimaane
+Film: Moondraam pirai
+Source URL: https://www.newtfmpage.com/notes/ir/kanne.txt
+
+s r2 g2 m1 p d1 n3 S
+here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+21 | Kiravaani                 | S R2 G2 M1 P D1 N3 S | S N3 D1 P M1 G2 R2 S
+
+other notes that also come are: g3, d2, n2
+
+Kanne Kalaimaane
+mp p  m p  mg3 mp
+FG G  F G  FE  FG
+
+Kanni Mayilena
+m  p  mg3 r s
+F  G  FE  D C
+
+Kandaen  Unai Naane
+sm gm    gr   s  s
+CF D#F  D#D   C  C
+
+Andhi Pagal Unai Naan
+s g   r g   sn.  sr
+C D#  D D#  CB.  CD
+
+Paarkiraen
+mgr r r
+FD#D D D
+
+Aandavanai   Ithai Thaan
+p. g r g     sn.   sr
+G. D# D D#   CB.   CD
+
+Ketkiraen
+grss s
+D#DCC C
+
+Aariraaro
+sgr s  n.
+CD#D C B.
+
+O  Rariro
+r  g r s
+D D# D C
+
+Stanza 1:
+
+Oomai   endraal oru vagai amaidhi
+rg3g3p  mg3 g3  sg3 g3p   mg3 g3
+DEEG    FE  E   CE  EG    FE  E
+
+Yezhai  endraal adhilum   amaidhi
+rg3g3p  mg3 g3  sg3 g3p   mg3 g3
+DEEG    FE  E   CE  EG    FE  E
+
+Neeyo kilippedu
+g3 mp p p  p p
+E  FG G G  G G
+
+Panpaadum   anandha kuyil pedu
+p  pd pd    md  p   p p   p p
+G  GG# GG#  FG# G   G G   G G
+
+Yeno     deivam sadhi seidhathu
+d2Sn2d2  d2 d2  m d2  Sn2d2 d2 d2
+AC+A#A   A  A   F A  C+A#A  A  A
+
+Pedhai   pola   vidhi seidhathu
+d2Sn2d2  d2 d2  m n2  dn2d2 d2
+AC+A#A   A A    F A#  G#A#A A
+
+(Kanne)
+
+Stanza 2: (notes similar to Stanza 1)
+
+Kaadhal konden kanavinai valarthen
+
+kanmani unai naan karuthinil niraithen
+
+unakke uyiraanen
+
+un vazhvil enai nee maravaadhey
+
+neeyillaamal edhu nimmadhi
+
+neethaan endrum en sannidhi
+
+(Kanne)

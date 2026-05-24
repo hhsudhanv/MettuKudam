@@ -1,0 +1,59 @@
+Title: Manjal poosum
+Film: Friends
+Source URL: https://www.newtfmpage.com/notes/ir/man_fr.txt
+
+s r2 g2 m1 p d1 n2 S
+
+Manjal poosum vaanam thottu paarthaen
+n  R   S  p   n  R   S   p  P   R
+
+konji paesum thathai paechai kaettaen
+n  R  S  p   n  R    S   p   m   p
+
+saelai katti poahum maegam paarthaen
+n  R   S  p  n  R   S  p   P   R
+
+soalai poovil maalai ondru kaettaen
+n  R   S  p   n  R   S  p  m   p
+
+manadhile manadhile pudhu alaigal adithadhu
+p p G  G  p p G  G  R G   MG  n   dd n  nd
+
+vizhiyile vizhiyile pon meengal thudithadhu
+p p  G G  p p  G G  RG  MG  n   d  d n  nd
+
+kaadhal varuha varuha
+n  n    p p d  p d p
+
+ival naanam ozhiha ozhiha
+pd   n  n   pp  d  pd  p
+
+(Manjal poosum)
+
+Stanza 1:
+
+koalam poada vaasal ulladhu
+G  G   R  G  R  R   S R RSn3
+
+undhan veedo vaasal atradhu
+p pm   p  R  G  G   RG  G
+
+undhan ullam kovil poandradhu
+G G    R G   R R   S   R  RSn3
+
+adhanaal thaane naan dheivam kandadhu
+pp  pm   p   pR R    G   G   R  G G
+
+kangal kaanum dhoorathil vaazhum vaazhkkai poadhum
+P  P   MP D   P   G MGR  R  R    SR    G   R  Rn
+
+dhaagam konda maegangal neeraai mannil saerum
+P   P   MP D  P  G  MGR R  R    SR G   R  Rn
+
+indha kaadhal oruvazhi
+G G   R  R    nn n d
+
+thirumbi sellu kanmani
+G  G  G  R  R  n  n d
+
+(Manjal poosum)

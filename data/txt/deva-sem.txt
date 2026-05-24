@@ -1,0 +1,117 @@
+Title: Sembaruthi poove
+Film: Kaadhal solla vandhen
+Source URL: https://www.newtfmpage.com/notes/deva/sem.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Sembaruthi poove sembaruthi poove
+s  s s r   gr g  s  s s r   gr g
+C  C C D  D#D D# C  C C D  D#D D#
+
+uLLam aLLi ponaai  ninaivillaiyaa
+s s   s r  grsn.   d.d.sn. d. p
+C C   C D D#DCA#. G#.G#.CA#. G#. G
+
+kangaL ariyaamal kanavukkuL vandhai
+s  s   sr gr g   s s s  r   gr g
+C  C   CD D#DD#  C C C  D  D#D D#
+
+manasukkuL nuzhaindhai  ninaivillaiya
+s s s  r   g r    sn.   d.d.sn. d. p
+C C C  D  D# D    CA#. G#.G#.CA#. G#. G
+
+unnai chutri chutri vandhen ninaivillaiya
+s r   g  p   p  p   p  p    d d  p  p  p
+C D  D#  G   G  G   G  G   G# G# G  G  G
+
+ennai suthamaaga marandhen ninaivillaiya
+s r   g p  p  p  p p  p    p dS  d  p  p
+C D  D# G  G  G  G G  G    G G#C+ G# G G
+
+adhai sollathaan ninaikkindren
+sr    g  g gm    r s   s   rsn.
+CD   D# D# D#F   D C   C   DCA#.
+
+naan sollamal thavikkindren
+p.p. mg mgm   r  s  s   sgrsd.p.
+G.G. FD# FD#F D  C  C   CD#DCG#.G.
+
+(Sembaruthi)
+
+pooenna sollumendru kaatrariyum
+p  p d  p  m m   g  gm m  p p
+G  G G# G  F F  D# D#F F  G G
+
+kaatrenna sollumendru poovariyum
+p   p d   p  m m   g  gmp mm mrmr
+G   G G#  G  F F  D# D#FG FF FDFD
+
+naan enna solla    vandhen
+m    m pm mg mg    gr rs
+F    F GF FD# FD# D#D DC
+
+nenjil enna aLLi     vandhen
+m  m   m pm mg mg    gr rs
+F  F   F GF FD# FD# D#D DC
+
+oru nenjam thaan ariyum
+sr  g  rs  sg    rs s
+CD D#  DC  CD#   DC C
+
+vaanavil enna solla  vandhadhendru
+p  p d   p  m m   g  gm m  p   p
+G  G G#  G  F F  D# D#F F  G   G
+
+megame unakkenna theriyaadhaa
+p p d  pm  pm g  g  mp m mrmr
+G G G# GF  GF D# D# FG F FDFD
+
+alli poo malarndhadhu
+m m  pm  mg mg gr rs
+F F  GF  FD# FD# D#D DC
+
+yaenendru venni la ve
+m  m  pm  mg mg gr rs
+F  F  GF  FD# FD# D#D DC
+
+unakkenna theriyaadha
+sgg r  s  sg g rs s
+CD#D# D C CD# D# DC C
+
+Ohooooo
+valiyaa  sugamaa theriyavillai
+n.n.sr   r r gm  m  n d p  p
+A#.A#.CD D D D#F F A# G# G G
+
+siragaa   siraiyaa puriyavillai
+n.n.sr    r r  gm  m n d p  p
+A#.A#.CD  D D D#F  F A# G# G G
+
+adhai  sollathaan ninaikkindren
+sr     g  g gm    r s   s   rsn.
+CD    D#  D# D#F  D C   C   DCA#.
+
+naan sollamal thavikkindren
+p.p. mg mgm   r  s  s   sgrsd.p.
+G.G. FD# FD#F D  C  C   CD#DCG#.G.
+
+(Sembaruthi)
+
+jannalil theriyum nilavudane
+sandai pottadhu ninaivillaiya
+maram chedi kodiyidam
+manasukkuL iruppadhai solliyadhu ninaivillaiya
+enbadhu pakkam uLLa puthagam engum
+kavidhai ezhudhiya ninaivillaiya
+ezhudhum kavidhaiyai evar kannum
+kaanum munbu kizhithadhu ninaivillaiya
+Ohoo
+iravil iravil kanavillaiya
+kanavum kanavai ninaivillaiya
+
+adhai sollathaan ninaikkindren
+naan sollamal thavikkindren
+
+(Sembaruthi)

@@ -1,0 +1,73 @@
+Title: Poovil vandu
+Film: Kaadhal oviyam
+Source URL: https://www.newtfmpage.com/notes/ir/pvl_ko.txt
+
+s r2 g3 p d2 S
+here, r=r2, g=g3, d=d2, [unless otherwise specified]
+---------------------------------------------------------------------
+
+namdham namdhanamdham namdhanamdham namdhanamdham
+g  r    g  s  r  s    r  d. s  r    g  p  gr s
+E  D    E  C  D  C    D  A. C  D    E  G  ED C
+
+poovil vandu koodum kandu poovum kangal moodum
+g  r   g  s  r  s   r  d. s  r   g  p   gr s
+E  D   E  C  D  C   D  A. C  D   E  G   ED C
+
+poovinam maanaadu poadum vandugal  sangeedham paadum
+sg r sd. d. d. d. d. d.  d.rs d.p. p. p. p.   p. p.
+CE D CA. A. A. A. A. A.  A.DC A.G. G. G. G.   G. G.
+
+poovinam maanaadu poadum vandugal  sangeedham paadum
+sg r sd. d. d. d. d. rs  r  s d.p. p. p. p.   p. sd.
+CE D CA. A. A. A. A. DC  D  C A.G. G. G. G.   G. CA.
+
+namdham
+s  r
+C  D
+
+(poovil)
+
+Stanza 1:
+
+raagam jeevanaagum nenjin oasai thaalamaagum
+gp p   pd p pg g   gr g   gp p  pd  p p  p
+EG G   GA G GE E   ED E   EG G  GA  G G  G
+
+geedham vaanam poagum andha maegam paalamaagum
+gp p    pd p   pg g   gr g  gp p   pd p p  p
+EG G    GA G   GE E   ED E  EG G   GA G G  G
+
+dhaevi endhan paadal kandu maarbil ninru aadum
+rs  gr g p    pr g   p  d  dS  Sg  p  d  dS S
+DC  ED E G    GD E   G  A  AC+ C+E G  A  AC+C+
+
+naadham onru poadhum endhan aayul koadi maadham
+pd d    d p  dSd d   pg p   pd d  d  p  dSd d
+GA A    A G  AC+AA   GE G   GA A  A  G  AC+AA
+
+theeyil ninrapoadhum andhath theeyae vendhu poagum
+pd  d   d  p dSd d   pg p    pd  d   d  p   dSd d
+GA  A   A  G AC+AA   GE G    GA  A   A  G   AC+AA
+
+naanae  naadham...aa     aa   aa  aa  a
+dp Sd   RS SR     SRS    dSd  pdp gpg r
+AG C+A D+C+ C+D+  C+D+C+ AC+A GAG EGE D
+
+thanamdha
+d. s  r
+A. C  D
+
+(poovil)
+
+Stanza 2: (notes similar to Stanza 1)
+
+vaanam en vidhaanam indha boomi sannidhaanam
+paadham meedhu moadhum aaru paadum suprabaadham
+raagam meedhu dhaagam kondu aarum ninru poagum
+kaatrin dhaesamengum endhan gaanam senru thangum
+vaazhum loagamaezhum endhan naadham senru aadum
+vaagai soodum...aa a aa a aa a aa a a
+namdham
+
+(poovil)

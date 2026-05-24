@@ -1,0 +1,101 @@
+Title: Kaadhal vaanoli
+Film: Album
+Source URL: https://www.newtfmpage.com/notes/new/kad31_alb.txt
+
+s r2 g2 m1 p d2 n2 S
+
+s grs  n.sgrs     s grs n.smgr (2)
+C D#DC A#.CD#DC   C D#DC A#.CFD#D
+
+rgmdnS    gmdnS (2)
+DD#FAA#C+ D#FAA#C+
+
+Ettum dhisaigalum saatchigal aaga,
+s s   s  s  s s   s   g  r   sndns
+C C   C  C  C C   C   D# D   CA#AA#C
+
+Naangu kanngal sandaigal poda,
+s   s  s   s   n.sm  g   r r
+C   C  C   C   A#.CF D#  D D
+
+Thaavi kamalatthil vettugal noora,
+s   s  s s s  s    n.sm g   r  r
+C   C  C C C  C    A#.CF D# D  D
+
+Paarvaiyin kaadhal pookkal paritthaal,
+s   r  g   m  dn   S   S   S S  S
+C   D  D#  F  AA#  C+  C+  C+C+ C+
+
+Paritthaal,  paritthaa-aa-aal,
+d n  GRS     d n  GRSndm ndmgrs
+A A# D#+D+C+ A A# D#+D+C+A#AF A#AFD#DC
+
+Notes: s r2 g2 m1 p d2 n3 S
+
+Kaadhal vaanoli, seiythi  solluthae,
+n  n    S  S S   RG  R    S  S S
+B  B    C+ C+C+  D+D#+ D+ C+ C+C+
+
+Moaga moottangal, manathai thodumaa? Manathai
+dn n  S   S  S    n d pm   d  p mg   p m grs
+AB B  C+  C+ C+   B A GF   A  G FD#  G F D#DC
+
+Thodumaa thodumaa? Manathai thodumaa?
+n. n.n.  s  s s    n.n.n .  s  s s
+B. B.B.  C  C C    B.B.B .  C  C C
+
+Vanga kadalpole, nenja    kadalil,
+n  n  S S  S     RG R     S S S
+B  B  C+C+ C+    D+D#+ D+ C+C+C+
+
+Kaadhal puyalthaan, maiyam idumaa? Idumaa
+dn n    S S  S      nd pm  dp mg   pm grs
+AB B    C+C+ C+     BA GF  AG FD#  GF D#DC
+
+idumaa idumaa? Maiyam idumaa?
+n.n.n. ss s    n. n.  ss s
+B.B.B. CC C    B. B.  CC C
+
+Stanza 1:
+
+Iravathu nodigalil, iruthaya araigalaai, Miruthanga oligalum kaettanavaa?
+m2pm2p   m2p d d    m2pm2 p  m2p d d     d n d   n  dn R S   dn  n n nSndp
+F#GF#G   F#G A A    F#GF# G  F#G A A     A B A   B  AB D+ C+ AB  B B BC+BAG
+
+Ivan iru kaigalil, irupathu viralgalaai, Ivalathu viralgalum saernthanavaa?
+m2p  m2p m2pd d    m2pm2p   m2p  d d     dn d n   d n  R S   dn   n  n nSndp
+F#G  F#G F#GA A    F#GF#G   F#G  A A     AB A B   A B  D+C+  AB   B  B BC+BAG
+
+Yaarum    nadakkaatha    saalaiyilae,       Kaadhalin    thadangal therigindrathaa?
+RG G      R R  GS S      SR R  R SRSn       RG G  R      G  S  S   S  R R   R R
+D+D#+ D#+ D+ D+ D#+C+ C+ C+D+ D+ D+ C+D+C+B D+D#+ D#+ D+ D#+C+ C+  C+ D+D+  D+D+
+
+Thandavaalathil     oaratthilae,       Pattaampoochigal   parakkindrathaa?
+RG  G R  G S        SRR  R  SRSn       RG G   R  G  S     S R  R   R R
+D+D#+ D#+ D+ D#+ C+ C+D+D+ D+  C+D+C+B D+D#+ D#+ D+ D#+C+ C+D+ D+  D+D+
+
+Vannatthu poochigal paranthaal    enna?  Viraloadu vannam saerkindrathaa?
+nd n  S   S  S  S   R G  RG       RSS    R S n  S  nd p   mg  r   r r
+BA B  C+  C+ C+ C+  D+ D#+ D+D#+  D+C+C+ D+C+B  C+ BA G  FD#  D   D D
+
+Thodavaa, thodavaa, manathai thodavaa?
+n. n.ns   s  s s    n.n.n.s  s  s s
+B. B.BC   C  C C    B.B.B.C  C  C C
+
+Idavaa, idavaa, maiyam idavaa?
+n.n.n   ss s    n. n.  ss s
+B.B.B   CC C    B. B.  CC C
+
+Stanza 2: (notes similar to Stanza 1)
+Maramkotthi paravaiyum, maramkotthi poguthae,
+Manathirkkul nadai malai adikkirathae,
+Malai endru ponaalum, maratthilae thooruthae,
+Maiyal ida patti-mandram nadakkirathae,
+Indru neer vimbu indraethaan,
+Malarum thaamaram oollathuvoe?
+Idhaya kilaiyodu poo pookkum,
+Kaadhal thaamaramthaan adhuvoe?
+Kootthaiyum naavila viranthaal aena?
+Kaatthaala kaadhal aagiradhoe?
+Thodavaa, thodavaa, manathai thodavaa?
+Idavaa, idavaa, maiyam idavaa?

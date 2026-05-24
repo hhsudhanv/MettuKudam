@@ -1,0 +1,63 @@
+Title: Thenral vandhu
+Film: Thendrale ennai thodu
+Source URL: https://www.newtfmpage.com/notes/ir/th_tet.txt
+
+s r2 m2 p d2 n3 S
+here, r=r2, m=m2, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ Thenral  vandhu ennaitthodum,
+ m   p    m  p   r r   n.  s
+F#   G   F#  G   D D   B.  C
+
+aahaa  Sattham indri  mutthamidum
+s r    m  pd   pm p   r  r  sn. s
+C D   F#  GA   GF# G  D  D  CB. C
+
+pagalE   pOi vidu,
+s r rp   mpd p m
+C D DG  F#GA G F#
+
+iravE   paai     kodu
+sr srp  mpndnS   n dndpm
+CD CDG F#GBABC+  B ABAGF#
+
+ nilavE  panneerai    thoovi   Oyvedu
+ mp mpn  n  RSnSRn    dpmpdm   rsn.srs n.srm
+F#G F#GB B D+C+BC+D+B AGF#GAF# DCB.CDC B.CDF#
+
+(Thenral vandhu)
+
+Stanza 1:
+
+thooral pOdum innEram   thOLil Saindhaal   pOdhum
+pS  n   dnS   p mpmdp   s  n.  d.n.sr rm   md p   pS
+GC+ B   ABC+  G F#GF#AG C  B.  A.B.CD DF# F#A G   GC+
+
+Saaral paadum sangeedham kaalgaL thaaLam     pOdum
+pS n   dn S   p  mpmd p  s   n.  d.n.sr rm   md p
+GC+ B  AB C+  G F#GF#A G C   B.  A.B.CD DF# F#A G
+
+therindha piragu,       thiraigaL edharkku
+p  n  d   n n S  ndndp  p  n  d   n S   SR  SRSn
+G  B  A   B B C+ BABAG  G  B  A   B C+ C+D+ C+D+C+B
+
+nanaindha piragu        naNam edharkku
+p n   d   n n S  ndndp  pn d  n S   R
+G B   A   B B C+ BABAG  GB A  B C+  D+
+
+ maarbil        Saayum   nEram
+ MRMR Sn        SnSn np  dpdp m (r m d S R)
+F#+D+F#+D+ C+B C+BC+B BG AGAG F# D F# A C+ D+
+
+(Thenral vandhu)
+
+Stanza 2: (notes similar to Stanza 1)
+
+dehamengum minSaaram paaindhadhEnO anbE
+mOgam vandhu immaadhu veezhndhadhenO kaNNE
+malarndha kodiyO, mayangi kidakkum
+ithaLin rasangaL, enakku pidikkum
+saaram oorum nEram
+
+(Thenral vandhu)

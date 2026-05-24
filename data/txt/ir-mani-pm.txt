@@ -1,0 +1,67 @@
+Title: mani oasai kaettu ezhundhu
+Film: Payanangal Mudivathillai
+Source URL: https://www.newtfmpage.com/notes/ir/mani_pm.txt
+
+s r1 g2 m1 p d1 n2 S
+r=r1, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+mani   oasai kaettu ezhundhu
+p.d.   n.ss  g r s  s s  s
+G.G#. A#.CC D# C# C C C  C
+
+nenjil  aasai  koadi  sumandhu
+p. d.   n.ss   g rs   s s  s
+G. G#. A#.CC  D# C#C  C C  C
+
+thiruth thaeril naanum amarndhu
+s  r    gp  p   p  p   pd   mg
+C  C#  D#G  G   G  G   GG#  FD#
+
+oru koavil saerndha pozhudhu
+sr  gp p   p  d n   d d  mg
+CC# D#G G  G G# A# G# G# FD#
+
+ andhak koavilin   mani   vaasalai
+ g g    gp p nd    m r    rm m m
+D# D#  D#G G A#G#  F C#  C#F F F
+
+inru   moodudhal  muraiyo   hmm...
+s r    gm m pg    r s  s    grn.
+C C#  D#F F GD#  C# C  C   D#C#A#.
+
+(mani oasai)
+
+Stanza 1:
+
+kannan  paadum paadal     kaetka raadhai  vandhaal  aagaadho
+pS S    S  S   Sn nR      S   S  p  d     n  SR     n SR S
+GC+ C+ C+ C+  C+A# A#C#+ C+  C+  G G#    A# C+C#+  A# C+C#+ C+
+
+raadhaiyodu      aasaik kannan paesak koodaadho
+pS S   SnR       S n    d  p   g  p   dn n  dp
+GC+ C+ C+A#C#+  C+ A#  G#  G  D#  G  G#A# A# G#G
+
+ raadhai manam  yengalaamo
+ dm m    m m    dmdm g3 g3
+G#F F    F F   G#FG#F E E
+
+ kannan mugam  vaadalaamo
+ dm m   m m    dmdm g3 g3
+G#F F   F F   G#FG#F E E
+
+ vaarththai maarumo    nenjam  thaangumo
+ r  m  m    mg3m gr2n. p. n.   g r  g rs
+C#  F  F    FEF D#DA#. G. A#. D# C# D# C#C
+
+(mani oasai)
+
+Stanza 2: (notes are similar to stanza 1)
+
+paadhai maarip poagumboadhu oorum vandhae saeraadhu
+thaalam maarip poadumboadhu raagam thoanraadhu
+paadum pudhu veenai ingae raagam adhil maarum angae
+thaalam maarumo raagam saerumo
+
+(mani oasai)

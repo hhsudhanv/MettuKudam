@@ -1,0 +1,139 @@
+Title: April maadhathil
+Film: Vaali
+Source URL: https://www.newtfmpage.com/notes/deva/a_v.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+April Maadhathil
+s s   g  m  p
+C C   D# F  G
+
+Oru artha jaamathil
+pp  p d   p  m mp
+GG  G G#  G  F FG
+
+En Jannal orathil Nila Nila
+p  n  n   dp m    rgm  grs
+G  A# A# G#G F    DD#F D#DC
+
+Kangal Kasakki
+s  s   g m  mp
+C  C  D# F  FG
+
+Naan Thulli yezhundhen
+p    p   d  p m   mp
+G    G  G#  G F   FG
+
+Adhu Kaadhil Sonnadhu  Hallo  Hallo
+pp   pn n    d  p m    r  gm  gr s
+GG   GA# A# G#  G F    D D#F D#D C
+
+Nila  Nila  Kai Varumaa
+n.s   n.s   n.  s m r
+A#.C A#.C  A#.  C F D
+
+Illai   Illai Kai  Sudumaa
+n.s     n.s   p.   n.r s
+A#.C   A#.C   G.  A#.D C
+
+Stanza 1:
+
+ Idhayam  Thirududhal     muraiya
+ nS  S    S  S G Sn       n S  S
+A#C+ C+  C+ C+ D#+ C+A#  A# C+ C+
+
+ Andha    Kalavukku  thandanaigal  illaiyaa  illaiyaa
+ S Sn     n S n  p   m   m p  mg   gmm  mpm  g m grs
+C+ C+A#  A# C+ A# G  F   F G  FD#  D#FF FGF D# F D#DC
+
+ Moththathil Kasaiyadi      Nooru
+ nS  S  S    S S  G Sn      nS S
+A#C+ C+ C+  C+ C+ D#+ C+A# A#C+ C+
+
+ Andha   Mugathil Vizhavendum illaiyaa  illaiyaa
+ S Sn    n S n    p m  p  mg  gmm  mpm  g m  grs
+C+ C+A# A# C+ A#  G F  G  FD# D#FF FGF D# F D#DC
+
+Nee  konda kaadhalai    nijamendru naan kaana
+pn   n  n  nS RS n      n d d  p   pd   pd pm
+GA# A# A# A#C+ D+C+ A# A# G# G# G  GG#  GG# GF
+
+Tharkolai seiyachonnal seiyvaayaa?
+p   p p   p  n d   p   p   p  p   pdpm
+G   G G   G A# G#  G   G   G  G   GG#GF
+
+Thappithu naadu thaandi selvaaya?
+p   p p   p  n  d    p  p  p  p
+G   G G   G A# G#    G  G  G  G
+
+Idhaya  malaiyeri    nenjendra pallathil
+pn  n   n S  RSn     nd d  p   pd pdpm
+GA# A# A# C+ D+C+A# A#G# G# G  GG# GG#GF
+
+Kudhiththu naan saaga maattenaa
+p p    p   pn   d  p  p   p p   pdpm
+G G    G   GA# G#  G  G   G G   GG#GF
+
+Kumari nee solli maruppena
+p p p  pn  d  p  p p  p p
+G G G  GA# G# G  G G  G G
+
+(April)
+
+Stanza 2:
+
+ Maegathin   ullae naanum   olindhaal
+ nS S S      S S   G  Sn    nS  S
+A#C+ C+ C+  C+ C+ D#+ C+A# A#C+ C+
+
+ Aiyo    Eppadi   ennai kandu   pidippai  pidippai
+ S Sn    nSn p    m m   p  mg   gmm  mpm  g m grs
+C+ C+A# A#C+A# G  F F   G  FD# D#FF  FGF D# F D#DC
+
+ Maegathil  Minnal Torch    adithu
+ nS S S     S  S   G Sn     nS S
+A#C+ C+ C+ C+ C+  D#+ C+A# A#C+ C+
+
+ andha   vaanathil unnai kandu   pidipen  pidipen
+ S Sn    nS n p    m m   p  mg   gmm mpm  g m grs
+C+ C+A# A#C+ A# G  F F   G  FD# D#FF FGF D# F D#DC
+
+Hey thullaadhey
+S   s   r  rg
+C+  C   D  DD#
+
+Enai Kollaadhey
+rr   r  g  gm
+DD   D D#  D#F
+
+Un Paarvayil poothadhu naanaa
+m  gm  m m   m  pm g   mp mp
+F  D#F F F   F  GF D#  FG FG
+
+Sudu kelvi  kaettaalum    Pani vaarthai solgindrai
+p n  n  n   nS  RS n      n d  dp  p    pd pd pm
+G A# A# A# A#C+ D+C+ A#  A# G# G#G G    GG# GG# GF
+
+En nenjam asaiyadhu puriyaadhaa
+mp p  p   pn  d pm  m p p  p     pdpm
+FG G  G   GA# G# GF F G G  G     GG#GF
+
+kannaadi vaLaiyaadhu theriyaadha
+mp p  p  p n  d  pm  m  p p  p
+FG G  G  G A# G# GF  F  G G  G
+
+Kannaadi    mun nindru   un nenjai nee kelu
+pn n  n     nS  RS n     n  d  p   pd  pd pm
+GA# A# A#  A#C+ D+C+ A# A# G#  G   GG# GG# GF
+
+Than kaadhal adhu sollum theriyaadhaa
+mp   p  p    pn   d  pm  m  p p  p     pdpm
+FG   G  G    GA#  G# GF  F  G G  G     GG#GF
+
+Thazhampoo maraithaalum adangaadhaa
+mp p   p   p n  d   pm  mp  p  p
+FG G   G   G A# G#  GF  FG  G  G
+
+(April)

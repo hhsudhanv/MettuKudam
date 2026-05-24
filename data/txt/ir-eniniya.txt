@@ -1,0 +1,80 @@
+Title: En Iniya pon nilave
+Film: Moodupani
+Source URL: https://www.newtfmpage.com/notes/ir/eniniya.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+en iniya pon nilaavae
+s  gr s  r   n.s  s
+C D#D C  D  A#.C  C
+
+pon  nilavilen kanaavae
+s    g r s  r  n.s  s
+C   D# D C  D A#.C  C
+
+ninaivilae pudhu sugam dha dha dha dhaa dha dha
+p p  p psp p p   p psp d   p   m   d    p   m
+G G  G GCG G G   G GCG G#  G   F  G#    G   F
+
+thodarudhae dhinam dhinam dha dha dha dhaa dha dha
+p  p p p sp p  p   p  psp d   p   m   d    p   m
+G  G G G CG G  G   G  GCG G#  G   F  G#    G   F
+
+(en iniya)
+
+Stanza 1:
+ panneeraith thoovum mazhai
+ S  S  G     R   G   S R
+C+ C+ D#+   D+  D#+ C+ D+
+
+ jillenra kaatrin  alai
+ S  S  G  R   G    SR
+C+ C+ D#+ D+ D#+  C+D+
+
+saerndhaadum innaeramae
+m    d   p   d nd p p
+F   G#   G  G# A#G# G G
+
+ en nenjil ennennavoa
+ S  S  G   R G  S R
+C+ C+ D#+ D+ D#+ C+ D+
+
+ ennangal  aadum  nilai
+ S S  G    R G    S R
+C+ C+ D#+ D+ D#+ C+ D+
+
+ennaasai unnoaramae
+m d  p   d nd p p
+F G# G  G# A#G# G G
+
+ venneela  vaanil   adhil  ennenna  maegam
+ n  n  p   np pg    g p    n n  d2  S  n
+A# A#  G  A#G GD#  D# G   A# A# A  C+  A#
+
+ oorgoalam poagum   adhil undaagum raagam
+ n  n  p   np pg    g p   n n  d2  S  n
+A# A#  G  A#G GD#  D# G  A# A# A  C+  A#
+
+puriyaadhoa  en ennamae
+p n n  G     R  m p d
+G A#A# D#+  D+  F G G#
+
+ anbae...
+ d n3 R
+G# B D+
+
+(en iniya)
+
+Stanza 2:
+ponmaalai naerangalae en inba raagangalae
+poovaana koalangalae
+then kaatrin bimbangalae thaenaadum roajaakkalae
+ennenna jaalangalae
+kannoadu thoanrum siru kanneeril aadum
+kai saerum kaalam adhai en nenjam thaedum
+idhudhaanae en aasaigal
+anbae...
+
+(en iniya)

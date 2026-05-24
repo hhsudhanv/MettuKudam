@@ -1,0 +1,73 @@
+Title: Janani janani
+Film: Thaai Mookaambikai
+Source URL: https://www.newtfmpage.com/notes/ir/janani.txt
+
+s r2 g3 m2 p d2 n3 S
+here, r=r2, g=g3, m=m2, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+janani janani jagam nee agam nee
+n.n.s  s s s  s n.  r   ss   s
+B.B.C  C C C  C B.  D   CC   C
+
+ jaga  kaarani nee paripoorani nee
+ m m   p  m g  r   s n.r  s s  s
+F# F#  G F# E  D   C B.D  C C  C
+
+jaga kaarani nee paripoorani nee
+n n  S  n n  d   p p m  g g  r
+B B C+  B B  A   G G F# E E  D
+
+(janani)
+
+Stanza 1:
+
+ oru maan maruvum siru poondhiraiyum
+ mm  p    p p p   p m  d   p  p  p
+F#F# G    G G G   G F# A   G  G  G
+
+ sadai vaar  kuzhalum idai vaaganamum
+ m d   mdnS  n d  p   mg   r  g m p
+F# A  F#ABC+ B A  G  F#E   D  E F#G
+
+konda  naayaganin kulir  dhaegaththilae
+p  m   md d d nd  p m    md  d   d  nd
+G  F# F#A A A BA  G F#  F#A  A   A  BA
+
+ ninra  naayagiyae  ida vaagaththilae
+ m  d   mdnSnd p    pm  md p   p  p
+F#  A  F#ABC+BA G   GF# F#A G  G  G
+
+jagan  moahini nee simma vaahini    nee
+n n    S  S S  S   S  n  nR S S     S
+B B   C+ C+ C+ C+ C+  B  BD+ C+ C+  C+
+
+jagan moahini     nee simma  vaahini    nee
+n n   nR R R      Sn  Sn Sn  nR R R     Sn
+B B   BD+ D+ D+  C+B C+B C+B BD+ D+ D+  C+B
+
+jagan  moahini   nee simma vaahini   nee
+n R    GMRn d    p   m  d  nSdSnd    p
+B D+  E+F#+D+B A G  F#  A  BC+AC+BA  G
+
+(janani)
+
+Stanza 2: (notes similar to Stanza 1)
+
+chathur vaedhangalum panja boodhangalum
+shan maarggangalum saptha theerththangalum
+ashta yoagangalum nava yaagangalum
+thozhum poongadalae malai maamagalae
+alai maamagalae kalai maamagalae (3)
+
+(janani)
+
+Stanza 3: (notes similar to Stanza 1)
+
+svarna raegaiyudan svayamaagi vandha
+linga roopiniyae mookambigaiyae
+pala thoaththirangal dharma saaththirangal
+panindhae thuvazhum mani naeththirangal
+sakthi peedamum nee sarva moatchamum nee (3)
+
+(janani)

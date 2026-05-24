@@ -1,0 +1,95 @@
+Title: Madhura mari kozhundhu
+Film: Enga ooru paattukkaaran
+Source URL: https://www.newtfmpage.com/notes/ir/ma_eop.txt
+
+s r1 g3 m1 p d1 n3 S
+here, r=r1, g=g3, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+madhura mari kozhundhu vaasam
+p d  S  n d  m p   d   p  pm
+G G# C+ B G# F G  G#   G  GF
+
+yen raasathi    unnudaiya nesam
+m   pd S n      d m p  d  p p
+F   GG# C+ B   G# F G  G# G G
+
+maanoda paarvai    meenoda saerum
+mp p p  pdSndp     m  m m  gmdpmg
+FG G G  GG#C+BG#G  F  F F  EFG#GFE
+
+maaraama  ennai thottu paesum
+sr m  g   r n.  s   r  s  s
+CC# F E  C# B.  C  C#  C  C
+
+idhu maraiyaadha ennudaiya paasam
+ss   s r  m  g   r n.s  r  s  s
+CC   C C# F  E  C# B.C C#  C  C
+
+(madhura)
+
+Stanza 1:
+
+pottunnaa pottu vachu vettu vettunnu vettiputtu
+m  m  m   m  m  m m   m  m  m  m  m  m  m m  pmg
+F  F  F   F  F  F F   F  F  F  F  F  F  F F  GFE
+
+pattunnu selaiyai katti ettu  vachu  nadandhukittu
+g  g  g  g g  g   g  g  g md  p mg   r s  s  s  s
+E  E  E  E E  E   E  E  E FG# G FE  C# C  C  C  C
+
+pottunnaa pottu vachu vettu vettunnu vettiputtu
+m  m  m   m  m  m m   m  m  m  m  m  m  m m  pmg
+F  F  F   F  F  F F   F  F  F  F  F  F  F F  GFE
+
+pattunnu selaiyai katti ettu  vachu  nadandhukittu
+g  g  g  g g  g   g  g  g md  p mg   r s  s  s  s
+E  E  E  E E  E   E  E  E FG# G FE  C# C  C  C  C
+
+kattunnaa  kattiputte nenjai  konjam kattiputte
+s  r  sr   s  n.s  s  s  r    s  r   s  n.s  s
+C  C# CC#  C  B.C  C  C  C#   C C#   C  B.C  C
+
+vettum iru  kannai vachu ennai katti poattuputte
+s  r   sr   s  n.  s s   s r   s  r  sn. n.s  s
+C  C#  CC#  C  B.  C C   C C#  C  C# CB. B.C  C
+
+kattu adhu unakku mattum  thaanaa
+s  s  SS   SS  n  S  R    SnSnSRSndp
+C  C C+C+ C+C+ B C+ C#+  C+BC+BC+C#+C+BG#G
+
+indha sittum kooda   sikkiyadhu   yenaa
+m g   s  sd  pd d    d  dpd n     dp p
+F E   C  CG# GG# G# G#  G#GG# B  G#G G
+
+eppodho vitta kurai    maamaa
+s s S   S  Sn S R      SnSnSRSndp
+C C C+ C+ C+B C+ C#+  C+BC+BC+C#+C+BG#G
+
+adhu iru usira    kattudhaiyyaa thaanaa
+mg   ss  dd d     d  dpd    n   dp  p
+FE   CC  G#G# G# G# G#GG#   B  G#G  G
+
+idhu ippodhu   vaattudhenna paattu onna  avuthu  vidu
+ss   srrggm    mp  g m   mp pd  m  p pd  nS n    d pm
+CC   CC#C#EEF  FG  E F   FG GG# F  G GG# BC+ B  G# GF
+
+(madhura)
+
+Stanza 2: (notes similar to Stanza 1)
+
+mettunnaa mettu katti ittu katti paadikittu
+kattunnaa raagam ennum maalai onnai kattiputtu
+
+mettunnaa mettu katti ittu katti paadikittu
+kattunnaa raagam ennum maalai onnai kattiputtu
+
+suthunnaa suthi adhai enkazhuthil poattuputte
+onna mattum vittuputte thaali katta marandhuputte
+
+neethaane ennudaiya raagam en nenjellaam unnudaiya thaalam
+yezhezhu janmam unna paadum unnoda paattukkaaran paattum
+
+en manaseno keranguthadi siragadithu parakkuthadi
+
+(madhura)

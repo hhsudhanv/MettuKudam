@@ -1,0 +1,71 @@
+Title: Chinna chinna
+Film: Mouna ragam
+Source URL: https://www.newtfmpage.com/notes/ir/chi_mou.txt
+
+s r2 g2 m1 p d2 n3 S
+here, r=r2, g=g2, m=m1, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+  chinna    chinna  vanna kuyil
+  GR  S     GR  S   S  n  S p
+D#+D+ C+  D#+D+ C+ C+  B C+ G
+
+  konji     konji   koovudhammaa
+  GR S      GR S    S  n S   p
+D#+D+ C+  D#+D+ C+ C+  B C+  G
+
+ puriyaadha aanandham pudhidhaha aarambam
+ g m p  p   p S  S    g m  p  p  p n  n
+D# F G  G   G C+ C+  D# F  G  G  G B  B
+
+ puriyaadha aanandham pudhidhaha aarambam
+ g m p  p   p S  S    n S  R  R  n p  p
+D# F G  G   G C+ C+   B C+ D+ D+ B G  G
+
+pooththaadum then mottu naanaa naanaa
+m    p   p   pm   g  g  g  r   r  r
+F    G   G   GF  D# D# D#  D   D  D
+
+(chinna)
+
+Stanza 1:
+
+mannavan  paerai cholli malligai  soodi konden
+r pp mpg  rmgrs  s   s  n. s rmrm p  p  mp mp
+D GG FGD# DFD#DC C   C  B. C DFDF G  G  FG FG
+
+manmadhan  paadal ondru nenjukkul paadi konden
+r pp mpg   rmgrs  s s   n. s rmrm p  p  mp mp
+D GG FGD#  DFD#DC C C   B. C DFDF G  G  FG FG
+
+ sollaththaan     enniyum ellaiye   baashaigal
+ g  m   pdn2dSn2  n2n2n2  pn2n2pmg  rm gm  mr
+D#  F   GAA#AC+A# A#A#A#  GA#A#GFD# DF D#F FD
+
+ennavo         aasaigal ennaththin      oasaigal
+r m pdn2dSn2d  d d  d   pn2n2 pmgpmg    g g  g
+D F GAA#AC+A#A A A  A   GA#A# GFD#GFD# D# D# D#
+
+maalai soodi  mm  mm  manjam thedi mm mm (2)
+pmgm   p SS   pS  pS  pmgm   p nn  pn pn
+GFD#F  G C+C+ GC+ GC+ GFD#F  G BB  GB GB
+
+kaadhal dhevan    sannidhi kaana kaana kaana kaana
+pmgm    p GG      R  R Sn  S  p  S  p  S  p  S  p
+GFD#F   G D#+D#+ D+ D+ C+B C+ G C+  G C+  G C+  G
+
+(chinna)
+
+Stanza 2: (notes similar to Stanza 1)
+
+maenikkul kaatru vandhu mellaththaan aadak kanden
+mangaikkul kaadhal vellam gangai pol oada kanden
+
+inbaththin ellaiyo illaiye illaiye
+andhiyum vandhadhaal thollaiye thollaiye
+
+kaalam thorum mm mm ketka vendum mm mm (2)
+paruvam ennum keerthanam paada paada paada paada
+
+(chinna)

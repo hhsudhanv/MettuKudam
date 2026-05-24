@@ -1,0 +1,55 @@
+Title: En Vaanilae
+Film: Johny
+Source URL: https://www.newtfmpage.com/notes/ir/enva.txt
+
+s
+
+Pallavi
+-------
+Enn   Vaanilae
+n3Sp  m1 m1 g2 g2 S
+BC+G  F  F  D# D# C+
+
+Ore   Vennila
+n3Sp  m1 m1 g2 g2 S
+BC+G  F  F  D# D# C+
+
+Kaadhal Mehangal
+p p p   p d2 n2 p m1g2
+G G G   G A  A# G FD#
+
+Kavidhai Thaaragai
+p p p    p d2 n2 d2
+G G G    G A  A# A
+
+Oorvalam
+n3 S n3
+B  C+ B
+
+Stanza
+------
+ Nee      ro       dai Polave      Enn     Pen     mai
+ Sn3SG2   Sn3SG2   S   S S S S     pm2pd1  pm2pd1  p
+C+BC+D#+ C+BC+D#+ C+  C+ C+ C+ C+  GF#GG#  GF#GG#  G
+
+ Neeraada              Vandhadhe   Enn     Menmai
+ Sn3SG2   Sn3SG2   S   S S S S     pm2pd1  pm2pd1  p
+C+BC+D#+ C+BC+D#+ C+  C+ C+ C+ C+  GF#GG#  GF#GG#  G
+
+ Pirikkum Vizhigalil
+ G2G2G2   R2G2G2 R2G2d2
+D#+D#+D#+ D+D#+D#+ D+D#+A
+
+Oru   Mayakkam  Paravudhe
+p d1  n2R2R2    R1 R2 R2 R1R2
+G G#  A#D+D+   C#+ D+ D+ C#+D+
+
+Vaarthaigal     Thevaiya
+R2G2Sn3     R2  R2G2Sn3
+D+D#+C+B    D+  D+D#+C+B
+
+(humming...)
+n3SG2M1  P   G2G2  M1 S   SG2  n3
+BC+D#+F+ G+ D#+D#+ F+ C+ C+D#+ B
+
+Enn vaanilae ...

@@ -1,0 +1,70 @@
+Title: Maasi maasam
+Film: Dharmadurai
+Source URL: https://www.newtfmpage.com/notes/ir/maa_dd.txt
+
+s r2 g2 m1 p n2 S
+here, r=r2, g=g2, m=m1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ maasi  maasam aalaana  ponnu  maaman enakkuththaanae
+ S  S   n  n   p p  m   gm p   g  g   rr  n.  sr  s
+C+ C+  A# A#   G G  F  D#F G  D# D#   DD A#.  CD  C
+
+ naalai  enni  naan kaaththirundhaen  maaman  unakkuththaanae
+ S  S    n n   p    p    m  gm p      g  g    rr  n.  sr  s
+C+ C+   A# A#  G    G    F D#F G     D#  D#   DD A#.  CD  C
+
+ poovoadu   oaoaoa      thaenaada
+ n. n  n    nSRSnp      g   mp m
+A#. A# A#  A#C+D+C+A#G D#   FG F
+
+ thaenoadu   oaoaoa      neeyaadu o o
+ n.  n  n    nSRSnp      g  mp m  p n
+A#.  A# A#  A#C+D+C+A#G D#  FG F  G A#
+
+(maasi)
+
+Stanza 1:
+
+ aasai  nooraachchu poanga nilavu  vandhaachchu vaanga
+ S S    S  S    n   p   S  p S n   pS nS    n   p   p
+C+ C+  C+  C+  A#   G  C+  G C+A#  GC+ A#C+ A#  G   G
+
+ nerunga  nerungap porungap porunga   oahoahoa
+ g p  m   g p  m   p S  n   p S  n    n S  SG
+D# G  F  D# G  F   G C+ A#  G C+ A#  A# C+ C+D#+
+
+ ae   aasai  naan  kondu vandhaal allith  thaenkolla   vandhaal
+ nS   S S    S     S  n  p  S     pS n    pS   nS n    p  p
+A#C+ C+ C+  C+    C+ A#  G  C+    GC+ A#  GC+ A#C+ A#  G  G
+
+ mayangik  kiranga kirangi  uranga  oahoahoa
+ g p  m    g p  m  p S  n   pS  n   n S  SG
+D# G  F   D# G  F  G C+ A#  GC+ A# A# C+ C+D#+
+
+  veppam  padarudhu     padarudhu     veppam  valarudhu    valarudhu
+  G  G    R G R n       S S S S       G  G    R G R n      S S S S
+D#+ D#+  D+ D#+ D+ A#  C+ C+ C+ C+  D#+ D#+  D+ D#+ D+ A# C+ C+ C+ C+
+
+  kottum  paniyilae    paniyilae    ottum     uravilae    uravilae
+  G  G    R G R n      S S S S p      G G     RG R n      S S S S
+D#+ D#+  D+ D#+ D+ A# C+ C+ C+ C+ G D#+ D#+  D+D#+ D+ A# C+ C+ C+ C+
+
+  oaoaoa...
+  G  RGR     SRS    nSn   pSn   pmgs
+D#+ D+D#+D+ C+D+C+ A#C+A# GC+A# GFD#C
+
+(maasi)
+
+Stanza 2: (notes similar to Stanza 1)
+
+kaamaleelaa vinoadham kaadhal kavithaa vilaasam
+padiththup padiththu edukka edukka oahoahoa
+aasai aagaap piramaadham kaadhal kavithaap piravaagam
+thoduththuth thoduththu mudikka mudikka oahoahoa
+kodidhaan thavazhudhu thavazhudhu pooppoal sirikkudhu sirikkudhu
+uravum nerungudhu nerukkudhu ulagam mayangudhu urangudhu
+
+oaoaoa...
+
+(maasi)

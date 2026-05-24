@@ -1,0 +1,38 @@
+Title: allu allu
+Film: Bhagavathi
+Source URL: https://www.newtfmpage.com/notes/new/all2.txt
+
+s r2 g2 m1 p d1 n2 S
+
+allu allu ... (2)
+R R  R  RGRS       SS   SS
+D+D+ D+ D+D#+D+C+  C+C+ C+C+
+
+allu ... (2)
+S  S   nnS    nSnS     nSndpm
+C+ C+  A#A#C+ A#C+A#C+ A#C+A#G#GF
+
+aiyaiyo ... (4)
+S S  S  nSn     nd   nSn    nd  p
+C+C+ C+ A#C+A# A#G# A#C+A# A#G# G
+
+rocket ... (2)
+p  p  mpmgr  rgmp
+G  G  FGFD#D DD#FG
+
+Stanza 1:
+varavu kudhirai ... (2)
+m m m  p p  p pd  mmm pp ppn  dp  sgmp
+F F F  G G  G GG# FFF GG GGA# G#G CD#FG
+
+kundai ... (2)
+n  n  nS   SSSS     nn    nS   SSSS      dnSndp
+A# A# A#C+ C+C+C+C+ A#A# A#C+ C+C+C+C+   G#A#C+A#G#G
+
+anusaricha ... (2)
+pp d  n  nG     GRSnd       ppdn    nS  nSndp
+GG G# A# A#D#+ D#+D+C+A#G#  GGG#A# A#C+ A#C+A#G#G
+
+(music)
+mpdpmgm   pmgrg   mgrsrs
+FGG#GFD#F GFD#DD# FD#DCDC

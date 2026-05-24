@@ -1,0 +1,39 @@
+Title: Aasai Nooru Vagai
+Film: Adutha Vaarisu
+Source URL: https://www.newtfmpage.com/notes/ir/aa_av.txt
+
+s r1 m1 p d1 n2 S
+
+Aasai Nooru Vagai vazhvil nooru suvai vaa
+s  n  s  n  s r   s   n   s  n  s r   s
+C  A# C  A# C C#  C   A#  C  A# C C#  C
+
+poadhum poadhum ena boadhai theerum varai vaa
+s  n    s  n    sr  s  n    s   n   s r   s
+C  A#   C  A#   CC# C  A#   C   A#  C C#  C
+
+thinam aadip paadalaam   pala jodi saeralaam
+s  r   m r   m  r mpdpm  s r  m r  m  r mpdpm
+C  C#  F C#  F C# FGG#GF C C# F C# F C# FGG#GF
+
+manam poal vaa kondaadalaam
+p d   R    S   n  d  p d
+G G# C#+   C+  A# G# G G#
+
+manam poal vaa kondaadalaam   Ha
+p d   R    S   n  d  p d      S
+G G#  C#+  C+  A# G# G G#     C+
+
+Stanza:
+
+enna sugam thEvai endha vidham thEvai solliTHara nAnuNdu
+s p  m p   d  p   m p   d p    r  s   s  p m  p  d p  p
+
+paLLiyilE konjam panjaNaiyil konjam aLLiTHara neeyuNdu
+s  p m p  d  p   m  p d  p   r  s   s p m  p  d  p  p
+
+ingu sorkam maNNil varum sondham kaNNil varum vaa (2)
+p d  S  n   S  n   S R   S  n    S  n   S R   S (Sndp)
+
+dhinam neeyE sendAgavE angu nAndhAn vandAhavE hOi
+p  n   R  S  n  d p d  p n  R  S    n  d p d  S

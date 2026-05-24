@@ -1,0 +1,49 @@
+Title: Usilambatti
+Film: Gentleman
+Source URL: https://www.newtfmpage.com/notes/arr/usi_g.txt
+
+s r2 g3 m1 p d2 n3 S
+
+usilambatti penkutti   muththup paechchu - un
+n2SRM R  S  S  S  RSn2 n2  S    R    R P   R
+
+osarambaaththae en kazhuththu  sulukkip poachchu
+n2SRM R    S    S  S S    RSn2 n2n2 S   RS   S
+
+koodamaelae koodavechchu kuchchanooru poaravalae
+M  M M  G   R  S S   S   R   M  M  G  R  S S S
+
+medhuvaagach chellaendi - un
+S R  SR G2M  G2  R   R    S
+
+koodaiyila vechcha poovu goodalooril veesudhadi
+R  M M  G  R   S   S  S  R  M M  G   R  S S  S
+
+kudhipoattu vandhaendi
+n2S  n2S RM R  S    S
+
+usila usila usilambatti (2)
+n2SRM RS R  n2SRM R  S
+
+Stanza :
+
+kandamanooru mai thaaraen kannula vechchaa aagaadhaa
+S  S S Sn dp p   p   pdpd S  S S  Sn  dp   p p  p
+
+maiyya vekkum saakka vechchu kaiyya veppae theriyaadhaa
+dS  S  Sn dp  p   p  p pdpd  pd  n  Sn dp  p  p pS Sp
+
+alanganalloor jallikkattu saerndhupoanaal aagaadhaa
+SS  S S  RSn  S  R  R  R  SG   G  G  GM   G R  R
+
+maadupudichchi mudichcha kaiyyil mayilap pudippae theriyaadhaa
+S  S S S   RSn S R   R   R   R   S G G   G G  GM  G  R R  R
+
+mayilae mayilae iragonnu poadu
+R G MG  R S S   RG M  G  RS S
+
+vaanam vizhundhaa adhuvum poadu
+RG MG  R S   S    RG  MG  RS S
+
+iragu edhukkadi thoagaiyae kedaikkum adhukkum kaalam varum
+DD D  DP   P M  MG  G  R   R S  GRn  nS   R   S  R   S R P

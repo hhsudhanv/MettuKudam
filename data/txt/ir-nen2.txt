@@ -1,0 +1,183 @@
+Title: Nenjukkulle
+Film: Ponnumani
+Source URL: https://www.newtfmpage.com/notes/ir/nen2.txt
+
+s r2 g2 m1 p d1 n3 S
+here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+M:
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G
+
+ulage   azhindhaalum unnuruvam azhiyaadhey
+pd pd   pm   m   mg  rm rm dp  gr  r  rs
+GG# GG# GF   F   FD# DF DF G#G D#D D  DC
+
+uyire   pirinchaalum uravedhum  piriyaadhey
+pd pd   p m  m   mg  rm pmdp    g r r  rs
+GG# GG# G F  F   FD# DF GFG#G  D# D D  DC
+
+unnaamal   urangaamal unnaal thavikkum ponnumaniyin
+mpdS Sn    nd  dp pm  r m  d p  p  m   g  r s n.d.
+FGG#C+ C+B BG# G#G GF D F G# G  G  F  D#  D C B.G#.
+
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G
+
+Stanza 1
+--------
+
+F:
+yekkappattu pattu  naan ilaitheney
+pm p  n  n  n  Sn  p    rm  dp p
+GF G  B  B  B  C+B G    DF G#G G
+
+yettukkalvi katru  naan salitheney
+pm p  n  n  n  Sn  p    r m dp p
+GF G  B  B  B  C+B G    D F G#G G
+
+M:
+thookkam kettu kettu
+pmg  m   p  np p  np
+GFD# F   G  BG G  BG
+
+thudikkum mullai mottu
+pm g  m   p  Sp  p  Sp
+GF D# F   G  C+G G  C+G
+
+M:
+thekku mara dheham thottu
+pmg m  p n  p  n   pn  pn
+GFD# F G B  G  B   GB  GB
+
+thedi  vandhu thaalam thattu
+pmg m  p  S   p   S   pS  pS
+GFD# F G  C+  G  C+   GC+ GC+
+
+F:
+en   thaalam maaraadhaiyyaa
+md   dS  Sn  nd dp pm   m
+FG# G#C+ C+B BG# G#G GF F
+
+unnaamal    urangaamal unnaal thavikkum sindhaamaniyin
+mpdS Sn     nd  dp pm  r m  d p  p  m   g  r   s n.d.
+FGG#C+ C+B  BG# G#G GF D F G# G  G  F  D#  D   C B.G#.
+
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G
+
+ulage   azhindhaalum unnuruvam azhiyaadhey
+pd pd   pm   m   mg  rm rm dp  gr  r  rs
+GG# GG# GF   F   FD# DF DF G#G D#D D  DC
+
+uyire   pirinchaalum uravedhum  piriyaadhey
+pd pd   p m  m   mg  rm pmdp    g r r  rs
+GG# GG# G F  F   FD# DF GFG#G  D# D D  DC
+
+unnaamal   urangaamal unnaal thavikkum sindhaamaniyin
+mpdS Sn    nd  dp pm  r m  d p  p  m   g  r   s n.d.
+FGG#C+ C+B BG# G#G GF D F G# G  G  F  D#  D   C B.G#.
+
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G
+
+Stanza 2
+--------
+M:
+kanji pattu onnu  naan koduppaene
+pm p  n  n  n Sn  pdp  r m  dp p
+GF G  B  B  B C+B GG#G D F G#G G
+
+kaalamellaam unnai naan sumappaene
+pm p n  n    n Sn  p    r m  dp p
+GF G B  B    B C+B G    D F G#G G
+
+F:
+maaman unnai kandu
+pmg m  p  np p  n
+GFD# F G  BG G  B
+
+yengum alli  thandu
+pmg m  p Sp  p   S
+GFD# F G C+G G   C+
+
+tholil ennai alli kondu
+pmg m  p np  n pn pn pn
+GFD# F G BG  B GB GB GB
+
+thoonga vaippai anbe  endru
+pmg  m  p   Sp  p Sp  pS pS
+GFD# F  G  C+G  G C+G GC+ GC+
+
+M:
+en   kannil   nee   thaanammaa
+md   dS Sn    nd    dp  pm m
+FG# G#C+ C+B  BG#  G#G  GF F
+
+unnaamal    urangaamal unnaal thavikkum ponnumaniyin
+mpdS Sn     nd  dp pm  r m  d p  p  m   g  r s n.d.
+FGG#C+ C+B  BG# G#G GF D F G# G  G  F  D#  D C B.G#.
+
+M:
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+F:
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G
+
+M:
+ulage   azhindhaalum unnuruvam   azhiyaadhey
+pd pd   pm   m   mg  rm rm dp    gr  r  rs
+GG# GG# GF   F   FD# DF DF G#G  D#D  D  DC
+
+F:
+uyire   pirinchaalum  uravedhum  piriyaadhey
+pd pd   p m  m   mg   rm pmdp    g r r  rs
+GG# GG# G F  F   FD#  DF GFG#G  D# D D  DC
+
+M:
+unnaamal   urangaamal unnaal thavikkum ponnumaniyin
+mpdS Sn    nd  dp pm  r m  d p  p  m   g  r s n.d.
+FGG#C+ C+B BG# G#G GF D F G# G  G  F  D#  D C B.G#.
+
+F:
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G
+
+M:
+nenjukkulle  innaarunnu sonnal puriyumaa
+p. n. s  sg  r rs s  sr n. sr  s n.d.p
+G. B. C  CD# D DC C  CD B. CD  C B.G#.G
+
+adhu konji konji  pesuradhu kannil theriyumaa
+sp.  p. n. s  sg  r s s sr  n. sr  s  n.d.p
+CG.  G. B. C  CD# D C C CD  B. CD  C  B.G#.G

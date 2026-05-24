@@ -1,0 +1,71 @@
+Title: Minsaaram
+Film: Run
+Source URL: https://www.newtfmpage.com/notes/new/min2_rn.txt
+
+s g2 m1 p d1 n2 S
+
+Minsaaram     enmeethu     paaygindra...thae,
+n  S   SG     n  S  SG     n   S  SG    S
+A# C+  C+D#+  A# C+ C+D#+  A#  C+ C+D#+ C+
+
+Unn kanngal    en  kannai    meiygindra...thae,
+n   S   SG     n   S  SG     n   S  SG    S
+A#  C+  C+D#+  A#  C+ C+D#+  A#  C+ C+D#+ C+
+
+Unn vaartthai  en baashai  aa..gindra..thae,
+n   S    SG    n  S  SG    n   SM  G   S
+A#  C+   C+D#+ A# C+ C+D#+ A# C+F+ D#+ C+
+
+Ull nenjil   minnal poo    pook..kind..ra..thae,
+n   S  SG    n  S   SG     nS    SM    G   S
+A#  C+ C+D#+ A# C+  C+D#+  A#C+  C+F+  D#+ C+
+
+Nee utha..ravittaal, muttham tharuvaen, uthadugal vaerkumvarai,
+S   nS    S n  S     n  S    n  n S     pp  p p   m   m  m mg
+C+  A#C+ C+ A# C+    A# C+  A#  A#C+    GG  G G   F   F  F FD#
+
+Unnmaiyil naanum yoagiyanthaanadi,Un....nai paarkum...varai
+n  S  S   n  S   n  S S  n   S S  SG    G   G   G     M GM
+A# C+ C+  A# C+  A# C+C+ A#  C+C+ C+D#+ D#+ D#+ D#+  F+ D#+F+
+
+Kaa..dhal thee...yae! Ah-ah-ohh!
+MP   M    GS     S    SRG
+F+G+ F+   D#+C+  C+   C+D#+
+
+Kaa..dhal thee...yae! Ahhh!
+MP   M    GS     S    n3n
+F+G+ F+   D#+C+  C+   BA#
+
+Kaa..dhal thee...yae! Ahhh!
+MP   M    GS     S    n3n
+F+G+ F+   D#+C+  C+   BA#
+
+Kaa..dhal thee..yae!
+MP   M    GS    S    n3np
+F+G+ F+   D#+C+ C+   BA#G
+
+Stanza :
+
+Ennai vida intha ulagilae,    unnai miga miga virum..bi..naen,
+p p   p p  p p   pm S n nS    p p   p p  p p  p G    S   n
+G G   G G  G G   GF C+A#A#C+  G G   G G  G G  G D#+  C+ A#
+
+Unthan anbu tharum sugatthinaal,   Innum uyiroadu irukkiraen,
+p p    p p  p  p   p m  S  n nS    p p   pp p  p  pd  s sg
+G G    G G  G  G   G F  C+ A#A#C+  G G   GG G  G  GG# C CD#
+
+Mm-hmm-hmm, thee kooda thinna thinna,Thitthikkum endru kandaen,
+g  p   n    S    S  S  G   S  n   S  S   S   S   G  S  n  S
+D# G   A#   C+   C+ C+ D#+ C+ A#  C+ C+  C+  C+  D#+C+ A# C+
+
+Anbae, nee pakkam vanthaay,Butthikku oayvu thanthaen,
+S S    S   G  S   n  S     S  S   S  G  S  n   S
+C+C+   C+  D#+C+  A# C+    C+ C+  C+ D#+C+ A#  C+
+
+Pennendraal menmai endru,Kavithaigal solli vanthaen,
+S  S   S    G  S   n  S  S S S   S   G  S  n  S
+C+ C+  C+   D#+C+  A# C+ C+C+C+  C+  D#+C+ A# C+
+
+Unnai naan paarththa pindhaan,Kannatthil poattu kondaen,
+S S   S    G     S   n  S     S  S  S    G   S  G  M
+C+C+  C+   D#+   C+ A#  C+   C+ C+  C+   D#+ C+ D#+F+

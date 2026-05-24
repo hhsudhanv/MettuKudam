@@ -1,0 +1,50 @@
+Title: ilaiya nila
+Film: Payanangal mudivathillai
+Source URL: https://www.newtfmpage.com/notes/ir/il_pm.txt
+
+s r2 g2 m1 p d1 n2 S
+
+ilaiya nilaa pozhigiradhae
+sg  p  m mr  n.r  m g gs
+
+idhayam varai nanaigiradhae
+sg  p   m mr  n.r  m g gs
+
+ulaap poagum maegam
+gs    g  p   S  S
+
+kanaak kaanudhae
+g p    S  n3n
+
+vizhaakkaanudhae vaanamae
+g p    n  d2d    n  d p
+
+(ilaiya nilaa)
+Interlude1:
+sp.srgpSRR pSRGRSR SRGM SRGM2 SRGM2D2PD2NS+P mn gp mn gpn
+nd2pgnd2pgnd2pgpd2 nd2pgnd2pgnd2pgpd2 nRRGMSRGnSR
+Snd2mSnd2mnd2mgrmn
+
+Stanza 1:
+varum vazhiyil pani mazhaiyil paruva nilaa dhinam nanaiyum
+n n   n n  Sn  p p  p p   np  r g p  m mg  g  g   g g  g
+
+mugileduththu mugam thudaiththu vidiyum varai nadai pazhagum
+g r g p   p   g r   g  n    d2  p m2p   d2n   n n   n n  n
+
+vaana veedhiyil maega oorvalam kaanumboadhilae aarudhal tharum
+r  g  p  n  RG  R  n  R  n RG  gr g  p  n  RG  R n R    n  RG
+
+paruva magal vizhigalilae kanavu varum
+R G M  G R   S R  G R S   n3S R  S n3
+
+Interlude2:
+p ppp p ppp p ppp p ppp pm2mm2p gs (2)
+rgrsr gmgrg mm2mgm dddpm2mgr (2)
+R RRR R RRR R RRR R RRR GMGRG MM2MGM M2PM2MM2P
+
+Ending:
+sgpm mpnpmgmgrsr n.srgmgrgrss
+rpn3SSSSSSS SRSSn3n nSnddddndpg
+sgpm mpnpmgmgrsr n.srgmgrgrss
+s sn3.n. n.n.n3. sgpmgrgrs sss

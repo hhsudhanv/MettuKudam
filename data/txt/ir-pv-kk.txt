@@ -1,0 +1,69 @@
+Title: Poove ilaiya poove
+Film: Kozhi koovudhu
+Source URL: https://www.newtfmpage.com/notes/ir/pv_kk.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Poove ilaiya poove
+s  p  mm  p  d  p
+C  G  FF  G  A  G
+
+varam tharum vasanthame
+p m   g  m   p m  r  g r
+G F   E  F   G F  D  E D
+
+madi meedhu thaengum thaene
+n.s  r  r   r    r   r   rgrsd.
+B.C  D  D   D    D   D   DEDCA.
+
+enakkuththaane enakkuththaane
+dn  S   R   S  dn  S   R   S
+AB  C+  D+  C+ AB  C+  D+  C+
+
+Stanza 1:
+
+kuzhal valarndhu alaiyaa...nadhey
+pS S   S S   Sn  dn  SR    S S
+GC+C+  C+C+  C+B AB  C+D+ C+ C+
+
+iravugalin ilaiyaanadhey
+pS S S Sn  dn  Sn  dp p
+GC+C+C+C+B AB  C+B AG G
+
+vizhi irandu kadalaanadhey
+gp p  pmg m  p p gp n2dn2pp
+EG G  GFE F  G G EG A#AA#GG
+
+enadhu  manam padagaanadhey
+pp S    S Sn  d n Sndp m
+GG C+  C+ C+B A B C+BAG F
+
+ilam palingu nagam thaeiththadhey
+mm   d d  d  ndnd  nd  nd p  dSndp
+FF   A A  A  BABA  BA  BA G  AC+BAG
+
+nilavu  adhil mugam paarthadhey
+p p Sn  dp    p d   mgmr r rmrsn.d.p.
+G G C+B AG    G A   FEFD D DFDCB.A.G.
+
+inikkum thaene enakkuththaane
+dn  S   R   S  dn  S   R   S
+AB  C+  D+  C+ AB  C+  D+  C+
+
+poove ilaiya poove
+s  p  mm  p  d  p
+C  G  FF  G  A  G
+
+Stanza 2: (notes similar to stanza 1)
+
+ilanchirippu rusiyaanadhu
+adhu kanindhu isaiyaanadhu
+kuyil magalin kuralaanadhu
+iruthayaththil mazhai thoovudhu
+iru puruvam iravaanadhu
+irundhum enna veiyil kaayudhu
+
+(inikkum thaene)
+(Poove)

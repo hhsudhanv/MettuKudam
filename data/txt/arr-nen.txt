@@ -1,0 +1,129 @@
+Title: Nenjinilae
+Film: Uyirae
+Source URL: https://www.newtfmpage.com/notes/arr/nen.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r = r2 etc., unless otherwise indicated
+
+nenjinilae nenjinilae
+r  g r g   s  r m g
+D D# D D#  C  D F D#
+
+nenjinilae nenjinilae oonjalae
+r  g r g   s  r m g   s gs n.d.n.p.
+D D# D D#  C  D F D#  C D#C A#.G#.A#.G.
+
+naanangaL   en  kannilae
+p.d.s n.    n.  n.p.d.d.s
+G.G#.C A#. A#. A#.G.G#.G#.C
+
+konjiri thanjik konjikkoa mundhiri muththoli sindhikkoa
+r  m m  p   p   p  p  p   m  p  p  p   p  p  p  p   p
+D  F F  G   G   G  G  G   F  G  G  G   G  G  G  G   G
+
+manjali varnach chundhari vaavae
+m  p p  p  m    m   m  m  g3 m
+F  G G  G  F    F   F  F  E F
+
+thaanginnakkath thakadhimiyaadum thanganilaavae hoay
+p    p  p  p    m  m p  p p  m   m   m m g3 m   pmgrs
+G    G  G  G    F  F G  G G  F   F   F F E  F   GFD#DC
+
+konjiri thanjik konjikkoa mundhiri muththoli sindhikkoa
+r  m m  p   p   p  p  p   m  p  p  p   p  p  p  p   p
+D  F F  G   G   G  G  G   F  G  G  G   G  G  G  G   G
+
+panjoli varnach chundhari vaavae
+m  p p  p  m    m   m  m  g3 m
+F  G G  G  F    F   F  F  E  F
+
+thaanginnakkath thakadhimiyaadum thanganilaavae
+p    p  p  p    m  m p  p p  m   m   m m g3 m   pmgrs
+G    G  G  G    F  F G  G G  F   F   F F E  F   GFD#DC
+
+thangak kolusallae kolung kuyilallae maarana mayilallae  hoay
+s   s   s s s rg   s s    s s s rg   s  r g3 m p mg3rg3m pmgrs
+C   C   C C C DD#  C C    C C C DD#  C  D E  F G FEDEF   GFD#DC
+
+thangak kolusallae kolung kuyilallae maarana mayilallae
+s   s   s s s rg   s s    s s s rg   s  r g3 m p mg3rg3m pmgrs
+C   C   C C C DD#  C C    C C C DD#  C  D E  F G FEDEF   GFD#DC
+
+nenjinilae nenjinilae oonjalae
+r  g r g   s  r m g   s gs n.d.n.p.
+D D# D D#  C  D F D#  C D#C A#.G#.A#.G.
+
+naanangaL   en  kannilae
+p.d.s n.    n.  n.p.d.d.s
+G.G#.C A#. A#. A#.G.G#.G#.C
+
+sivandhadhae    en  manjalae
+p.d. s  n.      n.  n.p.d.d.s
+G.G#. C A#.   A#. A#.G.G#.G#.C
+
+kalyaanak kalyaanak kanavu     en ullae
+s  r  r   r  m  m   p p dmd    p  mgrs
+C  D  D   D  F  F   G G G#FG#  G  FD#DC
+
+oarap paarvai veesuvaan uyirin kayiril avizhumae
+s r   m   p   p  p p    mr r   m m p   pn d  dnp
+C D   F   G   G  G G    FD D   F F G   GA# G# G#A#G
+
+sevvidhazh varudumboadhu   thaegaththangam urugumae
+s  r m     m p p  p  pnpm  mr  r   m   p   pn d dnp
+C  D F     F G G  G  GA#GF FD  D   F   G   GA# G# G#A#G
+
+ulagin oasai    adangumboadhu    uyirin oasai    thodangumae
+pp p   nddm     mm  m  nd dm     mm m   nddm     p  n  d dnp
+GG G   A#G#G#F  FF  F  A#G# G#F  FF F   A#G#G#F  G A# G# G#A#G
+
+vaannilaa naanumae    mugilizhuthuk kaN moodumae
+p  n  nS  m  d dn     g g g p    p  p   d  m grgs
+G A# A#C+ F G# G#A#  D# D# D# G  G  G  G#  F D#DD#C
+
+(nenjinilae)
+
+haeyk kuruvaarik kiliyae     kuruvaarik    kiliyae
+S     n n S  S   S S np      n n S  S      S S np
+C+   A# A# C+ C+ C+ C+ A#G  A# A# C+ C+   C+ C+ A#G
+
+kukkuru  kurukuru     koovik   kurugik    kunnimanaththai
+p  p p   n n n n      S  S     S S S      n  S S S   S
+G  G G  A# A# A# A#  C+  C+   C+ C+ C+   A# C+ C+ C+ C+
+
+ooyal  aadik  kooduvagukkik     koottu  vizhikkinnae
+n S    S S    n  S S S  S       n  S     S S   S  np
+A# C+ C+ C+  A#  C+ C+ C+ C+   A#  C+   C+ C+ C+  A#G
+
+maaran   ninnaik koogik kurugik  koottu vizhikkinnae
+p  GR    G  S    n  S   S S S    n  S   S S   S  np
+G D#+D+ D#+ C+  A# C+  C+ C+ C+ A#  C+ C+ C+ C+ A#G
+
+kukkuru kurukuru     koovik kurugik  kunnimanaththai
+p  p p  n n n n      S  S   S S S    n  S S S   S
+G  G G A# A# A# A#  C+ C+  C+ C+ C+ A# C+ C+ C+ C+
+
+ooyal  aadik kooduvagukkik koottu vizhikkinnae
+n S    S S   n  S S S  S   n  S   S S   S  np
+A# C+ C+ C+ A# C+ C+ C+ C+ A# C+ C+ C+ C+ A#G
+
+maaran    ninnaik koogik kurugik  koottu vizhikkinnae
+p  GR     G  S    n  S   S S S    n  S   S S   S  np  np
+G D#+D+  D#+ C+  A# C+  C+ C+ C+ A# C+  C+ C+ C+ A#G A#G
+
+thangak kolusallae kolung kuyilallae maarana mayilallae  hoay
+s   s   s s s rg   s s    s s s rg   s  r g3 m p mg3rg3m pmgrs
+C   C   C C C DD#  C C    C C C DD#  C  D E  F G FEDEF   GFD#DC
+
+thangak kolusallae kolung kuyilallae maarana mayilallae
+s   s   s s s rg   s s    s s s rg   s  r g3 m p mg3rg3m pmgrs
+C   C   C C C DD#  C C    C C C DD#  C  D E  F G FEDEF   GFD#DC
+
+[second stanza is similar to "oarap paarvai", the first stanza]
+
+kungumam aen soodinaen koalamuththaththil kalaiyaththaan
+kooraippattu aen uduththinaen koodal pozhudhil kasangaththaan
+mangaik koondhal malargaL edharku kattilmaelae nasungaththaan
+dheepangaL anaippathae pudhiya porul naandhaedaththaan
+
+(nenjinilae)

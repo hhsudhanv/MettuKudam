@@ -1,0 +1,71 @@
+Title: Poo vaasam
+Film: Anbe Sivam
+Source URL: https://www.newtfmpage.com/notes/new/poo2_as.txt
+
+s r2 m1 p d2 n3 S
+
+Poo vaasam purappadum pennae,
+p   mr r   s s  s n.  s  r
+G   FD D   C C  C B.  C  D
+
+Naan poo varainthaal,
+p    mr  m r   s
+G    FD  F D   C
+
+Thee vanthu viral sudum kannae,
+p    mr r   s sr  s n.  s  smr
+G    FD D   C CD  C B.  C  CFD
+
+Naan thee varainthaal,
+rp   mr   m r   s
+DG   FD   F D   C
+
+Uyirallathellaam uyir kollum endraal,
+rr m2 m2m2  m2   rr   p  p   p  p
+DD F# F#F#  F#   DD   G  G   G  G
+
+Uyirulla naanoe ennaaguvaen?
+rr m2 m2 m2dm2  rm2rp p  p
+DD F# F# F#AF#  DF#DG G  G
+
+Uyir vaangidum oviyam neeyadi...
+pp   n   R S   dS n   p  p m2dpmrm2p pdp m2 m r
+GG   B   D+C+  AC+B   G  G F#AGFDF#G GAG F# F D
+
+Stanza :
+
+Mm, pulli saernthu, pulli saernthu oviyam,
+m2p p  p  p    p    p  p  p    m2  rm2rm2
+F#G G  G  G    G    G  G  G    F#  DF#DF#
+
+Ullam saernthu, ullam saernthu kaaviyam,
+p p   p    p    m2pd  p    m2  r  m2rm2
+G G   G    G    F#GA  G    F#  D  F#DF#
+
+Koadu kooda oviyatthin bhaagamae,
+p  p  p  p  pp p  m2   r   m2rm2
+G  G  G  G  GG G  F#   D   F#DF#
+
+Oodal poda kaadhal endru aagumae,
+p p   p p  n  d    p  m2 r m2rm2
+G G   G G  B  A    G  F# D F#DF#
+
+Oru vaanam varaiya  nee..la  vannam,
+m2p n  n   S S  S   SR   R   Sn S
+F#G B  B   C+C+ C+  C+D+ D+  C+B C+
+
+Nam kaadhal varaiya  enna vannam?
+m2p n  n    R S  S   M R  Sn S
+F#G B  B    D+C+ C+  F+D+ C+B C+
+
+Yen vetkathil niram thottu,
+R   R  M R    S S   RS  Sn
+D+  D+ F+D+   C+C+  D+C+ C+B
+
+Viralennum kole kondu,
+n d ndSn   p    nm2pn
+B A BAC+B  G    BF#GB
+
+Nam kaa..dhal varaivoamae, vaa,
+S   Rn   n    p p  nm2p    rmr n.srm2pn
+C+  D+B  B    G G  BF#G    DFD B.CDF#GB

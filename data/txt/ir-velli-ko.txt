@@ -1,0 +1,51 @@
+Title: Velli chalangaikal
+Film: Kaadhal oviyam
+Source URL: https://www.newtfmpage.com/notes/ir/velli_ko.txt
+
+s g2 m1 d1 n3 S
+here, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+vellich chalangaigal  konda   kalaimagal
+s  sn.  s  g  g  mgm  mg gs   s s  gs n.
+C  CB.  C  D# D# FD#F FD# D#C C C  D#C B.
+
+vandhu   aadum     kaalamidhu
+n. n.d.  d.n.n.s   sg mggs s
+B. B.G#. G#.B.B.C  CD# FD#D#C C
+
+ival naadham   tharum  sugasurangal
+ssn. smg mdm   d  n    S n d m  gs
+CCB. CFD# FG#F G# B   C+ B G# F D#C
+
+endhan dhaevi     undhan samarppanangal
+s sn.  smg mdm    d n    nSn   d m  gs
+C CB.  CFD# FG#F G# B    BC+B G# F  D#C
+
+(vellich)
+
+ undhan sangeedhach chalangai oli
+ dS S   n  S  n     d  m  m   m gmdnSndmg
+G#C+ C+ B  C+ B     G# F  F   F D#FG#BC+BG#FD#
+
+indha aezhaikku   geedhaanjali
+g m   md dm  d    dn nd   n S
+D# F  FG# G#F G#  G#B BG# B C+
+
+thandhap paadhangal asaiyum oli
+S   S    n  S   n   dm  m   m gd   mn dS   nS  dn  md  gm
+C+  C+   B  C+  B   G#F F   F D#G# FB G#C+ BC+ G#B FG# D#F
+
+endhan poojaikku   koayil   mani
+g m    md dm  d    dn nd    n SnS
+D# F   FG# G#F G#  G#B BG#  B C+BC+
+
+jathi rendum kannaaga   aagum     ini
+n S   nd n   nS nd n    nS SG     Sn
+B C+  BG# B  BC+ BG# B  BC+ C+D#+ C+B
+
+uyiroadu    saerum  suruthi
+nn nS nS    dn dn   m d dS n d m g s
+BB BC+ BC+ G#B G#B  F G# G#C+ B G# F D# C
+
+(vellich)

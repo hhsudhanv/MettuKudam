@@ -1,0 +1,210 @@
+Title: Nadhiye
+Film: Rhythm
+Source URL: https://www.newtfmpage.com/notes/arr/nad_r.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Dhimthanana Dhimthanana Dhimthanana Dhimthanana Dhimthanana Dhimthanana Dhinana (2)
+p   S  S S  n2  p  p p  m   p  p p  m   g2 r g2 s   g2 r g2 m   pm g2r  g2 s s
+G  C+ C+ C+ A#  G  G G  F   G  G G  F   D# D D# C   D# D D# F   GF D#D  D# C C
+
+Nadhiyae nadhiyae
+S S  S   S S  S
+C+ C+ C+ C+ C+ C+
+
+kaadhal nadhiyae
+ndn S   nd n  S
+BAB C+  BA B  C+
+
+neeyum pendhaanae
+ndn S  dn nSn ndp
+BAB C+ AB BC+B BAG
+
+adi neeyum pendhaanae
+pp  ndn S  nd nRn ndp
+GG  BAB C+ BA BD+B BAG
+
+Ondra irandaa
+S S   dn  S
+C+ C+ AB  C+
+
+kaaranam nooru
+ndnS S   dn S
+BABC+ C+ AB C+
+
+kaettaal sovaenae,
+ndn S    dnnSn ndp
+BAB C+   ABBC+B BAG
+
+nee kaettaal solvaenae
+p   ndn S    nd nRn ndp
+G   BAB C+   BA BD+B BAG
+
+Dhimthanana Dhimthanana Dhimthanana Dhimthanana Dhimthanana Dhimthanana Dhinana (2)
+p   S  S S  n2  p  p p  m   p  p p  m   g2 r g2 s   g2 r g2 m   pm g2r  g2 s s
+G  C+ C+ C+ A#  G  G G  F   G  G G  F   D# D D# C   D# D D# F   GF D#D  D# C C
+
+nadandhaal aaru
+S S  S     ndS
+C+ C+  C+     BAC+
+
+ezundhaal aruvi
+S S S     nd S
+C+ C+ C+  BA C+
+
+nindraal kadalallo
+S  S     n d nRn ndp
+C+ C+    B A BD+B BAG
+
+samaindhaal kumari
+S S   S     n d S
+C+ C+ C+    B A C+
+
+manandhaal manaivi
+S S  S     n d  S
+C+ C+ C+   B A  C+
+
+petraal thaaiyallo
+S S     nd   nRn ndp s
+C+ C+   BA   BD+B BAG C
+
+siru nadhigalae
+s r  g r  g m
+C D  E D  E F
+
+nadhiyidum karaigalae
+p m  g r   g r  g m
+G F  E D   E D  E F
+
+karai thodum nuraigalae
+p m   g  r   g r  g m   p
+G F   E  D   E D  E F   G
+
+nuraigalil ival mugamae
+p m  g2r   rm   g2r s
+G F  D#D   DF   D#D C
+
+siru nadhigalae
+s r  g r  g m
+C D  E D  E F
+
+nadhiyidum karaigalae
+p m  g r   g r  g m
+G F  E D   E D  E F
+
+karai thodum nuraigalae
+p m   g  r   g r  g m   p
+G F   E  D   E D  E F   G
+
+nuraigalil ival mugamae
+p m  g2r   rm   g2r s
+G F  D#D   DF   D#D C
+
+ch:
+dhinam oadum karai koodum
+s  s   g2s   s s   d.n2.s
+C  C   D#C   C C   A.A#.C
+
+ada   aarum isai paadum
+n2.s  g2s   ss   d.n2.s
+A#.C  D#C   CC   A.A#.C
+
+jil jil jil endra srudhiyilae
+m   m   m   m g2  r  g2 r s
+F   F   F   F D#  D  D# D C
+
+gangai varum yamunai varum
+s  s   g2s   n2.n2.s n2.s
+C  C   D#C   A#.A#.C A#.C
+
+vaigai varum kurunai varum
+n2.s   g2s   n2.n2.s n2.s
+A#.C   D#C   A#.A#.C A#.C
+
+jal jal jal endra nadaiyilae (2)
+m   m   m   m g2  r g2 r s
+F   F   F   F D#  D D# D C
+
+Kaadhalin arumai pirivil
+pS S  S   SR R   R G2G2S
+GC+ C+  C+   C+D+ D+   D+ D#+D#+C+
+
+manaiviyin arumai    maraivil
+p S  S S   SR R      R G2G2S
+G C+ C+ C+ C+D+ D+   D+ D#+D#+C+
+
+neerin arumai     arivai      kodaiyilae
+pS S   SR R       RG2G2S      SRS  n2dp
+GC+ C+ C+D+ D+   D+D#+D#+C+  C+D+C+ A#AG
+
+vetkam vandhaal uraiyum
+p  S   SR R     RG2 G2S
+G  C+ C+D+ D+  D+D#+ D#+C+
+
+viralgal thottaal urugum
+p S  S   S   R    RG2G2S
+G C+ C+ C+  D+   D+D#+D#+C+
+
+neerum pennum    ondru      vaazhaiyilae
+pS S   SR R      RG2G2S     SR S   n2dp
+GC+ C+ C+D+ D+  D+D#+D#+C+ C+D+ C+ A#AG
+
+Thaneer kudathil pirakkirom oho
+p  n2S  p p n2S  n2S  n2dp  pn2p
+G  A#C+ G G A#C+ A#C+ A#AG  GA#G
+
+Thaneer karaiyil  mudikkirom oho (2)
+p  n2S  p p  n2S  n2S  n2dp  pn2p
+G  A#C+ G G  A#C+ A#C+ A#AG  GA#G
+
+(Dheem)
+
+<<< Notes similar to "nadhiyae nadhiyae" OR "nadandhaal aaru" >>>
+
+vanna vanna pennae vattamidum nadhiyae
+valaivugal azagu
+ungal valaivugal azagu
+mellisaiyai padithal
+medu pallam maraithal
+nadhigalin gunamae
+adhu nangaiyin gunamae
+
+Siru nadhigalae.....
+
+ch:
+dhinam odum karai koodum
+ada aarum isai paadum
+jil jil jil endra srudhiyilae
+gangai varum yamunai varum vaigai varum kurunai varum
+jal jal jal endra nadaiyilae (2)
+
+(Dheem)
+
+Theenganiyil saaraagi pookalilae thaenaagi pasuvinilae paalaagum neerae
+p    S S S   n2 p  p  m  p p n2p m   g2rg2 s s g2r g2  mpmg2 r   g2ss
+G   C+ C+ C+ A# G  G  F  G G A#G F   D#DD# C C D#D D#  FGFD# D   D#CC
+
+thaayarugae     seyaagi thalaivanidam paayaagi seyarugae thaayaagum pennae
+p   S S G2S     n2dn2pp m  m  p p n2p m  g2rg2 s g2r g2  mpm g2 r   g2ss
+G  C+ C+ D#+C+  A#AA#GG F  F  G G A#G F  D#DD# C D#D D#  FGF D# D   D#CC
+
+poonguyilae poonguyilae
+gr  g g m   gr  g g m
+ED  E E F   ED  E E F
+
+pennum aarum vadivam maara koodum
+gr r   g g   m m m   pn2p  mg m
+ED D   E E   F F F   GA#G  FE F
+
+neer ninaithaal pen ninaithaal
+gr   g g  m     gr  g g  m
+ED   E E  F     ED  E E  F
+
+karaigal yaavum karaindhu poga koodum
+g r  r   g  g   m m   m   pn2p mg m
+E D  D   E  E   F F   F   GA#G FE F
+
+(nadhiyae nadhiyae)
+(Dheem)

@@ -1,0 +1,50 @@
+Title: Manram vandha
+Film: Mouna ragam
+Source URL: https://www.newtfmpage.com/notes/ir/man_mou.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+manram  vandha thenralukku  manjam vara nenjam illaiyoa anbae  en anbae
+s  s    g  g   s   s g  g   s  s   g g  s  s   g g  p.  rgs s  p. rgs s
+C  C   D# D#   C   C D# D#  C  C  D# D# C  C  D# D# G.  DD#C C G. DD#C C
+
+thottavudan  suttadhenna kattazhagu   vatta nilavoa  kannae en kannae
+s   s g g    s  s g   g  s  s g  g    s  s  g g p.   rgss   p. rgss
+C   C D# D#  C  C D#  D# C  C D#  D#  C  C D# D# G.  DD#CC  G. DD#CC
+
+ boopaalamae  koodaadhenum    vaanam    undoa     sol
+ g  m  p mp   g  m  p  pnd    pn n      Snnpdp    pm     g r
+D#  F  G FG  D#  F  G  GA#G#  GA# A#   C+A#A#GG#G GF     D# D
+
+(manram)
+
+Stanza 1:
+
+ thaamarai maelae neerththuli poal thalaivanum    thalaviyum    vaazhvadhenna
+ R   S R   SR p   R     R  S  SR   S  S  S nS     n  n n dn     p    p d   p
+D+  C+ D+ C+D+ G D+    D+ C+ C+D+ C+ C+ C+ A#C+  A# A# A# G#A#  G    G G#  G
+
+ nanbargal poalae vaazhvadharku   maalaiyum  maelamum   thaevaiyenna
+ R  S  R   SR p   R    R S   SR   S  S  nS   n  n dn    p   p  d  p
+D+ C+ D+  C+D+ G D+   D+ C+ C+D+ C+ C+ A#C+ A# A# G#A#  G   G  G# G
+
+sondhangalae illaamal bandha paasam kollaamal
+p  d2 n3 n3  d2S  n3  p  d2  n3 n3  d2 S  n3
+G  A  B  B   AC+  B   G  A   B  B   A C+  B
+
+poovae un vaazhkaidhaan enna   sol
+p  d2  n3 S    R  Rn3   n3SG   R
+G  A   B C+   D+  D+B   BC+D#+ D+
+
+(manram)
+
+Stanza 2: (notes similar to Stanza 1)
+
+maedaiyaip poalae vaazhkai alla naadagam aanadhum vilagich chella
+odayaip poalae uravum alla paadhaigal maariyae payanam sella
+vinnoadu dhaan ulaavum velli vanna nilaavum
+ennoadu nee vandhaal enna vaa
+
+(manram)

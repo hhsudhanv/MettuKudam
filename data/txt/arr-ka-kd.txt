@@ -1,0 +1,86 @@
+Title: Kaadhalenum
+Film: Kaadhalar dhinam
+Source URL: https://www.newtfmpage.com/notes/arr/ka_kd.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+kaadhalenum thaervezhudhi kaaththirundha maaNavan naan
+s  g  m p   m    m g3 m   g    g  r  g   r  r s   r
+C D#  F G   F    F E  F  D#   D#  D D#   D  D C   D
+
+kaadhalenum       thaervezhudhi      kaaththirundha       maaNavan naan
+s  g  m p  pndp   m    m g3 m  mdpm  g    g  r  g   gpmg  r  r s   r
+C D#  F G  GA#G#G F    F E  F  FG#GF D#  D#  D D#  D#GFD# D  D C   D
+
+un   eNNam enRa aettil en eNNaip paarththa poadhu
+sn3. s r   r r  r  r   rs r g    g     g   g  g
+CB.  C D   D D  D  D   DC D D#   D#    D#  D# D#
+
+naanae ennai namba villai endhan kaNNai nambavillai
+s  n3. s r   r r   r  r   r s    r  g   g  g g  g
+C  B.  C D   D D   D  D   D C    D D#  D# D# D# D#
+
+uNmai uNmai       uNmai uNmai anbae  unmael uNmai un vasam endhan peNmai
+s g   m p  pndp   m m   g3 m  mdpm   g g    r g   gp m g   r r    s  r
+C D#  F G  GA#G#G F F   E  F  FG#GF D# D#   D D# D#G F D#  D D    C  D
+
+doali  doali doali doali doali doali    doali doali
+s  n3. sr r  r  r  r  r  r  s  rg g     g  g  g  g
+C  B.  CD D  D  D  D  D  D  C  DD# D#  D# D# D#  D#
+
+ indha vaLaikkaiyil  vaLaiyalgaL  naanallavaa
+ g m   p S   S  S    S R  R  R    R  G  S S
+D# F   G C+  C+ C+  C+ D+ D+ D+  D+ D#+ C+ C+
+
+ inRu   vaLaikkaiyai vaLaikkinRa naaLallavaa
+ S S    S n3  n3 n3  n3 S  S  S  S  R  R R
+C+ C+  C+ B   B  B   B C+ C+ C+ C+ D+ D+ D+
+
+ sugam vaLaikkaiyai vaLaikkayil undaanadhu
+ g m   p S   S  S   S R  R  R   R  G  S S
+D# F   G C+  C+ C+ C+ D+ D+ D+ D+ D#+ C+ C+
+
+memmaelum  kaivaLai vaLai enRu   aengaadhoa
+S  S  G    G  S S   n n   d d    d dSnd p
+C+ C+ D#+ D#+ C+ C+ A# A# G# G# G# G#C+A#G# G
+
+idhu  kannangaLaa   illai  thennangaLLaa
+pd   dSn3 S R Sn3   p d   dSn3 S  R  S
+GG# G#C+B C+ D+ C+B G G# G#C+B C+  D+  C+
+
+indhak  kannamellaam  undhan  chinnangaLaa
+p d    dSn3S R  Sn3   p d    dSn3 S  R S
+G G#  G#C+BC+ D+ C+B  G G#  G#C+B C+  D+ C+
+
+ ingu  naanirundhaen       veRum meyyezhuththaay
+ S S   SG G G  GS          S n3  n3 R R    R
+C+ C+ C+D#+ D#+ D#+ D#+C+ C+ B   B D+ D+   D+
+
+ nee   vandhu  saerndhaay uyirezhuththaay
+ SG    G  G    GS   S n3  n3 R R    R
+C+D#+ D#+ D#+ D#+C+ C+ B  B D+ D+   D+
+
+(humming)
+S R G   S R M  G R S n d   d dS n d    p m g r
+C+D+D#+ C+D+F+ D#+D+C+A#G# G#G#C+A#G#  G FD# D
+
+(kaadhalenum)
+
+undhan madiyinil kidappadhu sugam sugam
+indha sugaththinil sivandhadhu mugam mugam
+
+manam idhaRkenak kidandhadhu thavam thavam
+aanandhamae ini ivan uyir poanaalum
+
+enRum oayvadhillai indhak kaadhal mazhai
+
+kadal neelam uLLa andhak kaalam varai
+
+idhu piRavigaLdhoaRum vidaadha bandham
+pirivenum theeyil vizhaadha sondham
+
+(humming)
+
+(kaadhalenum)

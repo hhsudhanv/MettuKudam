@@ -1,0 +1,140 @@
+Title: Paattu paadavaa
+Film: Then Nilavu
+Source URL: https://www.newtfmpage.com/notes/old/paa.txt
+
+Song: Paattu paadavaa
+Film: Then Nilavu
+------------------------------------------
+Legend : s r2 g2 m1 p d1 n3
+
+Description:
+s  = sa    = C
+r1 = ri 1  = C#
+r2 = ri 2  = D
+g2 = ga 2  = D#
+g3 = ga 3  = E
+m1 = ma 1  = F
+m2 = ma 2  = F#
+p  = pa    = G
+d1 = da 1  = G#
+d2 = da 2  = A
+n2 = ni 2  = A#
+n3 = ni 3  = B
+S  = sa    = C [next octave; higher "sa"]
+R1 ...
+------------------------------------------
+
+--- Starting music ---
+sgg sgg n.rr n.rr
+
+sgg sgg n.rr n.rr
+
+--- Starting music ends ---
+
+--- First stanza ---
+Paattu paada vaa
+ss     gg    p
+
+Paarthu pesa vaa
+n.n.    rr   m
+
+Paadam solla vaa
+mm     mp    d
+
+Parandhu sella vaa
+SnS      nS    p
+
+Paal nilaavai pola vandha
+p    p pmp    dd   dm
+
+Paavai alla vaa
+mg     gr   r
+
+Naanum
+rg
+
+Paadhai thedi odi vandha
+gp      pg    gm  mr
+
+Kaalai alla vaa
+gr     rs   s                          ppp ddd
+
+Paattu paada vaa
+ss     gg    p                         pm2p
+
+Paarthu pesa vaa
+n.n.    rr   m                         mg3m
+
+Paadam solla vaa
+mm     mp    d
+
+Parandhu sella vaa
+SnS      nS    p
+--- First stanza ends ---
+
+--- Interlude Music 1 ---
+sgp SGS sgp SGS
+gpd2 d3d2 d3d2 d3RSnnS
+grs n.m grs n.m rgmpdpSnSpg s g p d
+--- Interlude Music 1 ends ---
+
+--- Middle stanza ---
+Mega vannam pola minnum aadaiyinaale
+SS   Sn     SS   Sn     SRGRG
+
+Malai meni yellam mooduthamma naanathinaale
+GG    RR   RR     SS   mp     ddddp             pmgmpdpSp pmgmpdpS pp dd
+
+Mega vannam pola minnum aadaiyinaale
+SS   Sn     SS   Sn     SRGRG
+
+Malai meni yellam mooduthamma naanathinaale
+GG    RR   RR     SS   mp     ddddp             gpd2d3
+
+Pakkamaaga vandha pinnum vetkamaaguma
+d3d3 d3d2  d3d3   d3d2   d3RSd3d3
+
+Inge paarvaiyodu paarvai sera thoodhu vendumaa
+d3d3 d2d2d2d2    pm      mp   dd      dpp       gsgpdpm2p gsgpdpm2p gpd2d3
+
+Pakkamaaga vandha pinnum vetkamaaguma
+d3d3 d3d2  d3d3   d3d2   d3RSd3d3
+
+Inge paarvaiyodu paarvai sera thoodhu vendumaa
+d3d3 d2d2d2d2    pm      mp   dd      dpp
+
+Maalai allavaa Nalla Neram allavaa
+Sn     Sn  S   md2   d3d2  d3d2d3
+
+Innum vaanam paartha bhoomi pola vazhalaguma
+gd    pm     gp      mg     rm   grrss           ppp ddd
+--- Middle stanza ends ---
+
+--- Paattu ---
+
+--- Interlude Music 2 [same as Interlude music 1] ---
+--- Interlude Music 2 ends ---
+
+Angamellam thangamaana mangaiyai pole
+nadhi anna nadai poduthamma bhoomiyin mele  (2)
+
+Kanniraindha kaadhalanai kaanavillaiya
+Indha kaadhalikku then nilavil aasaiyillaiya (2)
+
+Kaadhal thondrumaa innum kaalam pogumaa
+Illai paarthu paarthu nindradhuthan meedhamaagumaa
+
+--- Paattu ---
+
+--- Ending music ---
+--- Ending music ends ---
+
+1. Beats
+2. Starting music & chords
+3. First stanza melody
+4. First stanza chords
+5. Interlude music 1 melody
+6. Interlude music 1 chords
+7. Middle stanza melody
+8. Middle stanza chords
+9. Ending music & chords

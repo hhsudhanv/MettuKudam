@@ -1,0 +1,77 @@
+Title: uyirae uyirae
+Film: Bombay
+Source URL: https://www.newtfmpage.com/notes/arr/uy_b.txt
+
+s r2 g3 m1 p d2 n2 S
+
+----------------------------------------------------------------------
+
+Legend for the notes:
+s  = sa    = C
+r1 = ri 1  = C#
+r2 = ri 2  = D
+g2 = ga 2  = D#
+g3 = ga 3  = E
+m1 = ma 1  = F
+m2 = ma 2  = F#
+p  = pa    = G
+d1 = da 1  = G#
+d2 = da 2  = A
+n2 = ni 2  = A#
+n3 = ni 3  = B
+S  = sa    = C [next octave; higher "sa"]
+R1 ...
+
+Notes: s r2 g3 m1 p d2 n2 S
+here, r=r2, g=g3, m=m1, d=d2, n=n2 [unless specified otherwise]
+
+----------------------------------------------------------------------
+
+uyirae uyirae vandhu ennoadu kalandhuvidu
+pp pd  pS d   p  d   n S  n  d p  p  p pmg
+
+uyirae uyirae ennai unnoadu kalandhuvidu
+pp pd  pS d   p d   n S  n  d p  p  p pmg
+
+ninaivae ninaivae endhan nenjoadu kalandhuvidu
+p p  m   p p  grs s s    r  m  m  p g  r  s s
+
+nilavae nilavae    indha vinnoadu kalandhuvidu
+p p m   m p mp grs s s   rm m  m  p g  r  s s
+
+kaadhal  irundhaal endhan kannoadu kalandhuvidu
+Sn nS SR Sn  nS nd d d    d  nS S  R n  d  p p mg
+
+kaalam   thaduththaal ennai mannoadu kalandhuvidu
+Sn nS SR S  n   nS nd d d   d  nS S  R n  d  p p
+
+(uyirae)
+
+Stanza 1:
+
+en suvaasak kaatru varumpaadhai paarththu uyirthaangi naaniruppaen
+m  p    S   nd1np  m p  p  p    mp    mgr mm  p    S  nd1npp  p
+
+malarkonda penmai vaaraadhu poanaal malaimeedhu theekkulippaen
+m m  p  S  nd1np  mp p  p   mp mgr  m m  p  S   nd1n p p  p
+
+en  uyir poagum poanaalum thuyarillai pennae  adharkaagavaa paadinaen
+pd1 RR   R  R   SR R  R   S  R R  R   SR Sd1p pd1  S  R M   GR R R
+
+varum edhirkaalam un meedhu pazhipoadum pennae adharkaagaththaan vaadinaen
+pd1   RR   R  R   SR R  R   S R  R  RS  RS d1p pd1  S  R   M     GR R R
+
+mudhalaa mudivaa    adhai un kaiyil koduththuvittaen
+S S  Sd  S S Sd1 pm mm    m  p  d1S d1p   m  g  gr
+
+(uyirae)
+
+Stanza 2: (notes similar to Stanza 1)
+
+oar paarvai paarththae uyirthandha penmai vaaraamal poayvidumaa
+oru kannil konjam valivandha poadhu maru kannum thoongidumaa
+naan karumpaarai palathaandi vaeraaga vandhaen kannaalan mugam paarkkavae
+en kadungaaval palathaandi kaatraaga vandhaen kannaa un kural kaetkavae
+adadaa adadaa inru kanneerum thiththikkinradhae
+
+(uyirae)

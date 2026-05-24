@@ -1,0 +1,177 @@
+Title: Megam karukkudhu
+Film: Kushi
+Source URL: https://www.newtfmpage.com/notes/deva/meg.txt
+
+s r1 g2 m1 p d1 n2 S
+here, r=r1, g=g2, m=m1, d=d1, n=n2 [unless specified otherwise]
+
+-------------------------------------------------------------------
+
+Megam karukkudhu minnal sirikkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Saral adikkudhu idhayam parakkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Megam karukkudhu minnal sirikkudhu saral adikkiradhe
+p p   p d  p m   m  m   m p  m g   g g   gg  r2m g
+G G   G G# G F   F  F   F G  F D# D# D# D#D# DF D#
+
+En   meniyil aadiya  micha thuligal   nadhiyai  pogiradhe
+sr   g m m   mpm g   g g   g  m gr    r r  rm   g r r s
+CC# D# F F   FGF D# D# D# D#  F D#C# C# C# C#F D# C# C# C
+
+Megam karukkudhu minnal sirikkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Saral adikkudhu idhayam parakkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Nan sollum velayil mazhai nindru pogattum
+p.s s  r   g r2g   d.s    s  r   g r2 g
+G.C C C#  D# DD#  G#.C    C C#  D# D D#
+
+ Vanavil  kodiyile   en   aadai   kayattum
+ gdp n    d m m gr   mg   rgrs    s s  s
+D#G#G A# G# F F D#C# FD# C#D#C#C  C C  C
+
+ Mazhaiye       thuli podu
+ n.n.  n.gr     r  s  s s
+A#.A#. A#.D#C# C#  C  C C
+
+En    marbe     un veedu
+sn.   n. n.g    rs s  s
+CA#. A#. A#.D# C#C C  C
+
+Megam karukkudhu minnal sirikkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Saral adikkudhu idhayam parakkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Stanza 1:
+
+Nilave vaa vaa vaa
+g3g3g3 m   m   m
+EEE    F   F   F
+
+Nillamal vaa vaa vaa
+g3g3g3   mpm mpm mpm
+EEE      FGF FGF FGF
+
+ Ennodu   kulippadhu sugam allavaa
+ r m md   d p  p m   m g   g r r
+C# F FG# G# G  G F   F D# D# C# C#
+
+ Un karayai salavai seidhu vida vaa
+ r  r r r   s r m   s rm   r m  s
+C# C# C# C# C C# F  C C#F C# F  C
+
+Purave vaa vaa vaa
+g3g3g3 m   m   m
+EEE    F   F   F
+
+Poovodu vaa vaa vaa
+g3g3g3   mpm mpm mpm
+EEE      FGF FGF FGF
+
+ Unnoda   kulirukku idam   thara vaa
+ r m md   d p p  m  m g    g r   r
+C# F FG# G# G G  F  F D#  D# C#  C#
+
+ En koondhalil koodu seidhu thara vaa
+ r  r   r  r   s rm  s rm   r  m  s
+C# C#  C# C#   C C#F C C#F C#  F  C
+
+Kaatrai pol enakku kooda sirakondrum kidaiyadhu
+p  p    p   pd  pd pm m  p d n  d    n S  dnp
+G  G    G   GG# GG# GF F G G# A# G# A# C+ G#A#G
+
+Tharai mela sellum podhu  sirai seiyya mudiyadhu
+s  p   p p  pd pd  pm m   p d   n  d   n S dnp
+C  G   G G  GG# GG# GF F  G G# A# G#  A# C+ G#A#G
+
+Ilamayin chinnam ilampattu vannam
+mm m m   m  d    mm  m  m  m  d
+FF F F   F G#    FF  F  F  F  G#
+
+innum innum valarthu kolven
+m d   d p   p m  m   g  g
+F G# G# G   G F  F  D#  D#
+
+ irupathi   onnu vayadhukku   melea
+ gg g g     g p  g g g   g    g p
+D#D# D# D# D# G D# D# D# D#  D# G
+
+ kalathai niruthi  vaippen hoi
+ gpp m    m g g    r   r   sn.
+D#GG F    F D# D# C#  C#   CA#.
+
+Nan sollum velayil mazhai nindru pogattum
+p.s s  r   g r2g   d.s    s  r   g r2 g
+G.C C C#  D# DD#  G#.C    C C#  D# D D#
+
+ Vanavil  kodiyile    en   aadai   kayattum
+ gdp n    d m m gr    mg   rgrs    s s  s
+D#G#G A# G# F F D#C#  FD# C#D#C#C  C C  C
+
+ Mazhaiye       thuli podu
+ n.n.  n.gr     r  s  s s
+A#.A#. A#.D#C# C#  C  C C
+
+En    marbe     un veedu
+sn.   n. n.g    rs s  s
+CA#. A#. A#.D# C#C C  C
+
+Stanza 2: [notes similar to stanza 1]
+
+kanave vaa vaa vaa
+kannodu vaa vaa vaa
+
+mainave vaa vaa vaa
+maiyodu vaa vaa vaa
+
+en kangal azhagin oli parappu
+en azhagai parandhu parandhu parappu
+bhoomikku otrai nilavu podhadhu podhadhu
+adhanal thaan rendam nilavai naan vandhen ippodhu
+pookkalil thengum pani thuli alli kalaiyil kulithu kolven
+vidigira podhu vidigira podhu velichathai uduthi kolven hoi
+
+Nan sollum velayil mazhai nindru pogattum
+p.s s  r   g r2g   d.s    s  r   g r2 g
+G.C C C#  D# DD#  G#.C    C C#  D# D D#
+
+ Vanavil  kodiyile   en   aadai   kayattum
+ gdp n    d m m gr   mg   rgrs    s s  s
+D#G#G A# G# F F D#C# FD# C#D#C#C  C C  C
+
+ Mazhaiye       thuli podu
+ n.n.  n.gr     r  s  s s
+A#.A#. A#.D#C# C#  C  C C
+
+En    marbe    un  veedu
+sn.   n. n.g   rs  s  s
+CA#. A#. A#.D# C#C C  C
+
+Megam karukkudhu minnal sirikkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Saral adikkudhu idhayam parakkudhu
+s s   s r  s n.  s  s   s s  s p
+C C   C C# C A#. C  C   C C  C G
+
+Megam karukkudhu minnal sirikkudhu saral  adikkiradhe
+p p   p d  p m   m  m   m p  m g   g g    gg  r2m g
+G G   G G# G F   F  F   F G  F D#  D# D# D#D# DF D#
+
+En   meniyil aadiya  micha thuligal   nadhiyai  pogiradhe
+sr   g m m   mpm g   g g   g  m gr    r r  rm   g r r s
+CC# D# F F   FGF D# D# D# D#  F D#C# C# C# C#F D# C# C# C

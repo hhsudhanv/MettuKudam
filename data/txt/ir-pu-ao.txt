@@ -1,0 +1,81 @@
+Title: putham pudhu kaalai
+Film: Alaigal oivathillai
+Source URL: https://www.newtfmpage.com/notes/ir/pu_ao.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+putham pudhu kaalai
+s p    m p   nd p
+C G    F G  A#G# G
+
+ponnira velai
+s pm p  nd p
+C GF G A#G# G
+
+en vazhvile
+sp p   d pm
+CG G  G# GF
+
+thinandhorum thondrum
+s  r  g  d   p   mg
+C  D D# G#   G   FD#
+
+suga raagam kaetkum
+s r  g  d   p   mg
+C D D# G#   G   FD#
+
+ennaalum anandham
+p.r  p.  rs  s
+G.D  G.  DC  C
+
+(putham)
+
+Stanza 1:
+
+ poovil thondrum vaasam   adhuthaan raagamo
+ n  d   nd   p   mg mg    gm  p     m  d p
+A# G#  A#G#  G   FD# FD# D#F  G     F G# G
+
+ilam poovai nenjil thondrum adhuthaan thaalamo
+pd   n  d   nd p   mg  mg   gm  p     m   d p
+GG# A# G#  A#G# G  FD# FD# D#F  G     F  G# G
+
+manadhin aasaigal       malarin  kolangal
+p d n    S R  Gn d      p d n    S R  Gn
+G G# A# C+ D+ D#+A# G#  G G# A# C+ D+ D#+A#
+
+ kuyilosayin      paribhashaigal
+ n G R S S        n G R  S   S
+A# D#+ D+ C+ C+  A# D#+ D+ C+ C+
+
+ adhikaalaiyin   varaverpugal
+ nG  R  n  n     m n d   p p
+A#D#+ D+ A# A#   F A# G# G G
+
+(putham)
+
+Stanza 2:
+
+ vaanil thondrum kolam    adhai yaar pottadho
+ n  d   nd  p    mg mg    gm    p    m  d p
+A# G#  A#G# G    FD# FD# D#F    G    F G# G
+
+pani  vaadai veesum  kaatril  sugam yaar saerthadho
+p d   n  d   nd p    mg mg    g m   p    m   d  p
+G G# A# G#  A#G# G   FD# FD# D# F   G    F  G#  G
+
+vayadhil thondridum      ninaivil anandham
+p d n    S   R  Gn d     p d  n   SR  Gn
+G G# A# C+  D+ D#+A# G#  G G# A# C+D+ D#+A#
+
+ valarndhoduthu isai  paaduthu
+ n G   R  S S   nG    R  S S
+A# D#+ D+ C+C+ A#D#+ D+ C+ C+
+
+ vazhi  koodidum suvai  kooduthu
+ n G    R  n n   m n    d  p p
+A# D#+ D+ A# A#  F A#  G#  G G
+
+(putham)

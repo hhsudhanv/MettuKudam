@@ -1,0 +1,67 @@
+Title: Uchi vagindheduthu
+Film: Rosappoo ravikkaikaari
+Source URL: https://www.newtfmpage.com/notes/ir/uc_rr.txt
+
+s r2 g2 m1 p d1 n2 S
+here, r=r2, g=g2, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+ uchchi  vagindheduththu pichchippoo vachcha kili
+ g  g    g r  g  r   g   r   g   rg  r   g   r rs
+D# D#   D# D D#  D  D#   D  D#   DD# D  D#   D DC
+
+pachcha mala   pakkaththula     maeyudhunnu sonnaanga
+s   r   s n.   n. n.  n. n.s    r  g  r  s  s  s   s
+C   D   C A#. A#. A#. A#. A#.C  D  D# D  C  C  C   C
+
+maeyudhunnu  sonnadhila      naayamenna kannaaththaa
+s  r s   n.  n. n.n. n.s sr  r  g r  s  s  s    s
+C  D C  A#. A#.A#.A#.A#.CCD  D D# D  C  C  C    C
+
+(uchchi)
+
+ae aareeraaroa aareeraaroa aareeraareeraaroa aareeraaroa
+p  m p  d  p   m p  d  p   m p  d  p  m  g3  m g3 r  s
+G  F G G#  G   F G G#  G   F G G#  G  F  E   F E  D  C
+
+aareeraaroa aareeraaroa aareeraaroa    aareeraaroa
+p.s  s  s   p.s  s  s   p.n. n. n.sr   n.d.n.d.p p
+G.C  C  C   G.C  C  C   G.A#.A#.A#.CD A#.G#.A#.G#.G G
+
+Stanza 1:
+
+ pattula maadukatti      paalak karandhu vechchaa
+ n. n.s  s  s s  srsn.   n. n.  s s  s   s   s
+A#. A#.C C  C C  CDCA#. A#. A#. C C  C   C   C
+
+paal thirinji poanadhunnu sonnaanga
+s    p  m  p  m g3mg3 rg3 s  rg3 g3
+C    G  F  G  F EFE   DE  C  DE  E
+
+sonnavanga vaarththaiyila suththamilla - adi
+g3 m g3 m  g3    m   g3m  g3  m  g3 m    mm
+E  F E  F  E     F   EF   E   F  E  F    FF
+
+chinnakkannu  naanum adha  oththukkala
+m   p  m  pd  m  p   mpd   m  p   m p   dpmp
+F   G  F  GG# F  G   FGG#  F  G   F G  G#GFG
+
+(uchchi)
+
+Stanza 2: (notes similar to Stanza 1)
+
+vattuk karuppattiya vaasamulla roasaava
+katterumbu mochchadhunnu sonnaanga
+kattukkadha aththanaiyum kattukkadha - adha
+saththiyamaa namba manam oththukkala
+
+(uchchi)
+
+Stanza 3: (notes similar to Stanza 1)
+
+pongalukkuch chengarumbu poovaana poongarumbu
+sengaraiyaan thinnadhunnu sonnaanga
+sengaraiyaan thinnirukka naayamilla - adi
+siththagaththip poovizhiyae nambavilla
+
+(uchchi)

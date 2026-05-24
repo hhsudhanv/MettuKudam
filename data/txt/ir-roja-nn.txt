@@ -1,0 +1,108 @@
+Title: Rojavai thaalaattum
+Film: Ninaivellam nithya
+Source URL: https://www.newtfmpage.com/notes/ir/roja_nn.txt
+
+s r1 g3 m2 p d1 n3 S
+here, r=r1, g=g3, m=m2, d=d1, n=n3
+
+rojaavaith thaalaattum thenral
+s p  m     g   r   s   s   p.
+C G F#     E  C#   C   C   G.
+
+ponmegam pooppandhal
+s  n.sr  r   s  rg
+C  B.CC# C#  C  C#E
+
+un koondhal ennoonjal
+s  n.  sr   r  s  rg
+C  B.  CC#  C# C  C#E
+
+un  vaarththai sangeedhangal
+g   m   m g    g  p  pm  d   mg
+E  F#  F# E    E  G  GF# G#  F#E
+
+(rojaavaith)
+
+ilaigalil
+sn.sn.sn.sn.
+CB.CB.CB.CB.
+
+kaadhal   kadidham
+sn.sn.d.  p.d.d.n.
+CB.CB.G#. G.G#.G#.B.
+
+vandu     ezhudhum
+sn.sn.d.  p.d.d.n.
+CB.CB.G#. G.G#.G#.B.
+
+poon  jolai
+n.sn. srr
+B.CB. CC#C#
+
+ idhazhgalil
+ rsrs  rsrm
+C#CC#C C#CC#F#
+
+ maeni   muzhudhum
+ mgmgr   s r  rm
+F#EF#EC# C C# C#F#
+
+ ilamai   varaiyum
+ mgmgr    s r  rm
+F#EF#EC#  C C# C#F#
+
+oar  kavidhai
+gm   g r s
+EF#  E C# C
+
+ mounamae  sammadham enru aa
+ mg m p    m  p m    g g  sn.
+F#E F# G  F#  G F#   E E  CB.
+
+ theendudhae manmadha vandu aa
+ mg   m p    m  p m   g  g  rs
+F#E  F# G   F#  G F#  E  E  C#C
+
+ mounamae  sammadham enru
+ mg m p    m  dpm    g gmpm gmgs
+F#E F# G  F# G#GF#   E EF#GF# EF#EC
+
+ theendudhae manmadha vandu
+ mg   m p    m  dpm   mg g
+F#E  F# G   F# G#GF# F#E E
+
+paarthaalae
+g   m   d
+E  F#   G#
+
+thallaadum
+g   m  d
+E  F#  G#
+
+poochchendu   aa aa
+g    md  md   p  m
+E   F#G# F#G# G  F#
+
+(rojaavaith)
+
+vasandhangal
+vaazhththum pozhudhu
+unadhu kilaiyil
+poovaavaen
+
+ilaiyudhir
+kaalam muzhudhum
+unakku magizhndhu
+vaeraavaen
+
+poovilae meththaigal thaiththu aa
+kannukkul mangaiyai vaiththu aa
+
+poovilae meththaigal thaiththu
+kannukkul mangaiyai vaiththu
+
+nee kattum
+saelaikku
+noolaavaen aa aa
+
+(rojaavaith)

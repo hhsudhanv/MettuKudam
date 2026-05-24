@@ -1,0 +1,96 @@
+Title: En jodi
+Film: Vikram
+Source URL: https://www.newtfmpage.com/notes/ir/enj_v.txt
+
+s r1 g2 m1 p d1 n2 S
+
+En jodi manja kuruvi
+s  g r  s  g  r s s
+
+saanjaadu nenja thazhuvi
+s   g  r  s  g  r  s  s
+
+aattam poadadi paattu paadadi
+m  m   d  p m  m  m   d  p m
+
+soodaana pottal kaadu
+n  R  S  n  R   S  n
+
+joaraaga kathi paadu
+p  n  d  p n   d  p
+
+ponna paaru manna paaru
+S  S  S  R  p  p  p  p
+
+ponna poala minnum paaru
+s  s  m  d  p  m   g  r
+
+(En jodi)
+
+Stanza 1:
+
+karagaattam allipoattu ?           ?
+S S S   S   S S S   R  S S S   S   S S S   R
+
+sudhi poattu paattu padippaen
+n S   nS  n  d   p  p p  p
+
+sathiraattam jallikkattu thena paathu mallukkattu
+S S  S   S   S  S  S  R  n  S  nS S   S  S  S  R
+
+edam paarthu sollithattuvaen
+nS   nS  n   d  p p   p dp
+
+poo poatta metha poadu nee poadu satham poadu
+p   n   d  p n   d  p  p   n  d  p n    d  p
+
+kaayaadha vaikka poaru onboaru akka poaru
+n  R  S   n   R  S  n  p n  d  p n  d  p
+
+enna paaru kanna paaru
+S S  S  R  p  p  p  p
+
+ponna poala chinna thaeru
+r  r  m  d  p  m   g  r
+
+(En jodi)
+
+Stanza 2:
+
+yaeru pidicha soaru kodukkum ooru adhu
+m  p  p p d2  p  p  m m  m   m m  mm
+
+neeru kudikka kaasu kodukkum ooru idhu
+m  p  p p d2  p  p  m m  m   m m  mm
+
+poove ponnaa...ra   poo..ve
+mp d2 d2S n3d2 d2S  n3d2 d2
+
+poovil ullaa....dum  thae..ne
+mp d2  d2S n3d2 d2S  n3d2  d2
+
+thaenum sevvaa...yil thaa..ne
+mp  d2  d2S n3d2 d2S n3d2 d2
+
+kaettaal thandhae..ne naa..ne
+mp  d2   d2S n3d2 d2S n3d2 d2
+
+muthathaal poattu mothamaai saerthu tharavaa varavaa
+m S  d2S   pS  d2 m S  d2S  pS  d2  m  S n   p n d2
+
+rusiyaa hoihoi pasiyaa hoihoi rusiyaa pasiyaa pasiyaa ha ha ha
+m S d2S pS d2  m S d2S pS d2  m S n   p n d2  m d2 p  p  p  p
+
+dhaahamirundhaa naerula vandhu neeru kodu
+m   p p p  d2   p  p m  m  m   m  m  m m
+
+adi aasaiyirundhaa thaerula vandhu maalaiyidu
+Sm  m p  p p  d2   p   p m  m  m   m  m  m m
+
+dhaahamirundhaa naerula vandhu neeru kodu
+m   p p p  d2   p  p m  m  m   m  m  m m
+
+adi aasaiyirundhaa thaerula vandhu maalaiyidu maalaiyidu maalaiyidu
+Sm  m p  p p  d2   p   p m  m  m   m  m  m m  g  g  g g  r  r  r r
+
+(En jodi)

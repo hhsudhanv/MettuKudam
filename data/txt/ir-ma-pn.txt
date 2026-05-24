@@ -1,0 +1,78 @@
+Title: Malaiyoram veesum
+Film: Paadu nilaave
+Source URL: https://www.newtfmpage.com/notes/ir/ma_pn.txt
+
+s r2 g2 m1 p d1 n3 S
+here, r=r2, g=g2, m=m1, d=d1, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Malaiyoram  veesum kaathu
+p d  S n    d  p   m  pmg
+G G# C+ B  G#  G   F  GFD#
+
+manasodu   paadum paattu
+r g d p    m  g   r   s
+D D# G# G  F D#   D   C
+
+kaekkudhaa kaekkudhaa
+rg  s s    p.  s s
+DD# C C    G.  C C
+
+yaaraaro paadinaalum aaraaro aagaathamma
+s  r  g  r  s r  g   s r  g  r s  r  g
+C  D D#  D  C D D#   C D D#  D C  D  D#
+
+sondhangal thaedinaalum thandhai thaai aagaathamma
+s  r   g   r   s r  g   s   r    g     r s  r  g
+C  D  D#   D   C D D#   C   D   D#     D C  D  D#
+
+ennoda thaaiyum thandha paattu thaanamma
+r g m  g    r   g   mp  m   g  m   pd p
+D D# F D#   D  D#   FG  F  D#  F   GG# G
+
+(Malaiyoram)
+
+Stanza 1:
+
+vaan parandha thaen sittu       naan pudikka vaaraadhaa
+n    S n  dp  p     p  pdmpd    n    S n  dp p  p  p
+B   C+ B G#G  G     G  GG#FGG#  B   C+ B G#G G  G  G
+
+kallirukkum rosaappoo     kai   kalakka   koodaathaa
+n  S n  dp  p p  pdmpd    n S   R S nd    p  p  p
+B C+ B G#G  G G  GG#FGG#  B C+ D+ C+ BG#  G  G  G
+
+raappoadhu    aanaa un raagangal    thaanaa
+pd  Sn nR     S S   p  pd Sn nR     S   S
+GG# C+B BD+  C+ C+  G  GG# C+B BD+  C+  C+
+
+anbe   sol  naanaa thoda aagaatha    aannaa
+pdSn   nR   S  S   S  p  pdSn nR     S  S
+GG#C+B BD+ C+ C+  C+  G  GG#C+B BD+  C+ C+
+
+ ul moochu vaanginaene  mull meedhu thoonginaene
+ S  R  G   R   S R  G   S    R  G   R    S R  G
+C+ D+ D#+ D+  C+ D+ D#+ C+  D+ D#+ D+   C+ D+ D#+
+
+ illaadha baaram ellaam nenjoadu thaanginaene
+ S R  G   R  S   R G    S  R  G  R    S R  G
+C+ D+ D#+ D+ C+ D+ D#+ C+ D+ D#+ D+  C+ D+ D#+
+
+ nilaava naalum thaedum vaanam   naan
+ R R  R  n  n   p   p   m pmgrs  s
+D+ D+ D+ B  B   G   G   F GFD#DC C
+
+(Malaiyoram)
+
+Stanza 2: (notes similar to Stanza 1)
+
+kuthaalathu thaen aruvi sithaada thaan kattaadhaa
+sithaadaiya katti yezhai kaiyil vandhu kittadhaa
+aathoram naannal poonkaathodu aada
+aavaaram poovil adhu thaevaaram paada
+
+inge naan kaathirukka en paarvai poothirukka
+engaeyo nee irundhu en meedhu poar thodukka
+kolladhey paavam indha jeevan thaan
+
+(Malaiyoram)

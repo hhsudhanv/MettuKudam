@@ -1,0 +1,62 @@
+Title: Ohoa megam
+Film: Mouna ragam
+Source URL: https://www.newtfmpage.com/notes/ir/oho_mou.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+ohoa maegam vandhadhoa aedhoa dhaagam thandhadoa
+p. p g  p   g  s  s    p.p    m   p   m   r  r
+G. G E  G   E  C  C    G.G    F   G   F   D  D
+
+ellaam poovaikkaagaththaan paadum paavaikkaagaththaan
+p.p    g  p   g  s   s     p. p   m  p   m  r   r
+G.G    E  G   E  C   C     G. G   F  G   F  D   D
+
+pookkal mael neerth thuligal venn paakkal paadaadhoa
+s   s   r    r      g  g rg  r    s   s   r  r  n.
+C   C   D    D      E  E DE  D    C   C   D  D  B.
+
+thooral poadum    naeram poonjaaral veesaadhoa
+s   s   r  r      g  rg  r   s  s   r  r  n.
+C   C   D  D      E  DE  D   C  C   D  D  B.
+
+(ohoa maegam)
+
+Stanza 1:
+
+yaarum sollaadha kaaviyam    aadai kondingu aadudhu
+s  n.  d. n. d.  n. d.n.sn.  d.n.  d. n. s  g m g
+C  B.  A. B. A.  B. A.B.CB.  A.B.  A. B. C  E F E
+
+naeram vandhaalenna ponnoaviyam vannam maaraamal minnudhu
+s  n.  d. n.  d. n. d. n. s n.  d. n.  d. n. s   g  m g
+C  B.  A. B.  A. B. A. B. C B.  A. B.  A. B. C   E  F E
+
+naan pennaanadhu kalyaanam thaedavaa  oar kannaalan vandhu poomaalai poadavaa
+g    d1.d1.d.d1. g  g  d1. d1. d.d1.  g   s  s  r   s  r   g  g  s   s  r s
+E    G#.G#.A.G#. E  E  G#. G#. A.G#.  E   C  C  D   C  D   E  E  C   C  D C
+
+ye ammaadiyoa  pen paarkkum naadagam  yaar vandhaalumenna thirumbaadhu njaabagam
+g  d1.d1.d.d1. g   g    d1. d1.d.d1.  g    s  s   r s  r  g  g  g  s   s   r s
+E  G#.G#.A.G#. E   E    G#. G#.A.G#.  E    C  C   D C  D  E  E  E  C   C   D C
+
+poovilangu thaevaiyillaiyae  dhudhudhu dhudhudhu dhudhudhu dhudhudhu dhu
+s  n.d. d. d.  d. d. d. d    p  p  p   p  p  p   p  p  p   p  p  p   p
+C  B.A. A. A.  A. A. A. A    G  G  G   G  G  G   G  G  G   G  G  G   G
+
+(ohoa maegam)
+
+Stanza 2:
+
+kaalgal engaeyum poagalaam kaadhal illaamal vaazhalam
+vanna minnalgalai ninraadalaam vaazhvil sangeedham paadalaam
+naam innaalilae sittaaga maaralaam
+vaa vinmeethilae vinmeengal aagalaam
+????
+
+vaazhkkai enna vaazhndhu paarkkalaam
+
+(ohoa maegam)

@@ -1,0 +1,57 @@
+Title: Naane naana
+Film: Azhage unnai aaraadhikkiraen
+Source URL: https://www.newtfmpage.com/notes/ir/naan_aua.txt
+
+s r2 g3 m1 p d2 n2 S
+
+Naanae naana yaarothaana
+s  p   mp mp m  p m   g
+C  G   FG FG F  G F   E
+
+mella mella   maarinena
+rg g  mg sn.  n.ss s s
+DE E  FE CA#. A#.CC C C
+
+thannai thaanae marandhene
+g   g   m   p   dppm p  d
+E   E   F   G   AGGF G  A
+
+ennai naanae ketkiren
+mdd   d  n   d  p p
+FAA   A  A#  A  G G
+
+(naanae naana)
+
+Stanza 1:
+
+oruvan ninaivile    urugum idhayamae   idho thudikka
+pn d   p n  d pdpm  pn d   pn  d pdpm  pS   Sn RS Sn
+GA# A  G A# A GAGF  GA# A  GA# A GAGF  GC+  C+A# D+C+ C+A#
+
+ularndha udhadugaL   thanimai kavidhaigaL   aedho padikka
+pn   d   pn  d pdpm  p  n d   p n d   pdpm  p S   R R  G
+GA#  A   GA# A GAGF  G  A# A  G A# A  GAGF  G C+  D+ D+ E+
+
+madhuvin mayakkamae        unadha  madiyil  inimel
+R R  G   R R  G RGRS       RR G    R R G    RS nd1
+D+D+ E+  D+D+ E+ D+E+D+C+  D+D+ E+ D+ D+ E+ D+C+ A#G#
+
+ivaLdhaan
+pm  pmp
+GF  GFG
+
+charanam      charanam
+pS Sn nd1     p  m pmp
+GC+ C+A# A#G# G  F GFG
+
+(naanae naana)
+
+Stanza 2: (notes similar to Stanza 1)
+
+uravil kalappadhum pirivil thavippadhum ore manadhu
+piraiyil vaLarvadhum piragu theivadhum ore nilavu
+paruva vayadhile iravum pagalum viragam
+naragam
+charanam charanam
+
+(naanae naana)

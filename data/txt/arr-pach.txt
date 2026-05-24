@@ -1,0 +1,211 @@
+Title: Pachai nirame
+Film: Alaipaayudhaey
+Source URL: https://www.newtfmpage.com/notes/arr/pach.txt
+
+s r2 g2 m1 p d2 n2 S
+
+here, r = r2 and so on...
+
+ sakiye     snehidhiye      kadhalil kadhalil kadhalil niramundu
+ S n Sp     S n n Sp        n d d    n  d d   n d d    dndpmr
+C+ A# C+G  C+ A# A# C+G    A# A A   A#  A A  A# A A    AA#AGFD
+
+sakiye     snehidhiye     en anbe  anbe  unakkum  niramundu
+S n Sp     S n n Sp       d  n d   n d   n n d    dndpmr
+C+ A# C+G C+ A# A# C+G    A A# A  A# A  A# A# A   AA#AGFD
+
+pachai nirame pachai nirame
+s pm   p m pm p d    n d p
+C GF   G F GF G A   A# A G
+
+ichai ootum pachai nirame
+s pm  pmpm  p n    p m r
+C GF  GFGF  G A#   G F D
+
+pullin sirippum pachai nirame
+s pm   p m pm   p d    n d p
+C GF   G F GF   G A   A# A G
+
+enakku sammadham tharume
+mp m   r  m r    s  n.s
+FG F   D  F D    C A#.C
+
+pachai nirame pachai nirame
+s pm   p m pm p d    n d p
+C GF   G F GF G A   A# A G
+
+ilayin ilamai pachai nirame
+s pm   pmpm   p n    p m r
+C GF   GFGF   G A#   G F D
+
+unkann virumbum pachai nirame
+s pm   p m pm   p d    n d p
+C GF   G F GF   G A   A# A G
+
+enakku sammadham tharume
+mp m   r  m r    s  n.s
+FG F   D  F D    C A#.C
+
+enakku sammadham tharume
+p p p  p  p p    n  p nS np
+G G G  G  G G   A#  G A#C+ A#G
+
+enakku sammadham tharume
+m p m  r  m r    s  n.s
+F G F  D  F D    C A#.C
+
+kilayil kaanum kiliyin mooku
+p p p   p  p   p p d   d m
+G G G   G  G   G G A   A F
+
+vidalai pennin vettrilai nakku
+m m m   d  d   nS n  p   p p
+F F F   A  A  A#C+ A#G   G G
+
+putham pudhithai raththa roja
+p  p   p p  p    p   d   d m
+G  G   G G  G    G   A   A F
+
+bhoomi thodaa        pillayin padham
+m   m  m  d  dnS     n  p p   p p
+F   F  F  A  AA#C+  A#  G G   G G
+
+ella  sivappum undhan kovam
+rgm   r g  m   g r    rsrmgr
+DD#F  D D# F  D# D    DCDFD#D
+
+ella  sivappum undhan kovam
+rgm   r g  m   g r    rsrmgr
+DD#F  D D# F  D# D    DCDFD#D
+
+andhi vanam maraikkum manjal
+p p   p p   p p   d   d  m
+G G   G G   G G   A   A  F
+
+akni  kozhundhil pootha manjal
+m mm  d m   d    n  p   p  p
+F FF  A F   A   A#  G   G  G
+
+thanga thodu janitha manjal
+p  p   p  p  p d d   d m
+G  G   G  G  G A A   A F
+
+kondrai poovil kulitha manjal
+m  m    d  d   d n p   p  p
+F  F    A  A   A A# G  G  G
+
+ manjal     manjal manjal
+ GR S       nd p   gr grs
+D#+D+ C+   A#A G  D#D D#DC
+
+malai nilavin maragatha   manjal
+rgm   r g m   g g r r     rsrmgr
+DD#F  D D# F  D# D# D D   DCDFD#D
+
+ellam  thangum  undhan nenjil
+rgm    r  gm    r s    sn.s
+DD#F   D  D#F   D C    CA#.C
+
+ sakiye     snehidhiye      kadhalil  kadhalil  kadhalil niramundu
+ S n Sp     S n n Sp        n d d     n  d d    n d d    dndpmr
+C+ A# C+G  C+ A# A# C+G    A# A A    A#  A A   A# A A    AA#AGFD
+
+ sakiye     snehidhiye     en anbe  anbe  unakkum  niramundu
+ S n Sp     S n n Sp       d  n d   n d   n n d    dndpmr
+C+ A# C+G  C+ A# A# C+G    A A# A  A# A  A# A# A   AA#AGFD
+
+thalaiyilla valin   vannam (?)
+d. n. s  s  r sn.   n.sr
+A. A#.C  C  D CA#. A#.CD
+
+mudivillatha vanin vannam
+d.n.r  r  r  m r s s rm    pmr mrs
+A.A#.D D  D  F D C C DF    GFD FDC
+
+mayilin kazhuthil vazhum  vannam
+n. n. s s s  s    n.d.p.  p.n.r
+A#.A#.C C C  C    A#.A.G. G.A#.D
+
+kuvalai poovil kuzhaitha vannam
+n.n.r   r  r   m m r s   s rm
+A#.A#.D D  D   F F D C   C DF
+
+oodha poovil ootriya   vannam
+n n   n  n   dn np     m r mn dndpmr
+A# A# A# A#  AA# A#G   F D FA# AA#AGFD
+
+ellam  serndhun kannil  minnum
+s r    gr    s  r  gr   s r p  mpndpmrs
+C D   D#D    C  D  D#D  C D G  FGA#AGFDC
+
+ellam  serndhun kannil  minnum
+s r    gr    s  r  gr   s r p
+C D   D#D    C  D  D#D  C D G
+
+iravin   nirame iravin   nirame
+d. n. s  s s s  r r sn.  n.sr
+A. A#.C  C C C  D D CA#. A#.CD
+
+kaar  kaalathin moththa nirame
+d.n.  r  r  r   m r s   s rm   pmr mrs
+A.A#. D  D  D   F D C   C DF   GFD FDC
+
+kakkai  chirakil kaanum  nirame
+d.n.s   s  s s   n.d.p.  p.n.r
+A.A#.C  C  C C   A#.A.G. G.A#.D
+
+pennmai   ezhuthum kannmai nirame
+n.n.r     r r r    m r s   s rm
+A#.A#.D   D D D    F D C   C DF
+
+veyilil     paadum  kuyilin   nirame
+n n n       n  n    dn np     m r mn dndpmrs
+A# A# A#   A#  A#   AA# A#G   F D FA# AA#AGFDC
+
+ellam serndhun koondhal nirame
+s r   gr    s  r   gr   s s rp  mpndpmrs
+C D   D#D   C  D   D#D  C C DG  FGA#AGFDC
+
+ellam serndhun koondhal nirame
+s r   gr    s  r   gr   s s rp
+C D   D#D   C  D   D#D  C C DG
+
+ sakiye     snehidhiye      kadhalil kadhalil kadhalil niramundu
+ S n Sp     S n n Sp        n d d    n  d d   n d d    dndpmr
+C+ A# C+G  C+ A# A# C+G    A# A A   A#  A A  A# A A    AA#AGFD
+
+ sakiye    snehidhiye   en anbe  anbe  unakkum  niramundu
+ S n Sp    S n n Sp     d  n d   n d   n n d    dndpmr
+C+ A# C+G C+ A# A# C+G  A A# A  A# A  A# A# A   AA#AGFD
+
+vellai nirame vellai nirame
+s  pm  p m pm p d    n d p
+C  GF  G F GF G A   A# A G
+
+mazhaiyil udayum kumbai nirame
+s s   pm  p m pm p  d   n d p
+C C   GF  G F GF G  A  A# A G
+
+vellai nirame vellai nirame
+s pm   p m pm p  d   n d p
+C GF   G F GF G  A  A# A G
+
+vizhiyil  paadhi ulla nirame
+s s   pm  pm pm  p n  p m r
+C C   GF  GF GF  G A# G F D
+
+mazhaiyil udayum kumbai nirame
+s s   pm  p m pm p  d   n d p
+C C   GF  G F GF G  A  A# A G
+
+unadhu manasin nirame
+mp m   r  m r  s  n.s
+FG F   D  F D  C A#.C
+
+unadhu manasin nirame
+p p p  p  p p  n  p nS np
+G G G  G  G G A#  G A#C+ A#G
+
+unadhu manasin nirame
+m p m  r  m r  s  n.s
+F G F  D  F D  C A#.C

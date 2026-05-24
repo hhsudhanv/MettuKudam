@@ -1,0 +1,59 @@
+Title: Oru kili
+Film: Anada kummi
+Source URL: https://www.newtfmpage.com/notes/ir/oru_ak.txt
+
+s r2 g2 m1 p d2 n2 S
+here, r=r2, g=g2, m=m1, d=d2, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+oru kili urugudhu urimaiyil pazhagudhu oa   mainaa    mainaa
+sr  g m  pp p p   pp p  p   p p  p p   pnp  pnp pnp   pnp pmg
+CD  D# F GG G G   GG G  G   G G  G G   GA#G GA#G GA#G GA#G GFD#
+
+kurumbugal thodarudhu arumbugal malarudhu oa   mainaa    mainaa
+s r  g m   p  p p p   pp  p p   p p p p   pnp  pnp pnp   pnp pmg
+C D  D# F  G  G G G   GG  G G   G G G G   GA#G GA#G GA#G GA#G GFD#
+
+thaliridhu malaridhu thaanaa idhu oru thodarkadhai thaanaa
+p  p p d1  p p p m   pdp pm  mm   mp  m  m  m g    mpm mg
+G  G G G#  G G G F   GAG GF  FF   FG  F  F  F D#   FGF FD#
+
+iru manam inaiyudhu iru kili thazhuvudhu oa  mainaa   oa mainaa
+rr  r g   rr  r s   rr  r g  r  r  r s   n3. s  rgrm  g  r  s
+DD  D D#  DD  D C   DD  D D# D  D  D C   B.  C  DD#DF D# D  C
+
+(oru kili)
+
+Stanza 1:
+
+nilaveriyum    iravugalil   oa  mainaa    oa mainaa
+p n p S n      pn p m mg    gm  gm mp  n  mp p  p
+G A# G C+ A#   GA# G F FD#  D#F D#F FG A# FG G  G
+
+manal veliyil sadugududhaan oa  mainaa  oa mainaa
+p n   p S n   p n p m mg    gm  gm mp n mp p  p
+G A#  G C+ A# G A# G F FD#  D#F D#F FG A# FG G  G
+
+kilinjalgalae ulaiyarisi   ivalallavaa ilavarasi
+g m  p  d n   nS  n d n    gm p  n d   dn d p d
+D# F G  A A#  A#C+ A# A A# D#F G A# A  AA# A G A
+
+thaenaadum poovellaam paay poadum
+pn  n  p   pn3 n3 p   pS   S  p
+GA# A# G   GB  B  G   GC+  C+ G
+
+oru kili madiyinil oru kili urangudhu oa  mainaa   oa mainaa
+pp  p n3 n3n3n3S   Sp  p m  mg  g r   n3. s  rgrm  g  r  s
+GG  G B  B B B C+  C+G G F  FD# D# D  B.  C  DD#DF D# D  C
+
+(oru kili)
+
+Stanza 2: (notes similar to Stanza 1)
+
+ilaigalilum kilaigalilum oa mainaa oa mainaa
+iru kuyilgal paerezhudhum oa mainaa oa mainaa
+vayalveliyil pala kanavai vidhaikkiradhae siru paravai
+neeroadai engengum poovaadai
+malargalin veligalil iru pirai valarudhu oa mainaa oa mainaa
+
+(oru kili)

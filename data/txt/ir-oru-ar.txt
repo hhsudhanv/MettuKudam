@@ -1,0 +1,63 @@
+Title: Ou raagam
+Film: Anada raagam
+Source URL: https://www.newtfmpage.com/notes/ir/oru_ar.txt
+
+s r2 g3 m2 p d2 n3 S
+here, r=r2, g=g3, m=m2, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+oru  raagam paadaloadu kaadhil kaettadhoa
+p.d. s  r   g  r g  r  g  r    g   r g
+G.A. C  D   E  D E  D  E  D    E   D E
+
+manadhoadu oonjal aadudhoa
+s s s   s  s  gr  s gr s
+C C C   C  C  ED  C ED C
+
+dhinam   urangaamal vaadudhae
+s n.spgp gp  p  p   p  d pg
+C B.CGEG EG  G  G   G  A GE
+
+sugam    uravaadath thaedudhae
+s n.spgp gp p  p    p   d pg
+C B.CGEG EG G  G    G   A GE
+
+oa nenjamae  oaraayiram sugamidhu
+pn d  p mpd  p g  r rg  r g r g
+GB A  G F#GA G E  D DE  D E D E
+
+(oru raagam)
+
+Stanza 1:
+
+maalai naerak kaatril magizhndhaadum thennangeetrae
+p  pn  d  d   pd d    s s    rg  r   rp  g  gd p
+G  GB  A  A   GA A    C C    DE  D   DG  E  EA G
+
+maalai soodinaalum ennai aalum dheyvam neeyae
+p  pn  d  d pd d   s s   rg r  p   g   d  p
+G  GB  A  A GA A   C C   DE D  G   E   A  G
+
+kaadhal dhaevi engae      thaedum nenjam angae
+S  S    S   S  nSnRSnd    S   S   S  S   nSnRSnd
+C+ C+   C+  C+ BC+BD+C+BA C+  C+  C+ C+  BC+BD+C+BA
+
+thaeril poagum dhaevadhai naeril vandha nae..ramae
+d1d r   g  d   d1d r g    d1d r  g  d   d1d  r g
+G#A D   E  A   G#A D E    G#A D  E  A   G#A  D E
+
+ennullam inru vaanil poagudhae
+s r  s   g s  r  s   gr sd. p.
+C D  C   E C  D  C   ED CA. G.
+
+(oru raagam)
+
+Stanza 2: (notes similar to Stanza 1)
+
+aedhoa nooru jennmam onru saerndhu vandha sondham
+vaazhum kaalam yaavum thunaiyaaga vaendum enrum
+kaadhal thandha bandham kaadhal ennum geedham
+jeevanaadham kaetkudhae saerndhu inbam koottudhae
+varaadha kaalam vandhu saerndhadhae
+
+(oru raagam)

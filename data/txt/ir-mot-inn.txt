@@ -1,0 +1,49 @@
+Title: mottu vitta
+Film: indru nee nALai nAn
+Source URL: https://www.newtfmpage.com/notes/ir/mot_inn.txt
+
+s r2 g2 m1 p d1 n3 S
+
+mottu vitta mullakkodi
+p  d  p  m  p  S  S S
+
+machAn thotta manja kiLi
+S R    G   R  S  R  S n
+
+vetkappattu chokki nikkudhu
+S  R  G  R  S   R  S  n n
+
+indha alli thaNdu ennai kaNdu
+n n   S R  G   R  S R   S  n
+
+thaNNikkuLLe vikki nikkudhu
+S   R  G  R  S  R  S  S S
+
+vaLLippoNNE nAnirukka achamenna onakku
+S  G  R  G  S M G3 M  SP  M2 P  GR  Sn
+
+andha nALa nenjil vachu eNNi chollu kaNakku
+S G   R G  S  M   G3M   SG3  MN2 P  G R  S
+
+Stanza :
+
+On kEli pO..dhumadi ... mAngA thingum mA..thamadi
+SG G G  RGM GR S S      G  G  G   G   RGM GR S S
+
+On kEli pO..dhumadi oLinjirundhu mAngA thingum mA..thamadi
+SG G G  RGM GR S S  SS  S RS n   SG G  G   G   RGM GR S S
+
+adi peNNE vayiRu varum munnE
+SR  G  G  G G G  MGR   G  G
+
+neeyum sumandhu thaLLAda vENumadi
+G  G   G MG R   R   G M  DPG R R GSRS
+
+nenjukkuLLe yEdhO A...sa
+S  G3 M  P  DPMG3 RG3 G3RS
+
+yAra pAthu nAnum pE....sa
+S G3 M P   DPMG3 RG3PM MG3RS
+
+alapAyudhu vAliba manasu   A..sa vayasu
+SR SRn2n2  n2R R  R M G3RS Sn2GS d p p

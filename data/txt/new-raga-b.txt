@@ -1,0 +1,74 @@
+Title: ragasiya kanavugaL
+Film: Bheema
+Source URL: https://www.newtfmpage.com/notes/new/raga_b.txt
+
+s r2 g2 m1 p d2 n3 S
+
+ragasiya kanavugaL jal jal   en  imaigaLai kazhuvudhu sol sol
+s r r g  r s n.p.  s   s     sn. sr  r g   r s  n.p.  s   s
+
+iLamaiyil iLamaiyil jil jil  en  irudhayam nazhuvudhu sel sel
+sr r  g   rs n. p.  s   s    sn. sr r  g   r s  n.p.  s   s
+
+mudhal piraipOl manadhinilE vizhundhadhu unadhuruvam
+s r    m r  p   m p m  r p  m p   m  p   mp m  g r
+
+udhadugaLAl unai padippEn irunthidu arai nimidam
+sr  m r p   mp   m r  p   mp  m  p  mp   m g r
+
+tholaivadhupOl tholaivadhu thAn ulagil ulagil punidham
+p  n2 n2S  n2p m  p  p n2  pm   rp r   rp r   s n.n.r grsrs
+
+iragE iragE mayiliragE vaNNa mayiliragE vandhu thodu azhagE
+ss s  ss s  n.s r s r  r  s  n.s r s r  r  s   n. s  rg  r
+
+thoda thoda pozhigira sugam sugamE
+r  m  m  g3 g3r  r s  r s   n.p.s
+
+kaNN pada pada pudhirgaLum avizhnthidumE
+s    r m  m g3 g3r   r s   rs    n. p.s
+
+Stanza 1:
+
+marupadi oru murai pirandhEnE
+d S d S  dp  m g3  g3m  d  p
+
+viral thoda puruvamum sivandhEnE
+d S   d  S  d p m g3  g3m  dS dp
+
+illAdha vArTHaikkum purigindra arTHam nee
+mpd p   d  d    d   d n S   n  d p    p
+
+sollAdha idamengum sudugindra muTHam nee
+mp d p   dd d  d   d n S   n  d p    p
+
+sudum thanimaiyai uNargira mara nizhal pOle enai soozha
+p S   S  R R  G3  MG3 M G3 R S  n S    G3R  nS   G3R R
+
+narambugaLOdu kurumbugaL nALum ezhudhiya kaNakku
+d S  S R GRS  d S  S R   GRS   GR  S  n  d p  S
+
+enadhiru kaigaL thazhuvida neengum irudhaya suLukku
+dS S  R  GR S   d1 S  S R  GR  S   GR G  R  S p  pS
+
+(ragasiya)
+
+Stanza 2: (notes similar to Stanza 1)
+
+uyir aNu muzhuvadhum unai pEsa
+imai thodum ninaivugaL anal veesa
+oh.. nenaichAlE sivappAgum marudhANi thOttam nee
+thalai vaiTHu nAn thoongum thalagANi konjam nee
+enadhiravinil dhisai tharum nilavoLi neeyE padarvAyE
+nerunguvadhAlE norungividAdhu irubadhu varudam
+ho.. thavarugaLAlE thodugira neeyO azhagiya mirugam
+
+(ragasiya)
+
+(notes similar to "mudhal piraipOl")
+
+kuyilinamE kuyilinamE enakkoru siragu kodu
+muhilinamE muhilinamE mugavari ezhudhi kodu
+avanidamE avanidamE enadhu kanavai anuppu
+
+(iragE iragE)

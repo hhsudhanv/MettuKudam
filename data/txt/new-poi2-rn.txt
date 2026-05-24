@@ -1,0 +1,80 @@
+Title: Poi solla
+Film: Run
+Source URL: https://www.newtfmpage.com/notes/new/poi2_rn.txt
+
+s r2 g3 m1 p d2 n3 S
+
+Poi solla koodaathu, kaadhali,
+grs s  s  sg r  s    n. s  gr
+EDC C  C  CE D  C    B. C  ED
+
+Poi sonnaalum neeyae yen kaadhali,
+gr  rg mp pd  mg m   r   g2 r  s
+ED  DE FG GA  FE F   D   D# D  C
+
+Kanngalaal kanngalil dhaayam aaginaay,
+gp  p p    p   p pd  g   p   g p m
+EG  G G    G   G GA  E   G   E G F
+
+Kaigalaal kaigalil raegai maatrinaay,
+gp p p    p  p pd  g  p   g  p  m
+EG G G    G  G GA  E  G   E  G  F
+
+Poiyondrai oppitthaay,Aiyaiyo thappitthaay,
+p  s   s   n.n. s     p m  rs n.  n. s
+G  C   C   B.B. C     G F  DC B.  B. C
+
+Kannmoodi thaedathaan,Kanavengum thitthitthaay,
+ps  s  s  n.  n.sr    r g2 rsn2. d.  n2. srgpm
+GC  C  C  B.  B.CD    D D# DCA#. A.  A#. CDEGF
+
+Stanza :
+
+Azhagiya poigal pookkum poo chedi kandaen,
+gg  g g  m  m   p   p   d   d  n2 p  dn2Sn2p
+EE  E E  F  F   G   G   A   A  A# G  AA#C+A#G
+
+Ragasiyamaaga uyirai thoandi,  Padhiyam poattu kondaen,
+g g g g m  m  pp p   dn2  dn2  s s  s   n2  n2 dSn2 dp
+E E E E F  F  GG G   AA#  AA#  C C  C   A#  A# AC+A# AG
+
+Kandavudan yennaiyae, nindrathadi vizhiyae,
+n2 d n2d   n2 d  n2S  n2  d n2 d  n2d  mp dpmg
+A# A A#A   A# A  A#C+ A#  A A# A  A#A  FG AGFE
+
+Yennai vittu thaniyae, Sendrathadi nizhalae,
+n2 d   n2 d  n2 d n2S  n2  d n2 d  n2d  mp dpmg
+A# A   A# A  A# A A#C+ A#  A A# A  A#A  FG AGFE
+
+Adi suttum vizhi chudarae,
+pp  p  R   R R   R  G2RS
+GG  G  D+  D+D+  D+ D#+D+C+
+
+Natchathira pa..yirae,
+S  S  S  S  S   RSn2d
+C+ C+ C+ C+ C+ D+C+A#A
+
+Rekkai katti vaa nilavae,
+d  d   n2 d  pm  g p m
+A  A   A# A  GF  E G F
+
+Poiyondrai ...
+Poi solla ...
+
+Stanza 2: (notes similar to Stanza 1)
+Ahh, oru malai enbathu oru thulithaanaa, kannae?
+Nee ottrai thuliyaa, kodi kadalaa,
+Unnmai solladi, pennae,
+Kannukkuli naduvae,
+Sikki kondaen, alagae,
+Netri mudi valiyae,
+Takk-in vanthaen, veliyae,
+Adi potti vaittha puyalae,
+Thatthalikkum themilae,
+Vetkam vittu vaa, veliyae,
+Nil-endrai kanditthaay,
+Ull sendru thanditthaay,
+Sol-endru kenjathaan,
+Sollaamal vanjitthaay,
+
+Poi solla ...

@@ -1,0 +1,60 @@
+Title: Amudhae
+Film: Kovil puraa
+Source URL: https://www.newtfmpage.com/notes/ir/am_kp.txt
+
+s r1 g3 p d2 n2 S
+here, r=r1, g=g3, d=d2, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+sariga  sariga  sarisari   gapagari  sariga
+s r g   s r g   s r s r    g p g r   s r g
+C C# E  C C# E  C C# C C#  E G E C#  C C# E
+
+amudhae  thamizhae  azhagiya  mozhiyae  enadhuyirae (2)
+sr g     s  r g     sr  g p   g r  s    sr s  d.s
+CC# E    C  C# E    CC# E G   E C# C    CC# C A.C
+
+sugam pala tharum thamizhp paa (2)
+s r   s r  g  p   s  g     p
+C C#  C C# E  G   C  E     G
+
+suvaiyoadu kavidhaigal thaa (2)
+s r  s  r  g p g   p   d
+C C# C  C# E G E   G   A
+
+thamizhae naalum nee paadu (2)
+g  p d S  dp pg  gp  dp grs
+E  G A C+ AG GE  EG  AG EC#C
+
+(amudhae)
+
+Stanza 1:
+
+thaenoorum     dhaevaaram     isaip paattin aadhaaram (2)
+pSd nd nd      nd  nd nd np   g p   d   d   dp pdS dp
+GC+A A#A A#A  A#A A#A A#A A#G E G   A   A   AG GAC+ AG
+
+thamizhisaiyae  thaniyisaiyae   tharaniyilae  mudhalisaiyae
+g  p d  p  pSd  p  d S R  S     g  p d p pSd  p d  S R  S
+E  G A  G  GC+A G  A C+ C#+ C+  E  G A G GC+A G A C+ C#+ C+
+
+oon  mezhugaay   urugum  karaiyum adhil ulagam marandhu poagum (2)
+dS   S R  S d    dS dp   p d  pg  g p   gp pd  p d  S   SR RG RS
+AC+ C+ C#+ C+ A  AC+ AG  G A  GE  E G   EG GA  G A C+  C+C#+ C#+E+ C#+C+
+
+poonguyilae      ennoadu    thamizhae naalum nee paadu
+dS  S R Sd       nd nd nd   g  p d S  dp pg  gp  dp grs
+AC+ C+ C#+ C+A  A#A A#A A#A E  G A C+ AG GE  EG  AG EC#C
+
+(amudhae)
+
+Stanza 2: (notes similar to Stanza 1)
+
+ponnalla poovalla porulalla selvangal (2)
+kalaipalavum payilavarum arivuvalam perumai tharum
+en kanavum ninaivum isaiyae isaiyirundhaal maranamaedhu (2)
+en manadhil thaen paaya thamizhae naalum nee paadu
+
+(amudhae)
+
+--------------------------------------------------------------------------------

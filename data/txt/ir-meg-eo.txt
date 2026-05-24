@@ -1,0 +1,56 @@
+Title: maegam kottattum
+Film: Enkkul oruvan
+Source URL: https://www.newtfmpage.com/notes/ir/meg_eo.txt
+
+s r2 g2 m1 p d1 n2 S
+
+maegam kottattum aattam undu
+p  p   p  p  p   p  p   m p
+
+minnal vettattum paattum undu
+p  p   p  p  p   d   p   m p
+
+raagangal theeraadhu
+m  g  s   m   g  m
+
+paadaamal poagaadhu
+m  g  s   m  g  m
+
+vaanambaadi oayaadhu
+p  p  n3 n3 R R  S
+
+(maegam)
+
+Stanza 1:
+
+endhan paadal kaettu idi inru kaiththattum
+S S    n  p   n   S  sr  m g  m    g   s
+
+thadai onrum illai mazhai vandhu kaetkattum
+S  S   n p   n S   s r    m  g   m   g  s
+
+nijamazhaiyai isaimazhaiyaal nanaiththiduvoam naangal
+n n n n   n   d2d2d2d2  d2   d d    d  d d    p   p
+
+kulireduththaal vaanaththirkae kudaikodungal neengal
+n n n n   n     d2 d2  d2  d2  d d  d d  d   p   p
+
+paattukkal vaanvarai kaetkumae
+n   S  p   n   S p   n   S S
+
+en aattaththil minnalum thoarkumae
+p  n  S   p    n  S p   n    S S
+
+mazhai sindhum neerum thaenae
+p p    p  p    n3 n3  R   R  S
+
+(maegam)
+
+Stanza 2: (notes similar to Stanza 1)
+
+mazhai vandhadhaalae isai ninru poagumaa
+puyal vandhadhaalae alai enna oayumaa
+raagangalaal dheepangalai aetrivaiththaan taansaen
+raagangalaal maegangalai naan niruththivaippaen enbaen
+rasiganin aarvaththaip paarkkiraen ungal paadhaththil enthalai saaykkiraen
+isai endhan jeevan enbaenae

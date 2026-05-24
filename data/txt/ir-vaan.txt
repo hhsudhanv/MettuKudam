@@ -1,0 +1,75 @@
+Title: Vaan megam
+Film: Punnagai mannan
+Source URL: https://www.newtfmpage.com/notes/ir/vaan.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+vaan maegam pooppoovaaith thoovum
+rg   rg r   g   g  g      rg  r
+DE   DE D   E   E  E      DE  D
+
+dhaegam ennavaagum inbamaaga noagum
+sr  s   srs sr s   srs rg g  sr s
+CD  C   CDC CD C   CDC DE E  CD C
+
+mazhaiththuli theriththadhu enakkullae kuliththadhu
+p.g     p. g  p. g   p. g   d.m d. m   d.m   d. m
+G.E     G. E  G. E   G. E   A.F A. F   A.F   A. F
+
+ninaiththadhu paliththadhu kudaikkambi thulirththadhu
+p.g    p. g   p.g   p. g   d.m   d. m  d. m    d. m
+G.E    G. E   G.E   G. E   A.F   A. F  A. F    A. F
+
+vaanam muththukkal sindhi
+g  m   p   p   p   d  n
+E  F   G   G   G   A  B
+
+ vaazhga venradhu    kaadhal venradhu
+ S    n  d  n SnS    S  n    d  n d
+C+    B  A  B C+BC+ C+  B    A  B A
+
+maegam vandhadhu pookkal sindhudhu
+n  d   p  d  n   n   d   p  d  n
+B  A   G  A  B   B   A   G  A  B
+
+ aalumillai saerththedukka noolumillai koarththedukka
+ S n S  n   d     p  d  p  m  g m  g   r     s  r  m
+C+ B C+ B   A     G  A  G  F  E F  E   D     C  D  F
+
+(vaan maegam)
+
+vaanilae  vaanilae neerin thoaranangaloa
+p  d pdpd p  m mr  p  d   n   S n  d p   m
+G  A GAGA G  F FD  G  A   B  C+ B  A G   F
+
+en manam  pongudhae enna kaaranangaloa
+p  d pdpd p  m mr   p d  n  S n  d p
+G  A GAGA G  F FD   G A  B C+ B  A G
+
+avan vizhi asaindhadhil ival manam asaindhadhoa
+md   m d   md   m  d    pn   p n   pn   p  n
+FA   F A   FA   F  A    GB   G B   GB   G  B
+
+thalirkaram pidikkaiyil malarkkodi silirththadhoa
+m  d  m d   m d  m  d   p n   p n  p n    p  n
+F  A  F A   F A  F  A   G B   G B  G B    G  B
+
+ saalai engum ingae sangeedha maedaiyaanadhoa
+ S  S   n n   d d   d1 d  n   S  n  d  n SnS
+C+ C+   B B   A A   G# A  B  C+  B  A  B C+BC+
+
+ vaadai paadudhoa
+ S  n   d  n d
+C+  B   A  B A
+
+thooral poadudhoa thoagai aadudhoa
+n   d   p  d n    n   d   p d n
+B   A   G  A B    B   A   G A B
+
+ boomiyengum kaviyarangam saaral paadum jaladharangam
+ S  n S  n   d d p d  p   m  g   m  g   r r s  r  m
+C+  B C+ B   A A G A  G   F  E   F  E   D D C  D  F
+
+(vaan maegam)

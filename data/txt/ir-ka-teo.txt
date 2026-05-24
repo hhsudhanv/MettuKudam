@@ -1,0 +1,82 @@
+Title: Kaadhalin dheepam
+Film: Thambikku endha ooru
+Source URL: https://www.newtfmpage.com/notes/ir/ka_teo.txt
+
+s r2 g3 m1 p d1 n2 S
+here, r=r2, g=g3, m=m1, d=d1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+kaadhalin dheepam onru
+grs s rg  g   g   g g
+EDC C DE  E   E   E E
+
+aetrinaalae en nenjil
+gr g gd p   g  gd p
+ED E EG# G  E  EG# G
+
+oodalil vandha sondham
+p d pg  grs s  sg r
+G G# GE EDC C  CE D
+
+koodalil kanda inbam
+p  d pg  grs s sg r
+G  G# GE EDC C CE D
+
+mayakkam enna
+sg rg r  s d.
+CE DE D  C G#.
+
+kaadhal vaazhga
+d. p.   d.   p.  s
+G#. G.  G#.  G.  C
+
+(kaadhalin)
+
+Stanza 1:
+
+naetru poal inru illai
+p  d   p    p p  pd p
+G  G#  G    G G  GG# G
+
+inru poal naalai illai
+p d  p  m m  g   g g
+G G# G  F F  E   E E
+
+anbilae     vaazhum nenjil
+p d nd      nS S    S  S
+G G# A#G#  A#C+ C+  C+ C+
+
+aayiram     paadalae
+n S Rn      dp p dp
+A# C+ D+A#  G#G G G#G
+
+onrudhaan ennam   enraal
+p d nd    nS S    S  S
+G G# A#G# A#C+ C+ C+ C+
+
+uravudhaan  kaadhalae
+n  S Rn     dp p  d
+A# C+ D+A#  G#G G G#
+
+ennam yaavum
+rgm   gm p
+DEF   EF G
+
+ solla   vaa
+ dp dp   dpdSp
+G#G G#G G#GG#C+G
+
+(kaadhalin)
+
+Stanza 2: (notes similar to Stanza 1)
+
+ennai naan thaedith thaedi
+unnidam kandu kondaen
+ponnilae poovai allum
+punnagai minnudhae
+kannilae gaandham vaiththa
+kavidhayaip paaduthae
+anbae inbam
+solla vaa
+
+(kaadhalin)

@@ -1,0 +1,93 @@
+Title: Kuyil paattu
+Film: En raasavin manasile
+Source URL: https://www.newtfmpage.com/notes/ir/kp_erm.txt
+
+s r2 g2 m1 p d2 n2 S
+here, r=r2, g=g2, m=m1, d=d2, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+kuyil paattu oh   vandhadhenna ila maane
+p d   dS  dp dg   g  d  p   gr gs  r  r
+G A   AC+ AG AD# D#  A  G  D#D D#C D  D
+
+adhai kaettu oh   selvadhenge  manam thaane
+p d   dS  dp dg   g  d p   gr  g s   r   r
+G A   AC+ AG AD# D#  A G  D#D D# C   D   D
+
+indru vandha inbam ennavo
+s  r  g  p   s r   g p pd
+C  D  D# G   C D  D# G GA
+
+adhu kandu kandu anbu pongavo
+ss   s  r  g  p  s r  g  p pd
+CC   C  D D#  G  C D D#  G GA
+
+kuyiley        poa      poa ini   naan    thaane
+d G RRG        RSSR     Rd  dS    SddG    RGRS S
+A D#+ D+D+D#+ D+C+C+D+ D+A  AC+  C+AAD#+ D+D#+D+C+ C+
+
+ini   unn     raagam     adhu  yen     raagam
+dG    RRG     RSSRRd     dS    SddG    RGRS S
+AD#+ D+D+D#+ D+C+C+D+D+A AC+  C+AAD#+ D+D#+D+C+ C+
+
+(kuyil)
+
+Stanza 1:
+
+athai magan kondaada
+dS    S S   S  R  d
+AC+  C+ C+ C+ D+  A
+
+pithu manam thindaada
+d S   S S   S   R  d
+A C+ C+ C+ C+  D+  A
+
+anbai indha  nenjil sumappaen oh  oh
+d S   S G    R  G   S R  Sd   dS  dp
+A C+ C+ D#+ D+ D#+ C+ D+ C+A  AC+ AG
+
+putham pudhu chendaahi
+d S    S S   S   R  d
+A C+  C+ C+ C+  D+  A
+
+methai sugam undaaha
+d S    S S   S R  d
+A C+  C+ C+ C+ D+ A
+
+athanaiyum  alli   koduppaen oh  oh
+dS  S  G    R G    S R  Sd   dS  dp
+AC+ C+ D#+ D+ D#+ C+ D+ C+A  AC+ AG
+
+mannavanum pogum paadhaiyil
+p  n d p   g r   g  r   g   rs
+G A# A G  D# D  D#  D  D#   DC
+
+vaasamulla malligaippoo methai  virippaen
+s  r r  g  g  p p   d   d G     R S  S
+C  D D D#  D# G G   A   A D#+  D+ C+ C+
+
+utharavu  podum nerame
+pn  d p   g r   g r g  rs
+GA# A G  D# D  D# D D# DC
+
+muthu nagai   pettagathai mella thirappaen
+s r   r g     g  p p d    d  G  R  S  S
+C D   D D#   D#  G G A    A D#+ D+ C+ C+
+
+ mounam     ponathendru             pudhu  vedham  paaduthey
+ SG G       G G SR  GRMG            G G    SR R    Sd d dR
+C+D#+ D#+ D#+ D#+ C+D+ D#+D+F+D#+ D#+ D#+ C+D+ D+ C+A A AD+
+
+ vaazhum    aasaiyodu       adhu   vaasal  theduthey
+ SG G       G G  SRG        G G    SR R    Sd d dR
+C+D#+ D#+ D#+ D#+ C+D+D#+ D#+ D#+ C+D+ D+ C+A A AD+
+
+ vedham   paaduthey vaasal  theduthey
+ SR R     Sd d dR   SR R    Sd d dR
+C+D+ D+  C+A A AD+ C+D+ D+ C+A A AD+
+
+(kuyil)
+
+Stanza 2:
+
+(kuyil)

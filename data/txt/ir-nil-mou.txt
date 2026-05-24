@@ -1,0 +1,56 @@
+Title: Nilave vaa
+Film: Mouna ragam
+Source URL: https://www.newtfmpage.com/notes/ir/nil_mou.txt
+
+s r2 g3 m1 p d2 n3 S
+here, r=r2, g=g3, m=m1, d=d2, n=n3 [unless otherwise specified]
+
+---------------------------------------------------------------------
+
+nilaavae vaa      sellaadhae vaa
+g g rmg  g  rgrs  s  sn.rs   s    rrg
+E E DFE  E  DEDC  C  CB.DC   C    DDE
+
+ennaalum un       ponvaanam  naan
+g g rmg  g  rgrs  s  sn.rs   s
+E E DFE  E  DEDC  C  CB.DC   C
+
+enai needhaan pirindhaalum ninaivaalae anaiththaen
+sg   gp p     m2p  m2 pm2  r g  mg m   mp    pg    rrs
+CE   EG G     F#G  F# GF#  D E  FE F   FG    GE    DDC
+
+(nilaavae vaa)
+
+Stanza 1:
+
+kaveriya kaanal neeraa pennae enna unmai
+g m d p  r  s   s  s   p. d.  d.n. n.srsrss
+E F A G  D  C   C  C   G. A.  A.B. B.CDCDCC
+
+mulvaeliyaa mullaippoovaa sollu konjam nillu
+g  m  d p   r  s   s  s   p. d. d. n.  n.sgrsgrss
+E  F  A G   D  C   C  C   G. A. A. B.  B.CEDCEDCC
+
+ammaadiyoa needhaan innum siru pillai
+g p  S S   n  SnS   g gr  m mg g  gp
+E G  C+ C+ B  C+BC+ E ED  F FE E  EG
+
+thangaadhamma nenjam      neeyum sonna sollai
+g   p  n2  d  d1 d d1n2d  r  rs  g  gr m  g
+E   G  A#  A  G# A G#A#A  D  DC  E  ED F  E
+
+poondhaenae   needhaanae   sollil vaiththaay mullai
+g   d   dnSd  g  m   mpdm  g  n   n    S     S  RR1GR
+E   A   ABC+A E  F   FGAF  E  B   B   C+    C+ D+C#+E+D+
+
+(nilaavae vaa)
+
+Stanza 2: (notes similar to Stanza 1)
+
+poonjoalaiyil vaadaik kaatrum vaada sandham paada
+koodaadhenru koorum poovum aedhu mannin meedhu
+orae oru paarvai thandhaal enna thaenae
+orae oru vaarththai sonnaal enna maanae
+aghaayam thaangaadha maegham aedhu pennae
+
+(nilaavae vaa)

@@ -1,0 +1,71 @@
+Title: Thoongaadha vizhigal
+Film: Agni Natchathiram
+Source URL: https://www.newtfmpage.com/notes/ir/tho.txt
+
+s g3 m2 p n3 S
+
+F:
+thoongadha vizhigal rendu
+s    g s   g p  pn  S  n
+C    E C   E G  GB  C+ B
+
+un thunai thedum nenjam ondru
+s  s  s   g  s   g p pn S  n
+C  C  C   E  C   E G GB C+ B
+
+ven poo  manjam virithalum panneerai thelithaalum
+p n S    S  S   n S n  p   p  nS  p  p  m g   m g
+G B C+  C+  C+  B C+B  G   G  BC+ G  G F# E  F# E
+
+ aanandham enakkedhu anbenee   illadhu
+ S G  S    nS  n p   gmpnSnp   pmgpmgg
+C+ E+ C+   BC+ B G   EF#GBC+BG GF#EGF#EE
+
+thoongadha vizhigal rendu
+s    g s   g p  pn  S  n
+C    E C   E G  GB  C+ B
+
+un thunai thedum nenjam  ondru
+s  s  s   g  s   g m pn  n  S
+C  C  C   E  C   E F# GB B  C+
+
+M:
+maa mara ilai mele .... margazhip pani pole
+g   m p  nn   S S       n  S n    n p  p p
+E   F# G BB  C+ C+      B C+ B    B G  G G
+
+poomagal madi meedhu naan thoongavo
+n  S n   n p  p  pm  g  m p   nn S
+B C+ B   B G  G  GF# E F# G   BB C+
+
+maa mara ilai  mele margazhip pani pole
+g   m p  nn    S S  n  S n    n p  p pn
+E  F# G  BB   C+ C+ B C+ B    B G  G GB
+
+poomagal madi meedhu naan thoongavo
+n  S n   n p  p  np  g  m p   nn SGS
+B C+ B   B G  G  BG  E F# G   BB C+E+C+
+
+F:
+rathiri pagalaga    oru podhum vilagamal
+p n  S  G P G S     nS  n p    p m g m g
+G B C+ E+ G+ E+ C+  BC+ B G    G F# E F# E
+
+rajanai kaiyendhi thaalattavo
+g m p   n  S  Sn  p n S GGPGS
+E F#G   B C+ C+B  G B C+ E+E+G+E+C+
+
+M:
+naalum        naalum       raagam      thaalam
+nSGMPP        PMGMG        nSGPGS      n S n
+BC+E+F#+G+G+ G+F#+E+F#+E+  BC+E+G+E+C+ B C+B
+
+serum         neram        theerum      baram
+nSGMPP        PMGMG        nSGPGS       n S n
+BC+E+F#+G+G+ G+F#+E+F#+E+  BC+E+G+E+C+  B C+B
+
+ SG  nS  pn  mp    nS  pn  mp gm
+C+E+ BC+ GB F#G    BC+ GB F#G EF#
+
+pn  SG    MG   Sn    pm  gp pm  sn.
+GB C+E+ F#+E+ C+B    GF# EG GF# CB.

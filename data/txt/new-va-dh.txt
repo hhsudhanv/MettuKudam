@@ -1,0 +1,71 @@
+Title: Vathi kuchi
+Film: Dheena
+Source URL: https://www.newtfmpage.com/notes/new/va_dh.txt
+
+s r1 g3 m1 p d1 n2 S
+
+vathi kuchi pathikkaadhuda
+r s   r s   r s   n. n. n.
+C# C  C# C  C# C  A#. A#. A#.
+
+ yaarum vandhu urasura varaiyile
+ n. s   p. n.  ss r s  r s  n.s
+A#. C   G. A#. CC C# C C# C A#.C
+
+ vambu thumbu vachukkaaddheyda
+ r  s  r   s  r s   n.  n.  n.
+C#  C  C#  C  C# C  A#. A#. A#.
+
+ yaarum onna  usuppura varaiyile
+ n. s   p.n.  ss  r s  r s  n.s
+A#. C   G.A#. CC C# C  C# C A#.C
+
+eekkuchiyai illaama nee theekkuchiya iruda
+s  m m  g   s m  m  g   s    m m  pm gm p
+C  F F  E   C F  F  E   C    F F  GF EF G
+
+ulle oru ushnam vandhaa un vaazhvil   velicham varum
+s m  mg  s  m   m  g    s  r  m r m   r s s    s sn.
+C F  FE  C  F   F  E    C  C# F C# F C# C C    C CA#.
+
+(vathi)
+
+Stanza 1:
+
+manasu   uduthina kavalai thuni
+p.d.n.   ss s  s  s r s   r  s rsr
+G.G#.A#. CC C  C  C C# C  C# C C#CC#
+
+eduthu   avizhtheri etharku inee
+p.d.n.   ss   s  s  sr   s  rs
+G.G#.A#. CC   C  C  CC#  C  C#C
+
+irukkum kanneeraiyum
+rg  g   rg g  gm gm
+C#E E   C#E E EF EF
+
+yaetham nee poattedu
+rg g    rg  g   gp pm
+C#E E   C#E E   EG GF
+
+azhavaa ingey vandhom
+rg  g   rg g  gm gm g rgr
+C#E E   C#E E EF EF E C#EC#
+
+aadu paadu  aanandhamaa
+r m  r  m   rm r m  rm rsn.s
+C# F C# F  C#F C# F C#F C#CA#.C
+
+(vathi)
+
+Stanza 2: (notes similar to Stanza 1)
+
+muyarchi seithaal samayathile
+mudhuku thaangum imayathaiye
+
+manasa irumbaakkanum
+malaiya thurumbaakkanum
+aazhkadal koodathaan
+aaru poala maarumadaa
+
+(vathi)

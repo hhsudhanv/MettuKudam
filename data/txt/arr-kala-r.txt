@@ -1,0 +1,61 @@
+Title: kalagalavena
+Film: Rhythm
+Source URL: https://www.newtfmpage.com/notes/arr/kala_r.txt
+
+s r2 g3 m1 p d2 n3 S
+
+anbE idhu nijamdhAnA...
+p.p  pp   m m  pd p
+
+en vAnil pudhu viNmeenA...
+p. p.p   p p   m  pdnSp
+
+yArai kEttadhu idhayam unnai thodarndhu pOga
+p m   p  m g   mm  r   p m   p  m   g   m r
+
+enna thuNiCHal adhaRku ennai maRandhu pOga
+n.n. s  r rn.          n.n.  s r  rn. s sd.
+
+irundhum avai iniya varigaLE...
+n.n.s    rs   rg m  p d1n2S
+
+kalagalavena pozhiyum pozhiyum mEgam engu selludhO
+s n.s g r m  g p  r   s n. s   grm   gpr  sn.r rp.
+
+oLiyillAmal malarum malarai uLavu pArkka selludhO
+sn.s  grm   g p r   s n.s   gr m  gp  r  sn.r rp.
+
+viral thodavillaiyE...nagam padavillaiyE...udal thadaiyillaiyE
+s S   n  S d1 p  m    s S   n S p  m  g2   sS   n  S  m  g2 r
+
+idhu pOl oru iNaiyillaiyE
+RS   Rn  pS  nd1 p  m  g2r
+
+Stanza 1:
+
+vizhiyum vizhiyum kalandhu kalandhu pArvai onRu A..nadhE
+p p  S   S n2 n2  n2d1 d1  d1p  p   pm m   grg  mn2d1p
+
+uyirum uyirum kalandha pOdhu ulagam ninRu pO..nadhE
+pp S   Sn2n2  n2d1 d1  d1pp  pm m   gr g  mn2 d1p
+
+vizhiyum vizhiyum kalandhu kalandhu pArvai onRu AnadhE
+g g  g   g g  g   g g  m   g g  m   r  m   mn2p g2g2rs
+
+uyirum uyirum kalandha pOdhu ulagam ninRu pOnadhE
+gg g   gg g   g g  m   g m   rr m   mn2p  g2g2rs
+
+yArai kEttadhu idhayam...  yArai kEttadhu idhayam
+m p   pn n n   nS  pS n2dp mpp   p  p p   pd1 p gpmgrs
+
+(notes similar to "viral thoda")
+AAAA...AAAA...AAAA...AAAA
+
+Stanza 2: (notes similar to Stanza 1)
+
+azhaikkumbOdhu udhikka mudindhAl adhaRkup peyarum nilavillaiyE...
+ninaikkumbOdhu nilavu udhikkum nilavu azhaikkak kuralillaiyE...
+azhaikkumbOdhu udhikka mudindhAl adhaRkup peyarum nilavillaiyE
+ninaikkumbOdhu nilavu udhikkum nilavu azhaikkak kuralillaiyE
+yAraik kEttadhu idhayam...yAraik kEttadhu idhayam
+AAAA...AAAA...AAAA...vizhi thoduvadhu viral thodavillai

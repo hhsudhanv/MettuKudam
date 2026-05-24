@@ -1,0 +1,41 @@
+Title: Engengo
+Film: Pattaakkathi bhairavan
+Source URL: https://www.newtfmpage.com/notes/ir/engengo.txt
+
+s g2 m1 p n2 S
+here, g=g2, m=m1, n=n2 [unless otherwise specified]
+---------------------------------------------------------------------
+
+Engengo   sellum en ennangal
+s g  sn.  s  sg  s  sn.s sp.
+C D# CA#. C  CD# C  CA#.C CG.
+
+ingethaan kanden pon vannangal
+s g sn.   s  sg  s   sn.s  sp.
+C D# CA#. C  CD# C   CA#.C CG.
+
+en vaazhkai thaane  nilaave nilaave  ...
+s  sg   sn. s   sg  s g  m  g m  p   p n S n p m      g m p g s n. sp.
+C  CD#  CA#.C   CD# C D# F  D# F G   G A# C+ A# G F  D# F G D# C A#. CG.
+
+(Engengo)
+
+Stanza 1:
+
+ Oh  kallaanavan     poovaagiren
+ Sp  Sp p  g pgsg    Sp p  g pgsg
+C+G C+G G D# GD#CD# C+G G D# GD#CD#
+
+ anbe             indrum            endrum
+ g p gpgpgp..     p np npnpnp..     p Sp SpSpSp..
+D# G D#GD#GD#G..  G A#G A#GA#GA#G.. G C+G C+GC+GC+G..
+
+ edharkaaga  vaazhndhen unakkaagaa vaazhndhen
+ SS   S  n3  R2S   Sp   mp  m  g   m     n
+C+C+ C+  B   D+C+ C+G   FG  F D#   F     A#
+
+ nee             naan             naam
+ np npnpnp..     pg pgpgpg..      sn. sn.sn.sn. ..
+A#G A#GA#GA#G..  GD# GD#GD#GD#..  CA#. CA#.CA#.CA#. ..
+
+(Engengo)

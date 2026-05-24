@@ -1,0 +1,119 @@
+Title: Oru poiyaavadhu
+Film: Jodi
+Source URL: https://www.newtfmpage.com/notes/arr/oru_jodi.txt
+
+s r2 g2 m1 p d2 n3 S
+here, r=r2, g=g2, m=m1, d=d2, n=n3 [unless otherwise specified]
+---------------------------------------------------------------------
+
+oru poy..yaavadhu  sol kaNNae un  kaa.dhal naandhaan enRu
+sd. d.s  rg g r    rs  s  r   sd. d.s rg   gr  rs    s r
+CA. A.C  DD# D# D  DC  C  D   CA. A.C DD#  D#D DC    C D
+
+andha sollil   uyir vaazhvaen
+p p   gpmgrs   gr   s n. s
+G G   D#GFD#DC D#D  C B. C
+
+pookkaLil unnaal raththam adi
+m   m m   m m  p g   r    sr
+F   F F   F F  G D#  D    CD
+
+mounaththil unnaal yuththam
+m  m   m    m m  p g   r
+F  F   F    F F  G D#  D
+
+idhaith thaangumaa en nenjam...
+ss      n.   s r   s  s  n.srg  r s
+CC      B.   C D   C  C  B.CDD# D C
+
+idhaith thaangumaa en nenjam
+ss      n.   s r   s  s  s
+CC      B.   C D   C  C  C
+
+uNmaiyum poymaiyum pakkam pakkamdhaan
+s s  s   s  s  s   n. n.  d. p. d.
+C C  C   C  C  C   B. B.  A. G. A.
+
+rombap pakkam pakkamdhaan
+s  s r n. n.  d. p. d.
+C  C D B. B.  A. G. A.
+
+paarththaal rendum ondRudhaan
+d. r  s   r n. n.  d. p. p. d. n.
+A. D  C   D B. B.  A. G. G. A. B.
+
+paalukkum kaLLukkum vaNNam ondRudhaan
+s  s  s   s  s  s r n. n.  d. p. d.
+C  C  C   C  C  C D B. B.  A. G. A.
+
+paarkkum kaNgaL ondRudhaan
+s    s   n. n.  d. p. d.
+C    C   B. B.  A. G. A.
+
+undaal rendum vaeRudhaan
+d.rsr  n. n.  d. p. p.
+A.DCD  B. B.  A. G. G.
+
+Stanza 1:
+
+iravinaith thiratti
+mp d1p     p  p  p
+FG G#G     G  G  G
+
+kaNmaNiyin kuzhal seydhaanoa
+m  p m g3  s r    g3 g3  m
+F  G F E   C D    E  E   F
+
+kaNmaNiyin kuzhal seydhaanoa
+m  p m g3  s r    g3 g3  m
+F  G F E   C D    E  E   F
+
+nilavin oLiyeduththuth kaNgaL seydhaanoa
+m p pm  mp m g3  rs    m  r   s  n.  s r g3
+F G GF  FG F E   DC    F  D   C  B.  C D E
+
+viNmeen viNmeen koNdu viralil nagam samaiththu
+m  m    m  m    m  mp g3g3g3  g3r   g3r    s
+F  F    F  F    F  FG E E E   E D   E D    C
+
+minnalin keetRugaL kondu kairaegai seydhaanoa
+r  s s   r   s s   r  s  s  r  rm  mr rs  sn2. s r
+D  C C   D   C C   D  C  C  D  DF  FD DC  CA#. C D
+
+vaadaik kaatRu pattu vayadhukku vandha pookkaL
+m  m    m  m   m  mp g3g3g3  g3 r  g3  rs  s
+F  F    F  F   F  FG E E E   E  D  E   DC  C
+
+konduth thangam thangam poosith thoaL seydhaanoa
+r  s    r   s   r  s    r  s    r rm  mr rs  sn2.
+D  C    D   C   D  C    D  C    D DF  FD DC  CA#.
+
+aanaal peNNae     uLLam kallil   seydhu   vaiththaanoa
+mpd1   d1 pg3pg3  s r   mg mg    mg mg    r    s   r
+FGG#   G# GEGE    C D   FD# FD#  FD# FD#  D    C   D
+
+kaadhal kaNNae     uLLam kallil   seydhu   vaiththaanoa
+mp d1   d1 pg3pg3  s r   mg mg    mg mg    r    s   r  rsn.
+FG G#   G# GEGE    C D   FD# FD#  FD# FD#  D    C   D  DCB.
+
+(oru poyyaavadhu ...)
+
+Stanza 2: (notes similar to Stanza 1)
+
+nilavinai enakku
+arugil kaattiyadhu needhaanae
+arugil kaattiyadhu needhaanae
+
+malarin mugavarigaL sonnadhu needhaanae
+
+aaaa kaatRu bhoomi vaanam kaadhal paesum maegam
+aRimugam seydhadhu yaar yaar en anbae needhaanae
+
+gangai gangai aatRaik kavidhaigaL kondu tharum
+kaaviri ootRaith kaNNil kaiyil thandhavaL needhaanae
+
+aanaal uyirae nenjai mattum moodi vaiththaayoa
+
+kaanal neerae nenjai mattum moodi vaiththaayoa
+
+(oru poyyaavadhu ...)

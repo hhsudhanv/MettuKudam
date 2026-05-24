@@ -1,0 +1,66 @@
+Title: Orae manam
+Film: Villain
+Source URL: https://www.newtfmpage.com/notes/new/ore2_vil.txt
+
+s r2 g2 m1 p d1 n2 S
+
+Orae  manam,   orae      gunam,
+n.sr  mg gs    sn.srgm   s n.d.
+A#.CD FD# D#C  CA#.CDD#F C A#.G#.
+
+Orae     idham    sugam  sugam,
+n.srgp   mg gs    s n.s  s n.s
+A#.CDD#G FD# D#C  C A#.C C A#.C
+
+Idhae  nilai,   idhae  karai,
+n.sr   mg gs    sn.s   s n.d.
+A#.CD  FD# D#C  CA#.C  C A#.G#.
+
+Idhae  kathai   idham  idham,
+n.sr   mg gs    sn.s   sn.s
+A#.CD  FD# D#C  CA#.C  CA#.C
+
+Idhae dhinam,     idhaekshanam,
+mp    nd nd       Snpd2n pmg
+FG    A#G# A#G#   C+A#GAA# GFD#
+
+Idham padham   saram...
+pm mr mg gs    sr sr
+GF FD FD# D#C  CD CD
+
+Orae manam, orae gunam,
+Orae idam sugam sugam,
+
+Stanza 1:
+
+Pallinaalil arumbaay irunthaen,
+mp p p  p   mn  p    n3n3S
+FG G G  G   FA# G    BBC+
+
+Paruvanaalil mudhalaay irunthaen,
+mpp p mn p   m g  m    rs  r
+FGG G FA# G  F D# F    DC  D
+
+Paarvai usuppa malargal thavilnthaen,
+r   mg  gs  s  n.s  s   n. s   s
+D   FD# D#C C  A#.C C   A#.C   C
+
+Sparisam eluppa malaraay malarnthaen,
+r  gpm   gs  s  n.s s    n.s   s
+D  D#GF  D#C C  A#.CC    A#.C  C
+
+Malarae unthan malargal thoorum, Manjam   amaippaen,
+s s s   s s    r r  r   r   r    mg mg    mgm  r
+C C C   C C    D D  D   D   D    FD# FD#  FD#F D
+
+Kaniyai maarum rasavaagangal, Katru    koduppaen,
+s s s   s  s   r r r  r  r    mg mg    mgm  r
+C C C   C  C   D D D  D  D    FD# FD# FD#F  D
+
+Kaniyaanaalum malarin       vaasam,     Vaari ko..duppaen,
+p p p  p  p   ndndnd        nd nd       n  n  n   n S
+G G G  G  G   A#G#A#G#A#G#  A#G# A#G#   A# A# A# A# C+
+
+Vaazhvai rasip..paen...
+m    d2  nRS    np mg r s
+F    A  A#D+C+ A#G FD# D C
