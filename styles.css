@@ -485,6 +485,10 @@ body[data-theme="dark"] .song-film {
   word-break: break-word;
   line-height: 1.72;
   font-size: clamp(0.94rem, 0.55vw + 0.84rem, 1.06rem);
+  color: var(--text);
+  -webkit-text-fill-color: var(--text);
+  transform: translateZ(0);
+  backface-visibility: hidden;
 }
 
 .song-list::-webkit-scrollbar,
@@ -592,6 +596,11 @@ body[data-theme="dark"] .song-film {
 
   .notes-layout-dual {
     grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .notes-block-secondary {
+    display: none !important;
   }
 
   .reader-meta h2 {

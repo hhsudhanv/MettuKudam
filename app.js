@@ -599,6 +599,10 @@ function escapeHtml(value) {
 }
 
 function syncResponsiveLayout() {
+  if (state.selectedSongId) {
+    selectSong(state.selectedSongId, { revealMobile: false });
+  }
+
   if (isMobileLayout()) {
     if (state.mobileView !== "reader" || !state.selectedSongId) {
       setMobileView("list");
