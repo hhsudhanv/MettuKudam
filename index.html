@@ -11,7 +11,7 @@
   <link rel="icon" type="image/png" href="assets/DarkTheme_Mettukdam_Logo_v2.png">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="stylesheet" href="styles.css?v=20260903-mobile-safe-reader">
+  <link rel="stylesheet" href="styles.css?v=20260903-favorites">
 </head>
 <body>
   <div class="app-shell">
@@ -47,6 +47,10 @@
         </select>
       </label>
 
+      <button id="favoriteFilterButton" type="button" class="icon-button favorite-filter-button" aria-label="Show favorite songs" title="Show favorite songs" aria-pressed="false">
+        <span aria-hidden="true">&#9734;</span>
+      </button>
+
       <button id="addSongButton" type="button" class="action-button hidden">Add Song</button>
     </section>
 
@@ -71,11 +75,17 @@
         </div>
 
         <article id="readerPane" class="reader-pane hidden">
+          <button id="favoriteSongButton" type="button" class="icon-button favorite-song-button hidden" aria-label="Add song to favorites" title="Add song to favorites" aria-pressed="false">
+            <span aria-hidden="true">&#9734;</span>
+          </button>
+
           <div class="reader-header">
             <button id="mobileBackButton" type="button" class="back-button">Back to songs</button>
 
             <div class="reader-meta">
-              <h2 id="songTitle">Untitled</h2>
+              <div class="reader-title-row">
+                <h2 id="songTitle">Untitled</h2>
+              </div>
               <p id="filmName" class="film-name">Unknown film</p>
             </div>
 
@@ -119,6 +129,6 @@
   </div>
 
   <script src="typesense.config.js"></script>
-  <script src="app.js?v=20260903-list-paging-a11y"></script>
+  <script src="app.js?v=20260903-favorites"></script>
 </body>
 </html>

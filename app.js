@@ -10,11 +10,14 @@ const state = {
   searchRequestId: 0,
   mobileView: "list",
   visibleSongCount: 120,
+  favoriteSongIds: new Set(),
+  showFavoritesOnly: false,
 };
 
 const LOCAL_STORAGE_KEY = "tamil-song-swaras-library";
 const EDITOR_PASSWORD = "tfm-notes-admin";
 const THEME_STORAGE_KEY = "tamil-song-swaras-theme";
+const FAVORITES_STORAGE_KEY = "tamil-song-swaras-favorites";
 const TYPESENSE_CONFIG_STORAGE_KEY = "tamil-song-swaras-typesense-config";
 const DEFAULT_TYPESENSE_QUERY_BY = "title,film_name,full_notes,raw_text,relative_path";
 const DEFAULT_TYPESENSE_COLLECTION = "songs";
@@ -37,6 +40,8 @@ const elements = {
   fileFallback: document.getElementById("fileFallback"),
   fileInput: document.getElementById("fileInput"),
   editPageLink: document.getElementById("editPageLink"),
+  favoriteFilterButton: document.getElementById("favoriteFilterButton"),
+  favoriteSongButton: document.getElementById("favoriteSongButton"),
   addSongButton: document.getElementById("addSongButton"),
   readerActions: document.getElementById("readerActions"),
   editSongButton: document.getElementById("editSongButton"),
@@ -96,6 +101,45 @@ function toggleTheme() {
   applyTheme(nextTheme);
 }
 
+function loadFavorites() {
+  try {
+    const favorites = JSON.parse(localStorage.getItem(FAVORITES_STORAGE_KEY) || "[]");
+    state.favoriteSongIds = new Set(Array.isArray(favorites) ? favorites : []);
+  } catch (error) {
+    console.warn("Failed to load favorite songs.", error);
+    state.favoriteSongIds = new Set();
+  }
+}
+
+function persistFavorites() {
+  localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify([...state.favoriteSongIds]));
+}
+
+function isFavoriteSong(songId) {
+  return state.favoriteSongIds.has(songId);
+}
+
+function updateFavoriteUi() {
+  const hasSelection = Boolean(state.selectedSongId);
+  const selectedIsFavorite = hasSelection && isFavoriteSong(state.selectedSongId);
+  const favoriteCount = state.favoriteSongIds.size;
+  const filterLabel = state.showFavoritesOnly ? "Show all songs" : "Show favorite songs";
+  const songLabel = selectedIsFavorite ? "Remove song from favorites" : "Add song to favorites";
+
+  elements.favoriteFilterButton.classList.toggle("active", state.showFavoritesOnly);
+  elements.favoriteFilterButton.setAttribute("aria-pressed", state.showFavoritesOnly.toString());
+  elements.favoriteFilterButton.setAttribute("aria-label", filterLabel);
+  elements.favoriteFilterButton.title = favoriteCount > 0 ? `${filterLabel} (${favoriteCount})` : filterLabel;
+  elements.favoriteFilterButton.querySelector("span").innerHTML = state.showFavoritesOnly ? "&#9733;" : "&#9734;";
+
+  elements.favoriteSongButton.classList.toggle("active", selectedIsFavorite);
+  elements.favoriteSongButton.classList.toggle("hidden", !hasSelection);
+  elements.favoriteSongButton.setAttribute("aria-pressed", selectedIsFavorite.toString());
+  elements.favoriteSongButton.setAttribute("aria-label", songLabel);
+  elements.favoriteSongButton.title = songLabel;
+  elements.favoriteSongButton.querySelector("span").innerHTML = selectedIsFavorite ? "&#9733;" : "&#9734;";
+}
+
 function persistSongs() {
   localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(state.allSongs));
 }
@@ -137,6 +181,7 @@ function updateModeUi() {
   elements.editPageLink.href = editingEnabled ? "index.html" : "index.html?mode=edit";
   elements.editPageLink.setAttribute("aria-label", editingEnabled ? "Open viewer page" : "Open edit page");
   elements.editPageLink.title = editingEnabled ? "Open viewer page" : "Open edit page";
+  updateFavoriteUi();
 }
 
 function normalizeText(value) {
@@ -308,20 +353,21 @@ function songSearchBlob(song) {
 function sortSongs(songs, sortValue) {
   const sorted = [...songs];
   const compareText = (a, b, key) => normalizeText(a[key]).localeCompare(normalizeText(b[key]));
+  const compareFavorites = (a, b) => Number(isFavoriteSong(b.id)) - Number(isFavoriteSong(a.id));
 
   switch (sortValue) {
     case "title-desc":
-      sorted.sort((a, b) => compareText(b, a, "title") || compareText(b, a, "film_name"));
+      sorted.sort((a, b) => compareFavorites(a, b) || compareText(b, a, "title") || compareText(b, a, "film_name"));
       break;
     case "film-asc":
-      sorted.sort((a, b) => compareText(a, b, "film_name") || compareText(a, b, "title"));
+      sorted.sort((a, b) => compareFavorites(a, b) || compareText(a, b, "film_name") || compareText(a, b, "title"));
       break;
     case "film-desc":
-      sorted.sort((a, b) => compareText(b, a, "film_name") || compareText(b, a, "title"));
+      sorted.sort((a, b) => compareFavorites(a, b) || compareText(b, a, "film_name") || compareText(b, a, "title"));
       break;
     case "title-asc":
     default:
-      sorted.sort((a, b) => compareText(a, b, "title") || compareText(a, b, "film_name"));
+      sorted.sort((a, b) => compareFavorites(a, b) || compareText(a, b, "title") || compareText(a, b, "film_name"));
       break;
   }
 
@@ -334,7 +380,7 @@ function renderSongList() {
   if (state.filteredSongs.length === 0) {
     const empty = document.createElement("p");
     empty.className = "hint";
-    empty.textContent = "No songs matched your search.";
+    empty.textContent = state.showFavoritesOnly ? "No favorite songs matched your search." : "No songs matched your search.";
     elements.songList.appendChild(empty);
     return;
   }
@@ -353,9 +399,15 @@ function renderSongList() {
     if (song.id === state.selectedSongId) {
       button.classList.add("active");
     }
+    if (isFavoriteSong(song.id)) {
+      button.classList.add("favorite");
+    }
 
     button.innerHTML = `
-      <div class="song-title">${escapeHtml(toTitleCase(song.title) || "Untitled Song")}</div>
+      <div class="song-title-row">
+        <div class="song-title">${escapeHtml(toTitleCase(song.title) || "Untitled Song")}</div>
+        <span class="song-favorite-marker" aria-hidden="true">&#9733;</span>
+      </div>
       <div class="song-film-wrap">
         <span class="song-film-label">Film:</span>
         <span class="song-film">${escapeHtml(toTitleCase(song.film_name) || "Unknown Film")}</span>
@@ -446,6 +498,10 @@ async function applyFilters() {
     }
   }
 
+  if (state.showFavoritesOnly) {
+    songs = songs.filter((song) => isFavoriteSong(song.id));
+  }
+
   if (requestId !== state.searchRequestId) {
     return;
   }
@@ -474,6 +530,26 @@ async function applyFilters() {
 function resetListAndApplyFilters() {
   state.visibleSongCount = SONG_LIST_INCREMENT;
   state.selectedSongId = null;
+  applyFilters();
+}
+
+function toggleFavoritesFilter() {
+  state.showFavoritesOnly = !state.showFavoritesOnly;
+  resetListAndApplyFilters();
+}
+
+function toggleSelectedSongFavorite() {
+  if (!state.selectedSongId) {
+    return;
+  }
+
+  if (isFavoriteSong(state.selectedSongId)) {
+    state.favoriteSongIds.delete(state.selectedSongId);
+  } else {
+    state.favoriteSongIds.add(state.selectedSongId);
+  }
+
+  persistFavorites();
   applyFilters();
 }
 
@@ -682,6 +758,8 @@ elements.cancelEditButton.addEventListener("click", cancelEdit);
 elements.deleteSongButton.addEventListener("click", deleteCurrentSong);
 elements.exportLibraryButton.addEventListener("click", exportSongs);
 elements.addSongButton.addEventListener("click", addNewSong);
+elements.favoriteFilterButton.addEventListener("click", toggleFavoritesFilter);
+elements.favoriteSongButton.addEventListener("click", toggleSelectedSongFavorite);
 elements.themeToggleButton.addEventListener("click", toggleTheme);
 elements.mobileBackButton.addEventListener("click", () => setMobileView("list"));
 
@@ -697,6 +775,7 @@ if (getModeFromUrl() === "edit" && isReadOnlyDeployment()) {
   // promptForEditorAccess handles redirect on failure.
 } else {
   applyTheme(getSavedTheme());
+  loadFavorites();
   state.typesenseConfig = getTypesenseConfig();
   syncResponsiveLayout();
   loadSongs();

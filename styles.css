@@ -175,7 +175,7 @@ body[data-theme="dark"] .brandmark-image-dark {
 
 .controls {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(210px, 260px) auto;
+  grid-template-columns: minmax(0, 1fr) minmax(210px, 260px) auto auto;
   gap: 10px;
   align-items: end;
   padding: 10px 12px;
@@ -266,6 +266,24 @@ textarea {
   color: var(--danger-text);
 }
 
+.favorite-filter-button,
+.favorite-song-button {
+  align-self: end;
+  font-size: 1.05rem;
+}
+
+.favorite-filter-button.active,
+.favorite-song-button.active,
+.song-item.favorite .song-favorite-marker {
+  color: #8d3f12;
+}
+
+body[data-theme="dark"] .favorite-filter-button.active,
+body[data-theme="dark"] .favorite-song-button.active,
+body[data-theme="dark"] .song-item.favorite .song-favorite-marker {
+  color: #ffd39d;
+}
+
 .fallback {
   padding: 14px 16px;
 }
@@ -352,6 +370,33 @@ body[data-theme="dark"] .song-item.active {
   overflow: hidden;
 }
 
+.song-title-row,
+.reader-title-row {
+  display: flex;
+  align-items: start;
+  gap: 8px;
+  min-width: 0;
+}
+
+.song-title-row {
+  justify-content: space-between;
+}
+
+.song-title-row .song-title {
+  min-width: 0;
+}
+
+.song-favorite-marker {
+  display: none;
+  flex: 0 0 auto;
+  font-size: 0.88rem;
+  line-height: 1;
+}
+
+.song-item.favorite .song-favorite-marker {
+  display: inline-block;
+}
+
 .song-film-wrap {
   display: flex;
   align-items: baseline;
@@ -422,6 +467,7 @@ body[data-theme="dark"] .song-film {
 }
 
 .reader-pane {
+  position: relative;
   display: grid;
   grid-template-rows: auto minmax(0, 1fr);
   gap: 16px;
@@ -443,6 +489,7 @@ body[data-theme="dark"] .song-film {
   display: grid;
   gap: 12px;
   align-content: start;
+  padding-right: 54px;
 }
 
 .reader-meta {
@@ -450,12 +497,23 @@ body[data-theme="dark"] .song-film {
   gap: 6px;
 }
 
+.reader-title-row {
+  align-items: center;
+}
+
 .reader-meta h2 {
+  min-width: 0;
   font-family: var(--font-display);
   font-size: clamp(2rem, 2vw + 1rem, 3rem);
   line-height: 0.98;
   letter-spacing: 0;
   margin: 0;
+}
+
+.favorite-song-button {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 
 .film-name {
@@ -563,7 +621,7 @@ body[data-theme="dark"] .song-film {
 
 @media (max-width: 1200px) {
   .controls {
-    grid-template-columns: minmax(0, 1fr) minmax(180px, 220px) auto;
+    grid-template-columns: minmax(0, 1fr) minmax(180px, 220px) auto auto;
   }
 
   .content-grid {
@@ -601,7 +659,7 @@ body[data-theme="dark"] .song-film {
   }
 
   .controls {
-    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-columns: minmax(0, 1fr) auto auto;
     gap: 8px;
     padding: 8px;
     align-items: center;
@@ -632,6 +690,10 @@ body[data-theme="dark"] .song-film {
     width: 34px;
     height: 34px;
     font-size: 0.9rem;
+  }
+
+  .favorite-filter-button {
+    align-self: end;
   }
 
   .content-grid {
@@ -670,6 +732,11 @@ body[data-theme="dark"] .song-film {
 
   .reader-meta h2 {
     font-size: clamp(1.45rem, 5.2vw, 2rem);
+  }
+
+  .favorite-song-button {
+    width: 36px;
+    height: 36px;
   }
 
   .film-name {
