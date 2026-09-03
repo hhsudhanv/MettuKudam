@@ -1,0 +1,24 @@
+{
+  "name": "Mettukudam",
+  "short_name": "Mettukudam",
+  "description": "Tamil song swaras and notation reader.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e58d57",
+  "theme_color": "#e58d57",
+  "icons": [
+    {
+      "src": "assets/pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

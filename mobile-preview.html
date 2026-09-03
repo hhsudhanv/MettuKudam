@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mettukudam Mobile Preview</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      min-height: 100%;
+      margin: 0;
+    }
+
+    body {
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background: #26140d;
+      font-family: "Segoe UI", sans-serif;
+    }
+
+    .phone {
+      width: min(390px, calc(100vw - 24px));
+      aspect-ratio: 390 / 844;
+      padding: 12px;
+      border-radius: 38px;
+      background: #120a07;
+      box-shadow:
+        0 26px 70px rgba(0, 0, 0, 0.42),
+        inset 0 0 0 2px rgba(255, 255, 255, 0.08);
+    }
+
+    .screen {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      border: 0;
+      border-radius: 28px;
+      background: #e58d57;
+    }
+  </style>
+</head>
+<body>
+  <main class="phone" aria-label="Mettukudam mobile preview">
+    <iframe class="screen" src="index.html?preview=mobile&v=20260903-mobile-safe-reader" title="Mettukudam mobile preview"></iframe>
+  </main>
+</body>
+</html>

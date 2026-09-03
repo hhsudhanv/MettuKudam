@@ -9,6 +9,7 @@ const state = {
   loadedFromLocalStorage: false,
   searchRequestId: 0,
   mobileView: "list",
+  visibleSongCount: 120,
 };
 
 const LOCAL_STORAGE_KEY = "tamil-song-swaras-library";
@@ -18,6 +19,7 @@ const TYPESENSE_CONFIG_STORAGE_KEY = "tamil-song-swaras-typesense-config";
 const DEFAULT_TYPESENSE_QUERY_BY = "title,film_name,full_notes,raw_text,relative_path";
 const DEFAULT_TYPESENSE_COLLECTION = "songs";
 const MOBILE_BREAKPOINT = window.matchMedia("(max-width: 900px)");
+const SONG_LIST_INCREMENT = 120;
 
 const elements = {
   searchInput: document.getElementById("searchInput"),
@@ -124,7 +126,12 @@ function updateModeUi() {
   elements.cancelEditButton.classList.toggle("hidden", !editingEnabled || !state.isEditing);
   elements.deleteSongButton.classList.toggle("hidden", !editingEnabled || !state.isEditing);
   elements.notesContent.classList.toggle("hidden", state.isEditing);
-  elements.notesContentSecondary.classList.toggle("hidden", state.isEditing || elements.notesContentSecondary.textContent.trim() === "");
+  elements.notesContentSecondary.classList.toggle(
+    "hidden",
+    state.isEditing ||
+      !elements.notesLayout.classList.contains("notes-layout-dual") ||
+      elements.notesContentSecondary.textContent.trim() === ""
+  );
   elements.editForm.classList.toggle("hidden", !state.isEditing);
   elements.editPageLink.classList.toggle("hidden", isReadOnlyDeployment());
   elements.editPageLink.href = editingEnabled ? "index.html" : "index.html?mode=edit";
@@ -332,7 +339,14 @@ function renderSongList() {
     return;
   }
 
-  for (const song of state.filteredSongs) {
+  const selectedIndex = state.filteredSongs.findIndex((song) => song.id === state.selectedSongId);
+  const visibleCount = Math.min(
+    state.filteredSongs.length,
+    Math.max(state.visibleSongCount, selectedIndex + 1)
+  );
+  const visibleSongs = state.filteredSongs.slice(0, visibleCount);
+
+  for (const song of visibleSongs) {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "song-item";
@@ -350,6 +364,27 @@ function renderSongList() {
 
     button.addEventListener("click", () => selectSong(song.id, { revealMobile: true }));
     elements.songList.appendChild(button);
+  }
+
+  if (visibleCount < state.filteredSongs.length) {
+    const footer = document.createElement("div");
+    footer.className = "song-list-footer";
+
+    const count = document.createElement("p");
+    count.className = "hint";
+    count.textContent = `Showing ${visibleCount} of ${state.filteredSongs.length} songs`;
+
+    const showMore = document.createElement("button");
+    showMore.type = "button";
+    showMore.className = "action-button load-more-button";
+    showMore.textContent = "Show more";
+    showMore.addEventListener("click", () => {
+      state.visibleSongCount += SONG_LIST_INCREMENT;
+      renderSongList();
+    });
+
+    footer.append(count, showMore);
+    elements.songList.appendChild(footer);
   }
 }
 
@@ -436,9 +471,15 @@ async function applyFilters() {
   }
 }
 
+function resetListAndApplyFilters() {
+  state.visibleSongCount = SONG_LIST_INCREMENT;
+  state.selectedSongId = null;
+  applyFilters();
+}
+
 function setSongs(songs) {
   state.allSongs = Array.isArray(songs) ? songs : [];
-  state.selectedSongId = state.allSongs[0]?.id || null;
+  state.selectedSongId = null;
   applyFilters();
 }
 
@@ -620,8 +661,8 @@ function syncResponsiveLayout() {
   }
 }
 
-elements.searchInput.addEventListener("input", applyFilters);
-elements.sortSelect.addEventListener("change", applyFilters);
+elements.searchInput.addEventListener("input", resetListAndApplyFilters);
+elements.sortSelect.addEventListener("change", resetListAndApplyFilters);
 elements.fileInput.addEventListener("change", async (event) => {
   const file = event.target.files?.[0];
   if (!file) {
