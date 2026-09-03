@@ -14,6 +14,20 @@ const state = {
   showFavoritesOnly: false,
 };
 
+const PEOPLE_FILTERS = {
+  "composer:Ilaiyaraaja": { role: "composer", name: "Ilaiyaraaja" },
+  "composer:A. R. Rahman": { role: "composer", name: "A. R. Rahman" },
+  "singer:S. P. Balasubrahmanyam": { role: "singer", name: "S. P. Balasubrahmanyam" },
+  "singer:S. Janaki": { role: "singer", name: "S. Janaki" },
+  "singer:K. S. Chithra": { role: "singer", name: "K. S. Chithra" },
+  "singer:K. J. Yesudas": { role: "singer", name: "K. J. Yesudas" },
+};
+
+const COMPOSER_PATH_PREFIXES = {
+  ir: "Ilaiyaraaja",
+  arr: "A. R. Rahman",
+};
+
 const LOCAL_STORAGE_KEY = "tamil-song-swaras-library";
 const EDITOR_PASSWORD = "tfm-notes-admin";
 const THEME_STORAGE_KEY = "tamil-song-swaras-theme";
@@ -27,9 +41,14 @@ const SONG_LIST_INCREMENT = 120;
 const elements = {
   searchInput: document.getElementById("searchInput"),
   sortSelect: document.getElementById("sortSelect"),
+  personFilterSelect: document.getElementById("personFilterSelect"),
   songList: document.getElementById("songList"),
   songTitle: document.getElementById("songTitle"),
   filmName: document.getElementById("filmName"),
+  songInfoButton: document.getElementById("songInfoButton"),
+  songInfoCloseButton: document.getElementById("songInfoCloseButton"),
+  songInfoPanel: document.getElementById("songInfoPanel"),
+  songInfoList: document.getElementById("songInfoList"),
   notesContent: document.getElementById("notesContent"),
   notesContentSecondary: document.getElementById("notesContentSecondary"),
   notesLayout: document.getElementById("notesLayout"),
@@ -52,6 +71,8 @@ const elements = {
   editForm: document.getElementById("editForm"),
   editTitleInput: document.getElementById("editTitleInput"),
   editFilmInput: document.getElementById("editFilmInput"),
+  editComposerInput: document.getElementById("editComposerInput"),
+  editSingersInput: document.getElementById("editSingersInput"),
   editSourceUrlInput: document.getElementById("editSourceUrlInput"),
   editNotesInput: document.getElementById("editNotesInput"),
   themeToggleButton: document.getElementById("themeToggleButton"),
@@ -85,6 +106,10 @@ function getSavedTheme() {
 function setMobileView(view) {
   state.mobileView = view;
   document.body.dataset.mobileView = isMobileLayout() ? view : "desktop";
+
+  if (view === "list") {
+    closeSongInfoPanel();
+  }
 }
 
 function applyTheme(theme) {
@@ -117,6 +142,111 @@ function persistFavorites() {
 
 function isFavoriteSong(songId) {
   return state.favoriteSongIds.has(songId);
+}
+
+function normalizeList(value) {
+  if (Array.isArray(value)) {
+    return value.map((item) => String(item || "").trim()).filter(Boolean);
+  }
+
+  if (typeof value === "string") {
+    return value.split(",").map((item) => item.trim()).filter(Boolean);
+  }
+
+  return [];
+}
+
+function splitPeopleInput(value) {
+  return normalizeList(value);
+}
+
+function getInferredComposer(song) {
+  const prefix = String(song.relative_path || "").split("/")[0].toLowerCase();
+  return COMPOSER_PATH_PREFIXES[prefix] || "";
+}
+
+function getSongComposers(song) {
+  const composers = normalizeList(song.composer || song.composers);
+  const inferredComposer = getInferredComposer(song);
+
+  if (inferredComposer && !composers.some((name) => normalizeText(name) === normalizeText(inferredComposer))) {
+    composers.push(inferredComposer);
+  }
+
+  return composers;
+}
+
+function getSongSingers(song) {
+  return normalizeList(song.singers || song.singer);
+}
+
+function formatPeopleList(label, people) {
+  return people.length ? `${label}: ${people.join(", ")}` : "";
+}
+
+function getSongPeopleText(song) {
+  return [
+    formatPeopleList("Composer", getSongComposers(song)),
+    formatPeopleList("Singers", getSongSingers(song)),
+  ].filter(Boolean).join(" · ");
+}
+
+function getSongInfoRows(song) {
+  const rows = [];
+  const composers = getSongComposers(song);
+  const singers = getSongSingers(song);
+
+  if (composers.length) {
+    rows.push(["Composer", composers.join(", ")]);
+  }
+
+  if (singers.length) {
+    rows.push(["Singers", singers.join(", ")]);
+  }
+
+  return rows;
+}
+
+function closeSongInfoPanel() {
+  elements.songInfoPanel.classList.add("hidden");
+  elements.songInfoButton.setAttribute("aria-expanded", "false");
+}
+
+function renderSongInfo(song) {
+  const rows = getSongInfoRows(song);
+  elements.songInfoButton.classList.toggle("hidden", rows.length === 0);
+  elements.songInfoList.innerHTML = rows.map(([label, value]) => `
+    <div class="song-info-row">
+      <dt>${escapeHtml(label)}</dt>
+      <dd>${escapeHtml(value)}</dd>
+    </div>
+  `).join("");
+
+  if (rows.length === 0) {
+    closeSongInfoPanel();
+  }
+}
+
+function toggleSongInfoPanel() {
+  const shouldOpen = elements.songInfoPanel.classList.contains("hidden");
+  elements.songInfoPanel.classList.toggle("hidden", !shouldOpen);
+  elements.songInfoButton.setAttribute("aria-expanded", shouldOpen.toString());
+}
+
+function songMatchesPersonFilter(song, filterValue) {
+  if (!filterValue) {
+    return true;
+  }
+
+  const filter = PEOPLE_FILTERS[filterValue];
+  if (!filter) {
+    return true;
+  }
+
+  const people = filter.role === "composer" ? getSongComposers(song) : getSongSingers(song);
+  const target = normalizeText(filter.name);
+
+  return people.some((person) => normalizeText(person) === target);
 }
 
 function updateFavoriteUi() {
@@ -316,7 +446,7 @@ async function searchTypesense(rawQuery) {
   url.searchParams.set("per_page", config.perPage.toString());
   url.searchParams.set(
     "include_fields",
-    "id,slug,title,film_name,full_notes,raw_text,source_url,relative_path,content_type"
+    "id,slug,title,film_name,composer,composers,singer,singers,full_notes,raw_text,source_url,relative_path,content_type"
   );
 
   const response = await fetch(url.toString(), {
@@ -342,6 +472,7 @@ function songSearchBlob(song) {
   return [
     song.title,
     song.film_name,
+    getSongPeopleText(song),
     song.full_notes,
     song.raw_text,
     song.relative_path,
@@ -353,21 +484,20 @@ function songSearchBlob(song) {
 function sortSongs(songs, sortValue) {
   const sorted = [...songs];
   const compareText = (a, b, key) => normalizeText(a[key]).localeCompare(normalizeText(b[key]));
-  const compareFavorites = (a, b) => Number(isFavoriteSong(b.id)) - Number(isFavoriteSong(a.id));
 
   switch (sortValue) {
     case "title-desc":
-      sorted.sort((a, b) => compareFavorites(a, b) || compareText(b, a, "title") || compareText(b, a, "film_name"));
+      sorted.sort((a, b) => compareText(b, a, "title") || compareText(b, a, "film_name"));
       break;
     case "film-asc":
-      sorted.sort((a, b) => compareFavorites(a, b) || compareText(a, b, "film_name") || compareText(a, b, "title"));
+      sorted.sort((a, b) => compareText(a, b, "film_name") || compareText(a, b, "title"));
       break;
     case "film-desc":
-      sorted.sort((a, b) => compareFavorites(a, b) || compareText(b, a, "film_name") || compareText(b, a, "title"));
+      sorted.sort((a, b) => compareText(b, a, "film_name") || compareText(b, a, "title"));
       break;
     case "title-asc":
     default:
-      sorted.sort((a, b) => compareFavorites(a, b) || compareText(a, b, "title") || compareText(a, b, "film_name"));
+      sorted.sort((a, b) => compareText(a, b, "title") || compareText(a, b, "film_name"));
       break;
   }
 
@@ -454,10 +584,14 @@ function selectSong(songId, options = {}) {
   const splitNotes = splitNotesForDisplay(notesText);
   elements.songTitle.textContent = toTitleCase(song.title) || "Untitled Song";
   elements.filmName.textContent = toTitleCase(song.film_name) || "Unknown Film";
+  closeSongInfoPanel();
+  renderSongInfo(song);
   elements.notesContent.textContent = splitNotes.primary;
   elements.notesContentSecondary.textContent = splitNotes.secondary;
   elements.editTitleInput.value = toTitleCase(song.title) || "";
   elements.editFilmInput.value = toTitleCase(song.film_name) || "";
+  elements.editComposerInput.value = getSongComposers(song).join(", ");
+  elements.editSingersInput.value = getSongSingers(song).join(", ");
   elements.editSourceUrlInput.value = song.source_url || "";
   elements.editNotesInput.value = notesText;
   const useSecondaryPane = splitNotes.useSecondary && !isMobileLayout() && !state.isEditing;
@@ -479,6 +613,7 @@ async function applyFilters() {
   const query = normalizeText(elements.searchInput.value.trim());
   const rawQuery = elements.searchInput.value.trim();
   const sortValue = elements.sortSelect.value;
+  const personFilterValue = elements.personFilterSelect.value;
 
   let songs = state.allSongs;
   if (query) {
@@ -500,6 +635,10 @@ async function applyFilters() {
 
   if (state.showFavoritesOnly) {
     songs = songs.filter((song) => isFavoriteSong(song.id));
+  }
+
+  if (personFilterValue) {
+    songs = songs.filter((song) => songMatchesPersonFilter(song, personFilterValue));
   }
 
   if (requestId !== state.searchRequestId) {
@@ -625,6 +764,8 @@ function cancelEdit() {
 function saveCurrentSong() {
   const title = toTitleCase(elements.editTitleInput.value.trim());
   const film = toTitleCase(elements.editFilmInput.value.trim());
+  const composers = splitPeopleInput(elements.editComposerInput.value);
+  const singers = splitPeopleInput(elements.editSingersInput.value);
   const sourceUrl = elements.editSourceUrlInput.value.trim();
   const notes = elements.editNotesInput.value.trim();
 
@@ -640,6 +781,8 @@ function saveCurrentSong() {
 
   current.title = title;
   current.film_name = film;
+  current.composer = composers;
+  current.singers = singers;
   current.source_url = sourceUrl;
   current.full_notes = notes;
   current.raw_text = notes;
@@ -662,6 +805,8 @@ function addNewSong() {
     slug: slugify(title),
     title,
     film_name: "",
+    composer: [],
+    singers: [],
     full_notes: "",
     raw_text: "",
     source_url: "",
@@ -739,6 +884,7 @@ function syncResponsiveLayout() {
 
 elements.searchInput.addEventListener("input", resetListAndApplyFilters);
 elements.sortSelect.addEventListener("change", resetListAndApplyFilters);
+elements.personFilterSelect.addEventListener("change", resetListAndApplyFilters);
 elements.fileInput.addEventListener("change", async (event) => {
   const file = event.target.files?.[0];
   if (!file) {
@@ -760,6 +906,8 @@ elements.exportLibraryButton.addEventListener("click", exportSongs);
 elements.addSongButton.addEventListener("click", addNewSong);
 elements.favoriteFilterButton.addEventListener("click", toggleFavoritesFilter);
 elements.favoriteSongButton.addEventListener("click", toggleSelectedSongFavorite);
+elements.songInfoButton.addEventListener("click", toggleSongInfoPanel);
+elements.songInfoCloseButton.addEventListener("click", closeSongInfoPanel);
 elements.themeToggleButton.addEventListener("click", toggleTheme);
 elements.mobileBackButton.addEventListener("click", () => setMobileView("list"));
 

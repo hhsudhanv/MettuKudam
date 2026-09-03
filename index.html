@@ -11,7 +11,7 @@
   <link rel="icon" type="image/png" href="assets/DarkTheme_Mettukdam_Logo_v2.png">
   <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="stylesheet" href="styles.css?v=20260903-favorites">
+  <link rel="stylesheet" href="styles.css?v=20260903-favorite-icon-size">
 </head>
 <body>
   <div class="app-shell">
@@ -47,9 +47,25 @@
         </select>
       </label>
 
-      <button id="favoriteFilterButton" type="button" class="icon-button favorite-filter-button" aria-label="Show favorite songs" title="Show favorite songs" aria-pressed="false">
-        <span aria-hidden="true">&#9734;</span>
-      </button>
+      <label class="people-field">
+        <span class="field-label">People</span>
+        <select id="personFilterSelect">
+          <option value="">All people</option>
+          <option value="composer:Ilaiyaraaja">Ilaiyaraaja</option>
+          <option value="composer:A. R. Rahman">A. R. Rahman</option>
+          <option value="singer:S. P. Balasubrahmanyam">SPB</option>
+          <option value="singer:S. Janaki">Janaki</option>
+          <option value="singer:K. S. Chithra">Chithra</option>
+          <option value="singer:K. J. Yesudas">Yesudas</option>
+        </select>
+      </label>
+
+      <div class="favorite-filter-field">
+        <span class="field-label">Favorites</span>
+        <button id="favoriteFilterButton" type="button" class="favorite-filter-button" aria-label="Show favorite songs" title="Show favorite songs" aria-pressed="false">
+          <span aria-hidden="true">&#9734;</span>
+        </button>
+      </div>
 
       <button id="addSongButton" type="button" class="action-button hidden">Add Song</button>
     </section>
@@ -75,6 +91,9 @@
         </div>
 
         <article id="readerPane" class="reader-pane hidden">
+          <button id="songInfoButton" type="button" class="icon-button song-info-button hidden" aria-label="Show song information" title="Show song information" aria-expanded="false">
+            <span aria-hidden="true">i</span>
+          </button>
           <button id="favoriteSongButton" type="button" class="icon-button favorite-song-button hidden" aria-label="Add song to favorites" title="Add song to favorites" aria-pressed="false">
             <span aria-hidden="true">&#9734;</span>
           </button>
@@ -103,6 +122,16 @@
             <pre id="notesContentSecondary" class="notes-block notes-block-secondary hidden"></pre>
           </div>
 
+          <aside id="songInfoPanel" class="song-info-panel hidden" aria-label="Song information">
+            <div class="song-info-panel-header">
+              <h3>Song Info</h3>
+              <button id="songInfoCloseButton" type="button" class="icon-button song-info-close-button" aria-label="Close song information" title="Close song information">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <dl id="songInfoList" class="song-info-list"></dl>
+          </aside>
+
           <form id="editForm" class="edit-form hidden">
             <div class="field-grid">
               <label class="field">
@@ -112,6 +141,14 @@
               <label class="field">
                 <span>Film</span>
                 <input id="editFilmInput" type="text">
+              </label>
+              <label class="field">
+                <span>Composer</span>
+                <input id="editComposerInput" type="text" placeholder="Ilaiyaraaja">
+              </label>
+              <label class="field">
+                <span>Singers</span>
+                <input id="editSingersInput" type="text" placeholder="SPB, S. Janaki">
               </label>
               <label class="field field-full">
                 <span>Source URL</span>
@@ -129,6 +166,6 @@
   </div>
 
   <script src="typesense.config.js"></script>
-  <script src="app.js?v=20260903-favorites"></script>
+  <script src="app.js?v=20260903-favorite-icon-size"></script>
 </body>
 </html>
